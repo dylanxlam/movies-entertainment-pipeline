@@ -1,0 +1,1258 @@
+filename,movie_name,sentiment,key_themes,named_entities,emotional_tone,star_rating
+1000_3.txt,N/A,Negative,Plot;Acting,N/A,Disappointment,N/A
+100_4.txt,N/A,Negative,Acting;Plot,Adrian Paul (Actor);,Disappointment,N/A
+104_1.txt,N/A,Negative,Plot;Acting;Cinematography,N/A,Frustration,N/A
+105_3.txt,The Forgotten (AKA: Don't Look In The Basement),Negative,Acting;Plot;Cinematography,N/A,Disappointment,N/A
+106_3.txt,Dr. Stevens,Negative,Plot;Acting;Cinematography,Micheal Harvey (Actor); Hugh Feagin (Actor); Camilla Carr (Actor); Gene Ross (Actor); Rosie Holotik (Actor); Annabelle Weenick (Actor); Rhea MacAdams (Actor); S.f. Brownrigg (Director); Tim Pope (Writer),Frustration,N/A
+119_3.txt,N/A,Negative,Acting;Plot;N/A,Jean-Claude Van Damme (Actor); Isaac Florentine (Director); N/A,Disappointment,N/A
+11_3.txt,Darling Lili,Negative,Acting;Plot;Soundtrack,Julie Andrews (Actor); Blake Edwards (Director); Rock Hudson (Actor); William Peter Blatty (Writer),Disappointment,1
+120_2.txt,N/A,Negative,Plot;Acting;Cinematography,Jean-Claude Van Damme (Actor); Scott Adkins (Actor),Disappointment,N/A
+122_4.txt,The Shepherd : Border Patrol,Negative,Acting;Plot;Cinematography,Jean-Claude Van Damme (Actor); N/A (Director); N/A (Studio),Disappointment,N/A
+124_2.txt,The Shepherd,Negative,Acting;Plot;Cinematography,Jean Claude Van Damme (Actor); Stephen Lord (Actor); Isaac Florentine (Director),Disappointment,N/A
+126_4.txt,N/A,Neutral,Plot;Acting;N/A,Van Damme (Actor);N/A;N/A,Satisfaction,4
+139_4.txt,Sword in the Moon,Negative,Cinematography;Plot;Acting,Cho Jae Hyun (Actor); Choi (Actor); Shi Yeong (Actor),Disappointment,N/A
+13_1.txt,N/A,Negative,Plot;Acting,Julie; Blake; Rock,Frustration,N/A
+140_2.txt,Black Emanuelle,Negative,Cinematography;Acting;Plot,Laura Gemser (Actor); Karin Schubert (Actor); Albert Thomas (Director),Disappointment,N/A
+141_1.txt,N/A,Negative,Acting;Plot;Soundtrack,Gemser (Actor);Warner? (Studio),Disappointment,N/A
+143_4.txt,Gen-Y Cops The Next Generation,Negative,Plot;Acting;Special Effects,Paul Rudd (Actor); N/A; N/A,Disappointment,4
+145_1.txt,N/A,Negative,Acting;Plot,Edison Chen (Actor),Frustration,N/A
+158_1.txt,N/A,Negative,Acting;Plot,Jane Fonda (Actor);,Frustration,N/A
+15_2.txt,Fire,Negative,Acting;Plot;Cinematography,Deepa Mehta (Director); Nandita Das (Actor); Shabana Azmi (Actor),Disappointment,N/A
+161_3.txt,The Edge of Love,Negative,Cinematography;Acting;Plot,Keira Knightley (Actor); Sienna Miller (Actor); John Maybury (Director); N/A,Frustration,N/A
+163_1.txt,N/A,Negative,Plot;Acting,Keira Knightley (Actor); Cillian Murphy (Actor),Frustration,N/A
+165_4.txt,N/A,Negative,Plot;Acting;N/A,Keira Knightley (Actor); Dylan Thomas (Actor),Frustration,N/A
+167_2.txt,N/A,Negative,Acting;Plot;Cinematography,N/A,Frustration,N/A
+178_2.txt,Mondovino,Negative,Cinematography;Plot,N/A,Frustration,2/10
+17_3.txt,Thirst,Negative,Plot;Acting;Cinematography,Park Chan-wook (Director); Song Kang-ho (Actor); Kim Ok-vin (Actor),Disappointment,N/A
+183_4.txt,Aab Tak Chhappan,Negative,Plot;Acting,Daya Nayak (Actor); Ram Gopal Varma (Director),Frustration,N/A
+185_4.txt,N/A,Negative,Acting;Plot;Fighting,Mathias Hues (Actor),Frustration,N/A
+187_1.txt,The Last Crusade,Negative,Acting;Plot;N/A,Sean Connery (Actor); Harrison Ford (Actor); Steven Spielberg (Director),Frustration,N/A
+201_2.txt,N/A,Negative,Acting;Plot;Production,Flex (Actor); Tangi (Actor),Frustration,N/A
+202_4.txt,N/A,Negative,Acting;Plot;Cinematography,Matt Damon (Actor); Lawrence Fishbourne (Actor); Jean Reno (Actor),Disappointment,N/A
+203_3.txt,Armored,Negative,Plot;Acting;N/A,Columbus Short (Actor); Matt Dillon (Actor); Jean Reno (Actor); Laurence Fishburne (Actor); N/A,Disappointment,N/A
+207_3.txt,N/A,Negative,Soundtrack;Acting;Plot,Matt Dillon (Actor); N/A (Director); N/A (Studio),Frustration,N/A
+218_3.txt,N/A,Negative,Acting;Plot,Laurence Fishbourne (Actor); Columbus Short (Actor); Milo Ventimiglia (Actor),Disappointment,N/A
+223_3.txt,Armored,Negative,Plot;Acting,Columbus Short (Actor); Matt Dillon (Actor); Lawrence Fishbourne (Actor); Jean Reno (Actor); James V. Simpson (Screenwriter),Frustration,3/10
+225_3.txt,Fool for Love,Negative,Acting;Soundtrack;Plot,Sam Shepard (Actor); Robert Altman (Director); N/A,Disappointment,N/A
+227_1.txt,N/A,Negative,Acting;Plot;Cinematography,Bruce Willis (Actor); N/A (Director); N/A (Studio),Frustration,N/A
+238_1.txt,The Robot vs. the Aztec Mummy,Negative,Plot;Acting,N/A,Frustration,N/A
+239_2.txt,N/A,Negative,Plot;Acting,MST3K (Show); Captain Cody (Character),Disappointment,N/A
+240_4.txt,N/A,Positive,Plot;Acting,N/A,Nostalgia,N/A
+242_3.txt,The Mummy,Positive,Plot;Acting;Dialogue,N/A,Frustration,N/A
+244_2.txt,N/A,Negative,Plot;Acting;Cinematography,Luis Aceves Castaneda (Actor); Rafael Portillo (Director); Alfredo Salazar (Writer); Guillermo Calderon (Writer),Disappointment,N/A
+246_2.txt,Android vs. the Aztec Mummy,Negative,Plot;Cinematography,N/A,Frustration,N/A
+258_1.txt,The Wedding Singer Remake,Negative,Plot;Acting,Adam Sandler (Actor); Drew Barrymore (Actor); N/A,Frustration,N/A
+259_2.txt,Aa Meri Life Bana De,Negative,Acting;Plot;Soundtrack,Salman Khan (Actor); Rani Mukerji (Actor); Pooja Batra (Actor); Jackie Shroff (Actor); Kashmira Shah (Actor); Raveena Tandon (Actor); Mohnish Behl (Actor),Frustration,N/A
+260_1.txt,Bandhan,Negative,Acting;Plot;Soundtrack,Salman Khan (Actor); Jackie Shroff (Actor); Rani Mukherjee (Actor); Pooja Bhatra (Actor); Kashmira Shah (Actor); Mohinish Behl (Actor); Inder Kumar (Actor); Shakti Kapoor (Actor); K Murli Mohan Rao (Director),Disappointment,N/A
+262_1.txt,N/A,Negative,Acting;Plot;Soundtrack,Larry Miller (Actor);N/A;N/A,Frustration,N/A
+264_1.txt,Mishima: A Life in Four Chapters,Negative,Acting;Plot;Soundtrack,Paul Schrader (Director); Philip Glass (Composer); Yukio Mishima (Actor),Frustration,N/A
+266_4.txt,Oceans 12,Negative,Acting;Plot;Cinematography,Brad Pitt (Actor); Catherine Zeta-Jones (Actor); George Clooney (Actor); Matt Damon (Actor); Steven Soderbergh (Director),Disappointment,4/10
+267_1.txt,Ocean's Twelve,Negative,Plot;Acting,N/A,Frustration,N/A
+279_1.txt,Ocean's 12,Negative,Acting;Plot;Cinematography,Julia Roberts (Actor); Catherine Zeta-Jones (Actor); Matt Damon (Actor); George Clooney (Actor); Brad Pitt (Actor); Bruce Willis (Actor),Frustration,N/A
+280_1.txt,Ocean's 12,Negative,Acting;Plot;Cinematography,Matt Damon (Actor); Brad Pitt (Actor); George Clooney (Actor); Steven Soderbergh (Director); Warner Bros (Studio),Frustration,N/A
+284_2.txt,N/A,Negative,Cinematography;Acting;Plot,Julia Roberts (Actor); Catherine Zeta Jones (Actor); George Clooney (Actor); Brad Pitt (Actor),Frustration,N/A
+286_1.txt,Ocean's Twelve,Negative,Plot;Acting,George Clooney (Actor); Brad Pitt (Actor); Julia Roberts (Actor); Andy Garcia (Actor); Bernie Mac (Actor); Catherine Zeta-Jones (Actor); Steven Soderbergh (Director); Warner Bros (Studio),Disappointment,1/10
+28_3.txt,N/A,Negative,Acting;Plot;Soundtrack,Rita Hayworth (Actor); Gene Kelly (Actor); Phil Silvers (Actor); Eve Arden (Actor),Disappointment,1
+299_1.txt,Hoods,Negative,Acting;Plot;N/A,Joe Mantegna (Actor); Kevin Pollack (Actor); Joe Pantoliano (Actor); Jennifer Tilly (Actor); Seymour Cassel (Actor); Mark Malone (Writer/Director); Arthur Penn (Director); Seville (Studio),Disappointment,N/A
+300_1.txt,Dahmer,Negative,Acting;Plot;N/A,Carl Crew (Actor); N/A; N/A,Disappointment,1/10
+301_4.txt,Dahmer - Monster: The Jeffrey Dahmer Story,Negative,Acting;Plot;N/A,N/A,Frustration,4/10
+302_3.txt,The Secret Life: Jeffrey Dahmer,Negative,Acting;Plot;N/A,Carl Crew (Actor); N/A; N/A,Disappointment,N/A
+303_2.txt,N/A,Neutral,Acting;Plot;Cinematography,N/A,Disappointment,N/A
+305_2.txt,N/A,Negative,Plot;Acting,N/A,Disappointment,N/A
+307_1.txt,N/A,Negative,Plot;Acting,N/A,Disappointment,N/A
+318_3.txt,N/A,Neutral,Acting;Plot;Special Effects,Linnea Quigley (Actor),Nostalgia,3/10
+321_1.txt,Please provide me with the IMDb movie review data you'd like me to analyze. I'm ready to extract the information you need in the correct CSV format.,N/A,N/A,N/A,N/A,N/A
+323_2.txt,Jack-O,Negative,Plot;Acting;N/A,Linnea Quigley (Actor); John Carradine (Actor); Cameron Mitchell (Actor); Brinke Stevens (Actor); Retromedia (Studio),Frustration,N/A
+325_1.txt,N/A,Negative,Acting;Plot,N/A,Frustration,1
+338_1.txt,N/A,Negative,Cinematography;Acting;Plot,N/A,Frustration,N/A
+33_3.txt,Jacqueline Hyde,Negative,Acting;Plot;N/A,Jacqueline Hyde (Actor);N/A;N/A,Disappointment,N/A
+340_2.txt,N/A,Negative,Plot;Acting;Cinematography,N/A,Frustration,N/A
+342_1.txt,N/A,Negative,Acting;Plot;Cinematography,N/A,Disappointment,N/A
+344_4.txt,N/A,Negative,Plot;Special Effects,N/A,Disappointment,N/A
+345_3.txt,N/A,Neutral,Cinematography;Acting;Plot,N/A,Disappointment,N/A
+346_2.txt,N/A,Positive,Acting;Plot,N/A,Frustration,N/A
+347_1.txt,Screamers,Negative,Plot,N/A,Frustration,N/A
+34_1.txt,Jacqueline Hyde,Negative,Cinematography;Acting;Plot,"Gabriella Hall (Co-Producer); Robert Donovan (Actor); Malcolm Bennett (Actor); Blythe Metz (Actor); Rolfe Kanefsky (Writer, Co-Producer, Director)",Frustration,N/A
+358_4.txt,Class Warfare,Negative,Acting;Plot,Lindsey McKeon (Actor); Robin Dunne (Actor); Wade Carpenter (Actor); Dave McGowan (Actor),Disappointment,4/10
+359_4.txt,The Man with the Golden Arm,Negative,Plot;Acting;Soundtrack,Frank Sinatra (Actor); Eliot Elisofon (Director); 20th Century Fox (Studio),Frustration,N/A
+362_2.txt,N/A,Negative,Plot;Acting,N/A,Disappointment,N/A
+364_1.txt,N/A,Negative,Acting;Plot;Cinematography,C Thomas Howell (Actor); N/A (Director); N/A (Studio),Frustration,1/10
+366_1.txt,N/A,Negative,Acting;Plot;Costumes,Roddy Piper (Actor); David Carradine (Actor); N/A,Frustration,N/A
+36_3.txt,Black Voodoo,Negative,Plot;Acting;N/A,N/A,Disappointment,N/A
+379_1.txt,Beastmaster 2: Through the Portal of Time,Negative,Plot;Acting,Marc Singer (Actor);  (Director); N/A,Disappointment,N/A
+37_1.txt,Hospital Of Terror,Negative,Acting;Plot;Cinematography,N/A,Frustration,N/A
+380_2.txt,Masters of the Universe,Negative,Acting;Plot;N/A,Robert Z'Dar (Actor); Marc Singer (Actor); N/A,Disappointment,N/A
+384_4.txt,Cat in the Brain,Negative,Plot;Acting;Gore,Lucio Fulci (Director); David L. Thompson (Actor),Disappointment,N/A
+387_1.txt,Closet Land,Negative,Acting;Plot,Alan Rickman (Actor); Jennifer Jason Leigh (Actor); Peter Greenaway (Director); Miramax Films (Studio),Frustration,N/A
+399_1.txt,N/A,Negative,Plot;Acting,N/A,Frustration,N/A
+410_2.txt,Angels and Demons,Negative,Acting;Plot;Cinematography,Tom Hanks (Actor); Ron Howard (Director); Columbia Pictures (Studio); Imagine Entertainment (Studio),Frustration,N/A
+413_4.txt,Angels & Demons,Negative,Acting;Plot,Tom Hanks (Actor); Ewan McGregor (Actor); Ayelet Zurer (Actor); Camren Argenziano (Actor); Ron Howard (Director); Nikolaj Lie Kaas (Actor); Pierfrancesco Favino (Actor),Disappointment,4/10
+415_1.txt,Angels & Demons,Negative,Plot;Acting;N/A,Ron Howard (Director); Tom Hanks (Actor); Ewan McGregor (Actor); Ayelet Zurer (Actor);  Columbia Pictures (Studio),Frustration,N/A
+417_1.txt,Angels and Demons,Negative,Plot;Cinematography;Soundtrack,N/A,Frustration,N/A
+428_3.txt,An American Werewolf in Paris,Negative,Cinematography;Acting;Plot,N/A,Disappointment,N/A
+430_4.txt,An American Werewolf in London (1997),Negative,Plot;Acting;FX,David Naughton (Actor); John Landis (Director); Universal Pictures (Studio),Disappointment,N/A
+431_2.txt,An American Werewolf in Paris,Negative,Plot;Acting;Cinematography,Thomas Everett Scott (Actor); Julie Delpy (Actor);  John Landis (Director); Universal Pictures (Studio),Disappointment,N/A
+433_1.txt,N/A,Negative,Acting;Plot,Cory Feldman (Actor); Shades (Actor),Frustration,N/A
+435_1.txt,American Werewolf in Paris,Negative,Acting;Plot;Special Effects,N/A,Disappointment,N/A
+437_2.txt,AWiP,Negative,Acting;Plot;Special Effects,N/A,Frustration,N/A
+449_3.txt,Larry King Live,Negative,N/A,Larry King (Actor); Bill Maher (Actor); Dr. Phil (Actor); Billy Graham (Actor); O.J. Simpson (Actor); Anna Nicole Smith (Actor); Paris Hilton (Actor); Britney Spears (Actor),Frustration,N/A
+450_2.txt,Larry King Live,Negative,Acting;Plot,Larry King (Actor); CNN (Studio),Frustration,N/A
+452_2.txt,Rose,Negative,Plot;Acting;Pacing,N/A,Frustration,N/A
+452_2.txt,The End of the World,Negative,Plot;Pacing,N/A,Frustration,N/A
+452_2.txt,The Unquiet Dead,Negative,Plot;Acting,N/A,Frustration,N/A
+452_2.txt,Aliens of London/World War Three,Negative,Plot;Acting;Pacing,Penelope Wilton (Actor),Frustration,N/A
+452_2.txt,Dalek,Negative,Plot;Acting;Pacing,N/A,Disappointment,N/A
+452_2.txt,The Long Game,Negative,Plot;Pacing,N/A,Frustration,N/A
+452_2.txt,Father's Day,Negative,Plot;Acting,N/A,Disappointment,N/A
+452_2.txt,The Empty Child/The Doctor Dances,Neutral,Plot;Acting;Pacing,Florence Hoath (Actor),Frustration,N/A
+452_2.txt,Boom Town,Negative,N/A,N/A,Disappointment,N/A
+452_2.txt,Bad Wolf,Negative,Plot;Pacing,N/A,Disappointment,N/A
+452_2.txt,The Parting of the Ways,Negative,Plot;Acting;Pacing,N/A,Disappointment,N/A
+454_1.txt,The One,Negative,Plot;Acting;N/A,Andre Harrell (Music Expert); Kate Hudson (Music Expert); George Stroumboulopoulos (Host); Paula Abdul (Music Expert),Frustration,N/A
+468_1.txt,Darwin,Negative,Plot;Acting;N/A,N/A,Frustration,N/A
+470_4.txt,Creation,Negative,Plot;Acting;N/A,Paul Bettany (Actor); Jennifer Connelly (Actor); Jonathan Kent (Director),Frustration,N/A
+472_4.txt,Man with the Screaming Brain,Negative,Plot;Acting;Direction,Bruce Campbell (Actor); Bruce Campbell (Director); Ted Raimi (Actor),Disappointment,N/A
+473_1.txt,Bubba Ho-Tep,Negative,Plot;Acting;Cinematography,Bruce Campbell (Actor);Ted Raimi (Director);N/A,Frustration,N/A
+474_4.txt,Running Time,Negative,Acting;Cinematography;Plot,Bruce Campbell (Actor); Ted Raimi (Actor); N/A,Disappointment,N/A
+476_1.txt,The Man With The Screaming Brain,Negative,Acting;Plot,Bruce Campbell (Actor); Ted Raimi (Actor); Stacy Keach (Actor),Disappointment,3
+488_4.txt,Del Lord's Last Stand,Negative,Plot;Acting,Del Lord (Director); Shemp Howard (Actor); Jules White (Director); Moe Howard (Actor); Larry Fine (Actor),Disappointment,N/A
+489_1.txt,Drawn By Pain,Negative,Acting;Cinematography;Plot,Jesse (Director); N/A; N/A,Frustration,N/A
+490_2.txt,N/A,Negative,Soundtrack;Acting,Bon Jovi;Mötley Crue,Disappointment,N/A
+492_1.txt,N/A,Negative,Plot;Acting,N/A,Frustration,N/A
+496_3.txt,9 Souls,Negative,Cinematography;Plot;Acting,N/A,Disappointment,N/A
+49_4.txt,Frightmare,Negative,Plot;Acting;Cinematography,Jeffrey Combs (Actor); N/A (Director); N/A (Studio),Disappointment,N/A
+508_4.txt,Heaven's Gate,Negative,Cinematography;Acting;Plot,Stephen Bach (Producer); Michael Cimino (Director); Clint Eastwood (Actor); Jeff Bridges (Actor); Kris Kristofferson (Actor); John Hurt (Actor); Asa Mercer (Author),Frustration,N/A
+50_3.txt,N/A,Negative,Plot;Acting,N/A,Disappointment,N/A
+511_3.txt,N/A,Negative,Plot;Acting;Cinematography,N/A,Frustration,N/A
+513_1.txt,Night Hunter,Negative,Acting;Cinematography;Plot,Don Wilson (Actor); Melanie Smith (Actor); Roger Corman (Director),Disappointment,1
+515_1.txt,N/A,Negative,Plot;Acting,N/A,Disappointment,N/A
+51_4.txt,Frightmare,Negative,Acting;Plot;Cinematography,Jeffrey Combs (Actor); Nita Talbot (Actor); Ferdy Mayne (Actor); Christopher Lee (Actor); Porky (Actor),Disappointment,N/A
+528_1.txt,N/A,Negative,Plot;Acting;Soundtrack,N/A,Frustration,N/A
+52_4.txt,Conrad Radzoff,Negative,Plot;Acting;Soundtrack,Ferdy Mayne (Actor); Jeffrey Combs (Actor); Troma (Studio),Frustration,N/A
+532_3.txt,The Time Machine (2002),Negative,Acting;Plot;N/A,Angelina Jolie (Actor); Jack Palance (Actor); Simon Wells (Director); DreamWorks SKG (Studio),Frustration,N/A
+535_4.txt,Stranded at Third,Negative,Acting;Plot,Tom Selleck (Actor); N/A (Director); N/A (Studio),Disappointment,N/A
+537_2.txt,N/A,Negative,Plot;Animation,N/A,Frustration,N/A
+53_4.txt,Horror Star,Negative,Plot;Acting;Cinematography,Conrad Radzoff (Actor); Jeffrey Combs (Actor); Ferdy Mayne (Actor); Norman Thaddeus Vane (Director),Disappointment,N/A
+54_3.txt,Frightmare,Neutral,Acting;Plot;Soundtrack,Ferdinand Mayne (Actor); Jeffrey Combs (Actor); Troma (Studio),Nostalgia,N/A
+552_2.txt,The Karate Kid,Negative,Acting;Plot,Ralph Macchio (Actor),Frustration,N/A
+554_4.txt,The Next Karate Kid,Negative,Plot,Ralph Macchio (Actor); Hilary Swank (Actor); Pat Morita (Actor); Robert Mark Kamen (Director); Columbia Pictures (Studio),Disappointment,N/A
+556_1.txt,The Karate Kid (2010),Negative,Acting;Plot,Hillary Swank (Actor); Pat Morita (Actor),Frustration,N/A
+557_4.txt,The Next Karate Kid,Neutral,Acting;Plot,Pat Morita (Actor),Disappointment,N/A
+563_4.txt,The Eyes of Alexander,Negative,Plot;Acting;Cinematography,Olivia Hussey (Actor); N/A (Director); N/A (Studio),Disappointment,N/A
+569_4.txt,N/A,Negative,Acting;Plot;Cinematography,Ellen DeGeneres (Actor); N/A,Disappointment,N/A
+56_3.txt,When Bad Writing Happens To Good Actors,Negative,Acting;Plot,Andre Braugher (Actor); David Morse (Actor); N/A,Disappointment,N/A
+570_1.txt,N/A,Negative,Plot;Acting,N/A,Frustration,N/A
+572_3.txt,N/A,Negative,Acting;Plot,Blythe Danner (Actor); Susan Sarandon (Actor); Kate Capshaw (Actor),Frustration,N/A
+574_4.txt,"Love Letter, The",Negative,Acting;Plot,Tom Selleck (Actor); Alice Drummond (Actor); N/A,Disappointment,N/A
+576_4.txt,N/A,Negative,Plot;Acting;Pacing,N/A,Frustration,N/A
+577_3.txt,N/A,Negative,Acting;Plot,Ellen Degeneres (Actor); Tom Selleck (Actor); Kate Capshaw (Actor); Everett (Actor),Disappointment,N/A
+590_1.txt,2001: A Space Odyssey,Negative,Plot;Cinematography;Acting,Stanley Kubrick (Director); Keir Dullea (Actor); Gary Lockwood (Actor); Arthur C. Clarke (Writer); MGM (Studio),Frustration,N/A
+592_3.txt,N/A,Neutral,Plot;Acting;Cinematography,N/A,Frustration,N/A
+594_1.txt,N/A,Negative,Acting;Plot;Directing,N/A,Frustration,N/A
+596_1.txt,Evil Behind You,Negative,Acting;Plot;N/A,N/A,Frustration,N/A
+597_4.txt,N/A,Negative,Plot;Acting;Special Effects,N/A,Frustration,4 stars
+609_1.txt,King of Queens,Negative,Plot;Acting,Kevin James (Actor); Leah Remini (Actor);  (Director),Frustration,N/A
+610_1.txt,King of Queens,Negative,Acting;Plot,Kevin James (Actor); Leah Remini (Actor); Jerry Stiller (Actor),Frustration,N/A
+612_3.txt,The Karen Carpenter Story,Negative,Plot;Acting;Soundtrack,Karen Carpenter (Actor); Tom Burris (Actor); Agnes (Actor); Olive Newton-John (Actor); Phil Ramone (Actor); Itchy (Actor),Disappointment,N/A
+613_4.txt,The Karen Carpenter Story,Negative,Acting;Plot;Soundtrack,Cynthia Gibb (Actor); Agnes Carpenter (Actor); Richard Carpenter (Actor); Karen Carpenter (Actor),Disappointment,N/A
+629_4.txt,L'Auberge Espagnol,Negative,Plot;Acting;N/A,Cédric Klapisch (Director);N/A;N/A,Disappointment,N/A
+633_1.txt,N/A,Negative,Cinematography;Acting;Plot,N/A,Frustration,N/A
+634_1.txt,N/A,Negative,Plot;Acting;Special Effects,Diamond Phillips (Actor),Frustration,N/A
+636_1.txt,N/A,Negative,Acting;Plot;Cinematography,Lou Diamond Phillips (Actor),Disappointment,N/A
+651_1.txt,N/A,Negative,Plot;Acting,N/A,Nostalgia,N/A
+655_3.txt,Nurse Betty,Negative,Acting;Plot,Morgan Freeman (Actor); Chris Rock (Actor); Renee Zellweger (Actor); Greg Kinnear (Actor),Disappointment,3/10
+656_4.txt,N/A,Negative,Acting;Plot,Morgan Freeman (Actor); Chris Rock (Actor); Renée Zellweger (Actor); Greg Kinnear (Actor);,Frustration,N/A
+657_1.txt,N/A,Negative,Acting;Plot;Cinematography,N/A,Frustration,N/A
+668_4.txt,See No Evil,Neutral,Acting;Plot,Kane (Actor); WWE Films (Studio); Gregory Dark (Director),Satisfaction,N/A
+671_3.txt,The Egyptian,Negative,Acting;Plot,Mika Waltari (Author); Peter Ustinov (Actor); Marlon Brando (Actor),Frustration,N/A
+673_2.txt,N/A,Negative,N/A,N/A,Frustration,N/A
+674_3.txt,N/A,Negative,N/A,N/A,Frustration,N/A
+676_1.txt,America's Next Top Model,Negative,N/A,Tyra Banks (Actor); Jay Manuel (Actor),Frustration,N/A
+688_4.txt,The Caper of the Golden Bulls,Neutral,Plot;Acting,Edward G. Robinson (Actor); Robert Wagner (Actor); Raquel Welch (Actor); Vittorio De Sica (Actor); Lucio Fulci (Director); Victor Spinetti (Actor);,Nostalgia,N/A
+689_3.txt,N/A,Negative,Acting;Plot;Cinematography,Humphrey Bogart (Actor); N/A (Director); N/A (Studio),Frustration,N/A
+690_3.txt,King of the Underworld,Negative,Plot;Acting;N/A,Humphrey Bogart (Actor); Kay Francis (Actor); John Eldredge (Actor); James Stephenson (Actor); Leslie Howard (Actor); Jack Warner (Studio),Disappointment,N/A
+693_4.txt,Wrestlemania 2,Negative,Acting;Plot,Hulk Hogan (Actor);Andre The Giant (Actor);Randy Savage (Actor);British Bulldogs (Actor);Dream Team (Actor);Mr. T (Actor);Roddy Piper (Actor);Lou Albano (Actor);Ozzy Osbourne (Actor);Johnny Valiant (Actor);Tito Santana (Actor);JYD (Actor);Terry Funk (Actor);Jimmy Hart (Actor);Corporal Kirchner (Actor);Nikolai Volkoff (Actor);Classy Freddie Blassie (Actor);Fabulous Moolah (Actor);Velvet Mcintyre (Actor);Paul Orndorff (Actor);Magnificent Muraco (Actor);Mr.Fuji (Actor);George 'The Animal' Steele (Actor);Jake 'The Snake' Roberts (Actor);George Wells (Actor);The Hati Kid (Actor);Joe Frazier (Actor);Lou Duva (Actor);Bob Orton (Actor);William Perry (Actor);Bret Hart (Actor);Hercules Hernandez (Actor);Adrian Adonis (Actor);Uncle Elmer (Actor);King Kong Bundy (Actor),Disappointment,4/10
+694_4.txt,The Cell,Negative,Acting;Cinematography;Plot,Jennifer Lopez (Actor); Vincent D'Onofrio (Actor); Tarsem Singh (Director),Frustration,6/10
+695_4.txt,N/A,Negative,Acting;Plot;Cinematography,N/A,Frustration,4/10
+696_4.txt,The Silence of the Lambs,Negative,Plot,Anthony Hopkins (Actor); Jodie Foster (Actor); Jonathan Demme (Director); Orion Pictures (Studio),Frustration,N/A
+69_4.txt,Witchery,Negative,Gore Effects;Soundtrack;Acting,Linda Blair (Actor); David Hasselhof (Actor); N/A,Nostalgia,N/A
+709_4.txt,Atoll K,Negative,Plot;Acting;N/A,Stan Laurel (Actor); Oliver Hardy (Actor); N/A,Disappointment,N/A
+712_3.txt,Black Jack,Negative,Acting;Plot;Cinematography,Orson Welles (Director); Agnes Moorehead (Actor); Joseph Cotten (Actor); Suzanne Cloutier (Actor); Dalio (Actor),Disappointment,N/A
+713_1.txt,Fata Morgana,Negative,Cinematography,N/A,Disappointment,N/A
+714_4.txt,Fata Morgana,Negative,Cinematography,Werner Herzog (Director); N/A; N/A,Frustration,N/A
+716_2.txt,N/A,Negative,Acting;Plot,Diana Muldaur (Actor); Scott Baio (Actor),Disappointment,N/A
+729_1.txt,Gilmore Girls,Negative,Acting;Plot,Lorelei Gilmore (Actor); Rory Gilmore (Actor); Lauren Graham (Actor); Alexis Bledel (Actor); N/A,Frustration,N/A
+72_4.txt,Witchery,Neutral,Acting;Plot;Gore,David Hasselhoff (Actor); Linda Blair (Actor); Fabrizio Laurenti (Director); Joe D'Amato (Producer),Nostalgia,N/A
+730_1.txt,N/A,Negative,Acting;Plot,N/A,Frustration,N/A
+731_4.txt,F*ckland,Negative,Cinematography;Plot;Acting,N/A,Disappointment,N/A
+732_3.txt,N/A,Negative,Plot;Acting,N/A,Frustration,N/A
+734_1.txt,Northanger Abbey,Negative,Acting;Plot;N/A,N/A;N/A;BBC,Frustration,N/A
+736_2.txt,Northanger Abbey,Negative,Acting;Plot;N/A,N/A;N/A;N/A,Frustration,N/A
+737_1.txt,Northanger Abbey,Negative,Plot;Acting;Soundtrack,Jennifer Ehle (Actor); Douglas McGrath (Director); BBC Films (Studio),Frustration,N/A
+748_1.txt,Northanger Abbey,Negative,Soundtrack;Acting;Plot,Peter Firth (Actor); Amanda Root (Actor); Ciaran Hinds (Actor),Disappointment,N/A
+751_1.txt,N/A,Negative,Acting;Plot;Soundtrack,Robert Hardy (Actor); William Shatner (Actor),Disappointment,0/10
+753_2.txt,Northanger Abbey,Negative,Plot;Acting;N/A,Jane Austen (Author); Henry Tilney (Character),Frustration,N/A
+754_2.txt,Northanger Abbey,Negative,Plot;Acting;N/A,N/A,Frustration,N/A
+755_1.txt,N/A,Negative,Acting;Plot,N/A,Disappointment,N/A
+756_1.txt,N/A,Negative,Acting;Plot,Mario Van Peeples (Actor); Mario Van Peeples (Director); Spike Lee (Director),Frustration,N/A
+769_3.txt,Dumb is Right,Negative,Plot;Acting,Tom (Character); Jerry (Character); Amos and Andy (Character); Stepin Fetchit (Character),Disappointment,N/A
+76_4.txt,Blood Stalkers,Neutral,Plot;N/A;N/A,N/A,N/A,N/A
+771_4.txt,N/A,Neutral,Plot;Acting,N/A,Frustration,N/A
+772_1.txt,Sideshow,Negative,Acting;Plot;Cinematography,Abbot Graves (Actor); N/A (Director); N/A (Studio),Frustration,N/A
+773_1.txt,N/A,Negative,Acting;Plot;Directing,Phil Fondacaro (Actor); Fred Olen Ray (Director); Charles Band (Director); Full Moon (Studio),Disappointment,N/A
+774_4.txt,N/A,Negative,Acting;Plot,Jamie Martz (Actor),Disappointment,4
+775_1.txt,N/A,Negative,Acting;Plot,Ed Wood (Director),Frustration,N/A
+777_2.txt,Bruce Haack: The Inventor of Electronic Music,Negative,Cinematography;Soundtrack;Acting,Bruce Haack (Actor);N/A (Director);N/A (Studio),Disappointment,N/A
+788_1.txt,N/A,Negative,Acting;Plot,Cameron Diaz (Actor); James Marsden (Actor),Frustration,N/A
+791_4.txt,The Box,Negative,Plot;Acting;N/A,Cameron Diaz (Actor); James Marsden (Actor); Richard Kelly (Director),Frustration,N/A
+793_1.txt,N/A,Negative,Plot;Acting;N/A,N/A,Frustration,6.5/10
+794_1.txt,THE BOX (2009),Negative,Plot;Acting,Cameron Diaz (Actor); James Marsden (Actor); Frank Langella (Actor); James Rebhorn (Actor); Holmes Osborne (Actor); Sam Oz Stone (Actor); Celia Weston (Actor); Richard Kelly (Director),Disappointment,N/A
+800_3.txt,N/A,Negative,Plot,Richard Kelly (Director),Frustration,N/A
+802_1.txt,N/A,Negative,Acting;Plot;Cinematography,N/A,Frustration,N/A
+805_1.txt,N/A,Negative,Acting;Plot;Special Effects,Roger Corman (Director);,Disappointment,N/A
+806_1.txt,N/A,Negative,Acting;Plot,Robin Williams (Actor); N/A,Frustration,N/A
+807_3.txt,N/A,Negative,Acting;Plot,Arthur Hunnicutt (Actor),Disappointment,N/A
+819_1.txt,N/A,Negative,Acting;Plot,N/A,Frustration,N/A
+822_1.txt,Ali G Indahouse,Negative,Acting;Plot;N/A,Ali G (Actor); N/A; N/A,Frustration,1/10
+826_3.txt,Ali G Indahouse,Negative,Acting;Plot,Ali G (Actor); Charles Dance (Actor),Disappointment,N/A
+839_4.txt,N/A,Negative,Plot;Acting;Cinematography,Gilbert Roland (Actor); Eddie Burns (Actor); Christopher Lee (Actor),Disappointment,N/A
+842_1.txt,N/A,Negative,Plot;Acting;N/A,Tara Fitzgerald (Actor); Laura Fairly (Actor); N/A,Frustration,N/A
+843_1.txt,The Woman in White,Negative,Plot;Acting,N/A,Frustration,N/A
+845_2.txt,Captain Corelli's Mandolin,Negative,Cinematography;Acting;Plot,N/A,Frustration,N/A
+847_2.txt,N/A,Negative,Acting;Cinematography,Nicholas Cage (Actor); Penelope Cruz (Actor); John Hurt (Actor),Disappointment,N/A
+858_4.txt,The Duke,Neutral,Plot;Acting;Cinematography,John Neville (Actor); Oliver Muirhead (Actor); Sophie Heyman (Actor); Courtnee Draper (Actor); James Doohan (Actor); Phillip Spink (Director),Nostalgia,N/A
+859_1.txt,N/A,Negative,Acting;Plot,Michael Gross (Actor); David Hasselhoff (Actor); N/A,Disappointment,N/A
+860_4.txt,N/A,Negative,Plot;Animation,N/A,Disappointment,N/A
+863_4.txt,N/A,Negative,Acting;Plot;N/A,Kathy Bates (Actor);N/A;N/A,Disappointment,N/A
+864_2.txt,N/A,Negative,Acting;Plot;Cinematography,Carlos Salazar Herrera (Author);Oliver Stone (Director),Disappointment,N/A
+865_3.txt,Caribe,Negative,Plot;Acting,Esteban (Director);N/A;N/A,Frustration,N/A
+866_2.txt,N/A,Negative,Acting;Plot;Cinematography,Perrugorria (Actor); N/A (Director); N/A (Studio),Frustration,N/A
+878_2.txt,N/A,Negative,Acting;Plot;Setting,Richard Gere (Actor); Diane (Actor),Disappointment,N/A
+881_4.txt,N/A,Negative,Plot;Acting,Richard Gere (Actor); Diane Lane (Actor),Frustration,N/A
+882_2.txt,Nights in Rodanthe,Negative,Plot;Acting;N/A,Richard Gere (Actor); Diane Lane (Actor); Viola Davis (Actor); Nicholas Sparks (Writer),Frustration,N/A
+883_4.txt,N/A,Negative,Acting;Plot;Romance,Diane Lane (Actor); Richard Gere (Actor),Disappointment,N/A
+885_3.txt,Unfaithful,Negative,Plot;Acting;N/A,Richard Gere (Actor);Diane Lane (Actor);N/A,Disappointment,N/A
+887_2.txt,N/A,Positive,Plot,N/A,Nostalgia,N/A
+898_3.txt,Barnens O,Negative,Soundtrack;Plot;Acting,Jean Michel Jarre (Composer),Frustration,N/A
+89_3.txt,Artificial Melodrama,Negative,Acting;Plot;Cinematography,Ida Lupino (Actor); Robert Ryan (Actor); Harry Horner (Director); Mel Dinelli (Writer),Disappointment,1
+900_1.txt,N/A,Negative,Plot;Acting,Drew Barrymore (Actor),Frustration,N/A
+902_3.txt,Motorama,Negative,Plot;Acting,N/A,Frustration,N/A
+904_3.txt,Motorama,Negative,Plot;Acting,Joe Minion (Director); Cynthia King (Actor); N/A,Disappointment,N/A
+906_4.txt,Tim Burton's Fantasies,Negative,Cinematography;Acting,Tim Burton (Director),Frustration,N/A
+90_2.txt,N/A,Negative,Acting;Plot;N/A,Ida Lupino (Actor); Robert Ryan (Actor),Frustration,N/A
+91_4.txt,"Beware, My Lovely",Negative,Acting;Plot;Cinematography,Robert Ryan (Actor); Ida Lupino (Actor); Harry Horner (Director); Collier Young (Producer); Ida Lupino (Producer); The Filmmakers (Production Company); RKO Radio Pictures (Studio),Disappointment,4
+920_1.txt,N/A,Negative,Acting;Plot,Jeff Garlin (Actor); Sarah Silverman (Actor); Bonnie Hunt (Actor),Frustration,N/A
+922_3.txt,N/A,Negative,Acting;Plot;Soundtrack,N/A,Frustration,N/A
+924_4.txt,A Travesty,Negative,Acting;Plot,William H. Macy (Actor); Adam Arkin (Actor); James Cromwell (Actor); TNT (Studio),Disappointment,N/A
+926_4.txt,House of Wax,Negative,Cinematography;Acting;Plot,Elisha Cuthbert (Actor); Jaume Collet-Serra (Director); N/A,Frustration,N/A
+927_3.txt,House of Wax,Negative,Acting;Plot;Cinematography,Paris Hilton (Actor); Robert Ri'chard (Actor); Brian Van Holt (Actor); Jaume Collet-Serra (Director); Vincent Price (Actor); Lon Chaney (Actor),Disappointment,N/A
+92_1.txt,N/A,Negative,Acting;Soundtrack,Ice-T (Actor);,Frustration,1
+941_2.txt,N/A,Negative,Plot;Acting,N/A,Frustration,N/A
+943_3.txt,N/A,Negative,Plot;Acting,N/A,Disappointment,N/A
+945_2.txt,N/A,Negative,Plot;Acting;N/A,N/A,Frustration,N/A
+947_3.txt,My Giant,Negative,Acting;Plot;N/A,Billy Crystal (Actor); George C. Scott (Actor); Walt Disney Pictures (Studio),Disappointment,N/A
+94_2.txt,N/A,Negative,Acting;Plot;Cinematography,Ice-T (Actor); Corrupt (Actor),Disappointment,N/A
+958_4.txt,D.O.A.,Negative,Plot;Acting;Soundtrack,Dennis Quaid (Actor); Meg Ryan (Actor); David Greene (Director),Frustration,N/A
+963_2.txt,The Snow Queen,Negative,Plot;Acting;N/A,N/A,Frustration,N/A
+965_3.txt,The Snow Queen,Negative,Plot;Acting;Cinematography,Bridget Fonda (Actor); N/A; N/A,Disappointment,N/A
+967_2.txt,Showtime,Negative,Acting;Plot;N/A,Robert De Niro (Actor); Eddie Murphy (Actor); N/A,Disappointment,N/A
+96_1.txt,N/A,Negative,Acting;Cinematography;Plot,Bogdonovitch (Director),Frustration,N/A
+981_1.txt,The Swarm,Negative,Acting;Plot,N/A,Disappointment,N/A
+983_4.txt,Black Sabbath: The Last Supper,Negative,Soundtrack;Cinematography,Black Sabbath (Musician); Ozzy Osbourne (Actor); Jeb Brien (Director); Monica Hardiman (Director); Wyatt Smith (Editor),Frustration,N/A
+985_4.txt,The Buddy Holly Story,Negative,Acting;Plot;Soundtrack,Gary Busey (Actor); Don McDougall (Director);,Frustration,N/A
+987_4.txt,N/A,Negative,Plot;Acting;N/A,N/A,Frustration,N/A
+998_2.txt,N/A,Negative,Plot,N/A,Frustration,N/A
+9_4.txt,Darling Lili,Negative,Cinematography;Acting;Soundtrack,Julie Andrews (Actor); Rock Hudson (Actor); Blake Edwards (Director); Paramount Pictures (Studio),Frustration,N/A
+0_10.txt,The Guardian,Positive,Acting;Plot;Emotional Impact,Ashton Kutcher (Actor); Kevin Costner (Actor); N/A,Satisfaction,N/A
+1000_9.txt,N/A,Positive,Acting;Plot,Keira Knightley (Actor); Sienna Miller (Actor),Frustration,N/A
+100_10.txt,N/A,Positive,Acting;Cinematography;Plot,Noonan (Actor);Picasso (Artist),Satisfaction,N/A
+101_9.txt,N/A,Positive,Plot;Acting,N/A,Excitement,N/A
+102_8.txt,Bullet In The Brain,Positive,Plot;Acting,N/A,Frustration,N/A
+103_10.txt,Take Up and Read,Positive,Cinematography;Acting;Plot,Tom Noonan (Actor); Von Ancken (Director); N/A,Excitement,N/A
+104_10.txt,N/A,Positive,Acting,Shabana Azmi (Actor); N/A (Director); N/A (Studio),Excitement,N/A
+105_8.txt,N/A,Positive,Plot;Acting,N/A,Satisfaction,N/A
+106_9.txt,FIRE,Positive,Acting;Plot;Cinematography,Shabana Azmi (Actor); Deepa Mehta (Director); N/A,Satisfaction,9/10
+107_10.txt,Fire,Positive,Acting;Cinematography;Plot,Shabana Azmi (Actor); Nandita Das (Actor); Deepa Mehta (Director),Satisfaction,N/A
+108_10.txt,Fire,Positive,Plot;Acting;Soundtrack,Deepa Mehta (Director); A.R. Rahman (Music Composer); Shabana Azmi (Actor); Nandita Das (Actor),Frustration,N/A
+109_8.txt,N/A,Negative,Acting;Plot,N/A,Frustration,N/A
+10_7.txt,N/A,Positive,Acting;Plot,Costner (Actor); Kutcher (Actor),Disappointment,N/A
+110_10.txt,Fire,Positive,Acting;Soundtrack;Plot,Deepa Mehta (Director); Shabana Azmi (Actor); Nandita Das (Actor); A.R. Rahman (Music Composer),Satisfaction,N/A
+111_10.txt,N/A,Positive,Plot;Acting;N/A,N/A,Satisfaction,N/A
+112_10.txt,Water,Positive,Plot;Acting;N/A,Deepa Mehta (Director); Shabana Azmi (Actor); Nandita Das (Actor); Kulbhushan Kharbanda (Actor); Javed Jaffrey (Actor); Alice Poon (Actor),Satisfaction,N/A
+113_8.txt,Fire,Positive,Acting;Plot;Cinematography,Shabana Azmi (Actor); Nandita Das (Actor); Deepa Mehta (Director),Excitement,N/A
+114_10.txt,N/A,Positive,Acting;Plot,Deepa Mehta (Director),Satisfaction,N/A
+115_9.txt,N/A,Neutral,Plot,N/A,Frustration,N/A
+116_10.txt,Fire,Positive,Plot;Acting;N/A,N/A,Satisfaction,N/A
+117_10.txt,N/A,Positive,Responsibility;Duty;Character Development,N/A,Satisfaction,N/A
+118_10.txt,Fire,Positive,Cinematography;Acting;Plot,N/A,Satisfaction,N/A
+119_9.txt,Fire,Positive,Plot;Acting;Writing,Deepa Mehta (Director); Shabana Azmi (Actor); Nandita Das (Actor),Satisfaction,N/A
+11_8.txt,The Guardian,Positive,Acting;Plot;N/A,Ashton Kutcher (Actor); Kevin Costner (Actor); N/A,Satisfaction,N/A
+120_9.txt,FIRE,Positive,Cinematography;Acting;Plot,Deepa Mehta (Director); Shabana Azmi (Actor); Nandita Das (Actor),Satisfaction,N/A
+121_8.txt,Fire,Positive,Plot;Acting;Soundtrack,Deepa Mehta (Director); Sita (Actor); Radha (Actor),Satisfaction,N/A
+122_8.txt,N/A,Neutral,Acting;Plot,N/A,Frustration,N/A
+123_10.txt,N/A,Positive,Acting;Plot;N/A,N/A;N/A;N/A,Satisfaction,N/A
+124_10.txt,N/A,Positive,Acting;Plot;Themes,N/A,Satisfaction,N/A
+125_7.txt,Fire,Mixed,Acting;Plot;Screenplay,Deepa Mehta (Director); Shabana Azmi (Actor); Nandita Das (Actor); Saeed Jaffrey (Actor); Anupam Kher (Actor); Mrinal Sen (Director); Gautam Ghose (Director); Benegal (Director),Frustration,N/A
+126_10.txt,N/A,Positive,Tradition;Gender Roles;Sexuality,N/A,Satisfaction,N/A
+127_10.txt,N/A,Positive,Cinematography;Emotional Content,N/A,Satisfaction,8.75
+128_10.txt,Fire,Positive,Plot;Acting;N/A,N/A,Satisfaction,N/A
+129_9.txt,N/A,Positive,Plot;Acting;N/A,N/A,Satisfaction,N/A
+12_9.txt,The Guardian,Positive,Acting;Plot;N/A,Kevin Costner (Actor); Ashton Kutcher (Actor); N/A,Satisfaction,N/A
+130_9.txt,Fire,Positive,Acting;Plot;N/A,Shabana Azmi (Actor);N/A;N/A,Satisfaction,N/A
+131_7.txt,N/A,Positive,Acting;Plot;Culture,Nandita Das (Actor); Shabana Azmi (Actor),N/A,N/A
+132_9.txt,Fire,Positive,Plot;Acting;N/A,N/A,Frustration,N/A
+133_8.txt,Thirst,Positive,Cinematography;Acting;Plot,Kang-ho Song (Actor); OK-bin Kim (Actor); Park Chan-wook (Director),Satisfaction,N/A
+134_8.txt,Chan-wook Park's New Film,Positive,Plot;Acting;Romance,Chan-wook Park (Director); Emile Zola (Author); N/A,Satisfaction,N/A
+135_9.txt,Thirst,Positive,Cinematography;Plot;Soundtrack,Chan-wook Park (Director); Sang-hyeon (Actor); Tae-Joo (Actor),Satisfaction,N/A
+136_9.txt,N/A,Positive,Plot;Acting;Cinematography,N/A,Satisfaction,N/A
+137_7.txt,Thirst,Positive,Plot;Acting;Cinematography,Park Chan-wook (Director); Emile Zola (Author),Excitement,N/A
+138_8.txt,Thirst,Positive,Acting;Cinematography;Plot,N/A,Satisfaction,N/A
+139_9.txt,Thirst (Bakjwi),Negative,Plot;Acting;N/A,N/A,Disappointment,N/A
+13_9.txt,The Guardian,Positive,Acting;Plot;N/A,Ashton Kutcher (Actor); Kevin Costner (Actor); N/A,Satisfaction,N/A
+140_9.txt,Bakjwi,Positive,Acting;Plot;Cinematography,Kanh-ho Song (Actor); OK-vin Kim (Actress); Chan-wook Park (Director),Satisfaction,N/A
+141_8.txt,Bakjwi,Positive,Plot;Themes;Acting,N/A,Satisfaction,N/A
+142_8.txt,Thirst,Positive,Cinematography;Plot;Acting,Chan-wook Park (Director);,Excitement,N/A
+143_8.txt,Thirst,Positive,Plot;Acting;Cinematography,Chan-wook Park (Director); OK-vin Kim (Actor); Kang-ho Song (Actor); Ha-kyun Shin (Actor); Hae-sook Kim (Actor),Satisfaction,N/A
+144_9.txt,N/A,Positive,Plot;Acting,N/A,Satisfaction,N/A
+145_9.txt,Thirst,Positive,Cinematography;Acting;Plot,Park Chan-Wook (Director); N/A; N/A,Satisfaction,N/A
+146_8.txt,N/A,Positive,Cinematography;Plot;Acting,Chan-Wook (Director),Excitement,N/A
+147_10.txt,Thirst,Positive,Cinematography;Plot;Acting,Park Chan Wook (Director);,Satisfaction,N/A
+148_9.txt,Thirst,Positive,Plot;Cinematography;Acting,Park Chun-wook (Director),Excitement,N/A
+149_9.txt,Thirst,Positive,Plot;Acting;Themes,Chan-wook Park (Director); Kang-ho Song (Actor); OK-vin Kim (Actor),Satisfaction,N/A
+14_8.txt,The Guardian,Positive,Acting;Plot;Cinematography,Kevin Costner (Actor); Ashton Kutcher (Actor); Clancy Brown (Actor); N/A (Director); N/A (Studio),Satisfaction,N/A
+150_9.txt,Thirst,Positive,Cinematography;Acting;Plot,Chanwook Park (Director); Song Kang-ho (Actor); Kim Ok-vin (Actor),Excitement,9.5/10
+151_8.txt,N/A,Positive,Acting;Plot;Cinematography,Chan-wook Park (Director),Excitement,N/A
+152_10.txt,The Host,Positive,Acting;Plot;Cinematography,Kang-ho Song (Actor); OK-bin Kim (Actor); Ha-kyun Shin (Actor); Bong Joon-ho (Director),Excitement,N/A
+153_8.txt,Bakjwi,Positive,Cinematography;Plot;Acting,Park Chan-wook (Director); Father Hyeon (Character); Tae-ju (Character),Satisfaction,N/A
+154_9.txt,The Handmaiden,Positive,Cinematography;Acting;Plot,Park Chan-wook (Director); Kim Min-hee (Actor); Ha Jung-woo (Actor),Excitement,N/A
+155_8.txt,Thirst,Neutral,Plot;Acting;N/A,Park Chan-Wook (Director); N/A; N/A,Frustration,N/A
+156_9.txt,Thirst,Positive,Cinematography;Acting;Plot,Chan-wook Park (Director); Kang-ho Song (Actor); Ha-kyun Shin (Actor); OK-vin Kim (Actor),Excitement,N/A
+157_10.txt,Thirst,Positive,Plot;Acting;Cinematography,Park Chan-Wook (Director); N/A; N/A,Excitement,N/A
+158_9.txt,Thirst,Positive,Cinematography;Acting;Plot,Park Chan Wook (Director),Disappointment,9/10
+159_10.txt,Thirst,Positive,Cinematography;Acting;Plot,Chan-wook Park (Director); Lady Vengeance (Movie); Sympathy for Mr. Vengeance (Movie); Let the Right One In (Movie),Excitement,N/A
+15_10.txt,The Guardian,Positive,Acting;Plot;N/A,Kevin Costner (Actor); Ashton Kutcher (Actor); N/A,Satisfaction,N/A
+160_10.txt,Thirst,Positive,Cinematography;Acting;Plot,Chan-wook Park (Director); OK-vin Kim (Actor); N/A,Excitement,N/A
+161_7.txt,Bloody Birthday,Positive,Plot;Acting;Suspense,N/A,Satisfaction,N/A
+162_8.txt,Bloody Birthday,Neutral,Plot;Nudity,N/A,Nostalgia,N/A
+163_7.txt,N/A,Positive,Plot;Acting,N/A,Satisfaction,N/A
+164_7.txt,N/A,Positive,Plot;Acting;Eye Candy,Julie Brown (Actor); MTV-J Julie Brown (Actor); Michael Dudikoff (Actor); Lori Lethin (Actor); Timmy (Actor); Max Rosenberg (Producer); Ed Hunt (Director); Sylvia Wright (Actor),Nostalgia,N/A
+165_7.txt,Bloody Birthday,Positive,Acting;Plot;Soundtrack,Elizabeth Hoy (Actor); Billy Jacoby (Actor); Andy Freeman (Actor); Susan Strasberg (Actor); Jose Ferrer (Actor); K.C. Martel (Actor); Julie Brown (Actor); Ellen Geer (Actor); Michael Dudikoff (Actor); Cyril O'Reilly (Actor); Joe Penny (Actor); William Boyett (Actor); Ed Hunt (Director); Barry Pearson (Writer); Arlon Obers (Music),Nostalgia,7/10
+166_7.txt,Bloody Birthday,Positive,Plot;Acting;N/A,N/A,Satisfaction,N/A
+167_10.txt,Bloody Birthday,Positive,Acting;Plot;N/A,Andy Freeman (Actor); Billy Jayne (Actor); Elizabeth Hoy (Actor);,N/A,N/A
+168_8.txt,N/A,Positive,Acting;Plot;N/A,Ed Hunt (Director); Jose Ferror (Actor); Joe Penny (Actor); Lori Lethin (Actor); Susan Strasberg (Actor); Michael Dudikoff (Actor); Cyril O'Reilly (Actor); Billy Jacoby (Actor); Andy Freeman (Actor); Elizabeth Hoy (Actor); Julie Brown (Actor),Satisfaction,N/A
+169_7.txt,N/A,Positive,Plot;Acting,Curtis (Actor),Nostalgia,N/A
+16_8.txt,N/A,Positive,Acting;Plot;N/A,Kevin Costner (Actor); Ashton Kutcher (Actor); N/A,Satisfaction,N/A
+170_7.txt,Bloody Birthday,Positive,Acting;Plot;N/A,George Clooney (Actor); Julie Brown (Actor); N/A,Nostalgia,N/A
+171_7.txt,Bloody Birthday,Positive,Plot;Acting;N/A,Elizabeth Hoy (Actor); K.C. Martel (Actor); Julie Brown (Actor); Susan Strasberg (Actor); Jose Ferrer (Actor),Satisfaction,N/A
+172_7.txt,The Slumber Party Massacre,Positive,Plot;Acting,Just Say Julie Brown (Actor);,Nostalgia,N/A
+173_7.txt,Children of the Corn,Positive,Plot;Acting,Bud Cort (Actor); Jake Blues (Actor); Julie Brown (Actor),Nostalgia,N/A
+174_7.txt,Bloody Birthday,Positive,Plot;Acting;Soundtrack,Ed Hunt (Director); Julie Brown (Actor); Joe Penny (Actor),Nostalgia,N/A
+175_8.txt,The Lost Skeleton of Cadavra,Positive,Cinematography;Animation,Columbia Pictures (Studio),Nostalgia,N/A
+176_9.txt,Skeleton Frolics,Positive,Cinematography;Plot;Acting,Walt Disney (Director); Ub Iwerks (Animator); Columbia (Studio),Nostalgia,N/A
+177_8.txt,Skeleton Frolics,Neutral,Cinematography;Soundtrack;Plot,Ub Iwerks (Director); Joe DeNat (Music Composer); Carl W. Stalling (Music Composer); Walt Disney (Director); Columbia Pictures (Studio),Nostalgia,8/10
+178_10.txt,N/A,Positive,Acting;Plot,Alyssa (Actor),Nostalgia,10/10
+179_10.txt,Goldrush: A Real Life Alaskan Adventure,Positive,Acting;Plot;N/A,Alyssa Milano (Actor); Bruce Campbell (Actor); N/A,Excitement,10/10
+17_8.txt,N/A,Positive,Acting,Tom Courtenay (Actor); Peter Finch (Actor); N/A,Satisfaction,N/A
+180_10.txt,N/A,Positive,Plot;Acting;Cinematography,Alyssa Milano (Actor);N/A;N/A,Nostalgia,N/A
+181_10.txt,The Cranes Are Flying,Positive,Cinematography;Plot;Acting,Aleksey Batalov (Actor); Tatyana Samojlova (Actor); Aleksandr Shvorin (Actor); Sergei Urusevsky (Cinematographer),Nostalgia,N/A
+182_10.txt,N/A,Positive,Cinematography;Acting;Plot,Veronika (Actor);Eisenstein (Director);Tisse (Cinematographer),Satisfaction,N/A
+183_10.txt,Letyat zhuravli,Positive,Cinematography;Acting;Plot,N/A,Nostalgia,N/A
+184_9.txt,The Cranes Are Flying,Negative,Cinematography;Acting,Mikhail Kalatozov (Director);  Aleksandr Urusevsky (Cinematographer),Disappointment,N/A
+185_10.txt,The Cranes are Flying,Positive,Plot;Acting;N/A,Tatiana Samoylova (Actor);Aleksey Batalov (Actor);N/A,Nostalgia,N/A
+186_9.txt,The Cranes Are Flying,Positive,Cinematography;Acting;Plot,Tatiana Samoilova (Actor); Vivien Leigh (Actor); Bjork (Actor),Nostalgia,N/A
+187_10.txt,The Cranes are Flying,Positive,Cinematography;Acting;Plot,Mikhail Kalatozov (Director); Tatyana Samojlova (Actor); N/A,Nostalgia,N/A
+188_10.txt,The Cranes Are Flying,Positive,Cinematography;Acting;Plot,Tatyana Samojlova (Actor); Mikhail Kalatozov (Director); Mosfilm (Studio),Satisfaction,N/A
+189_9.txt,N/A,Positive,Cinematography;Acting,Tatyana Samojlova (Actor);,Satisfaction,N/A
+18_8.txt,The Dresser,Positive,Acting;Cinematography;Plot,Tom Courtenay (Actor); Albert Finney (Actor); Peter Yates (Director),Satisfaction,7.7
+190_9.txt,N/A,Positive,Cinematography;Plot,Sergei Urusevsky (Director); N/A; N/A,Satisfaction,N/A
+191_9.txt,The Cranes are Flying,Positive,Cinematography;Acting;Plot,Mikhail Kalatozov (Director); Viktor Rozov (Screenwriter); Antonina Bogdanova (Actor); Vasili Merkuryev (Actor); Aleksey Batalov (Actor); Aleksandr Shvorin (Actor); Tatyana Samojlova (Actor); Sergei Urusevsky (Cinematographer),Nostalgia,N/A
+192_10.txt,The Cranes Are Flying,Positive,Cinematography;Acting;Plot,Mikhail Kalatozov (Director); Tatyana Samojlova (Actor),Satisfaction,10/10
+193_9.txt,Circle,Negative,Plot;Theme,N/A,Frustration,N/A
+194_7.txt,The Cranes Are Flying,Negative,Cinematography;Plot;Acting,Mikheil Chiaureli (Director); Boris Bolkonsky (Actor); Tatyana Samoilova (Actor),Frustration,N/A
+195_10.txt,The Cranes Are Flying,Positive,Acting;Plot;Emotional Impact,Tatiana Samoilova (Actor); Boris  (Actor); Mark Bernes (Actor); Mikhail Kalatozov (Director),Nostalgia,N/A
+196_9.txt,The Cranes are Flying,Positive,Cinematography;Plot;Acting,Mikhail Kalatozov (Director); Viktor Rozov (Writer); Tatyana Samojlova (Actor); Aleksey Batalov (Actor); Aleksandr Shvorin (Actor); Sergei Urusevsky (Cinematographer),Nostalgia,N/A
+197_10.txt,The Cranes Are Flying,Positive,Acting;Cinematography;Plot,Tatiana Samoilova (Actor); Aleksei Batalov (Actor); Vasili Merkuryev (Actor); Mikhail Kalatozov (Director),Nostalgia,N/A
+198_7.txt,The Cranes Are Flying,Positive,Cinematography;Acting;Plot,Tatiana Samoilova (Actor); Mikhail Kalatozov (Director); Mosfilm (Studio),Nostalgia,N/A
+199_8.txt,N/A,Positive,Cinematography;Plot,N/A,Nostalgia,N/A
+19_10.txt,The Dresser,Positive,Acting;Plot;Cinematography,Albert Finney (Actor); Tom Courtenay (Actor); Peter Yates (Director),Nostalgia,N/A
+1_10.txt,The Guardian,Positive,Plot;Acting;N/A,N/A,Satisfaction,20
+200_8.txt,The Cranes Are Flying,Positive,Cinematography;Acting;Plot,Tatyana Samojlova (Actor); Mikhail Kalatozov (Director); N/A,Nostalgia,N/A
+201_9.txt,The Cranes Are Flying,Positive,Cinematography;Acting;Plot,Tatyana Samoilova (Actor); Alexei Batalov (Actor); Mark Bernes (Actor); Mikhail Kalatozov (Director),Nostalgia,N/A
+202_9.txt,Letyat zhuravli,Positive,Cinematography;Acting;Plot,T. Samojlova (Actor); Aleksey Batalov (Actor); A. Shvorin (Actor),Nostalgia,9
+203_10.txt,Cranes are Flying,Positive,Cinematography;Plot;Acting,Sergei Urusevsky (Director); Tatiana Samoilova (Actor); N/A,Nostalgia,N/A
+204_9.txt,N/A,Positive,Cinematography;Soundtrack;Plot,N/A,Satisfaction,N/A
+205_10.txt,N/A,Positive,Cinematography;Acting;N/A,N/A;N/A;N/A,Satisfaction,N/A
+206_10.txt,Letjat zhuravli,Positive,Cinematography;Acting;Plot,N/A,Nostalgia,N/A
+207_9.txt,N/A,Positive,Plot;War;Love,N/A,Nostalgia,N/A
+208_10.txt,N/A,Positive,Acting;Cinematography;Plot,N/A,Satisfaction,N/A
+209_10.txt,The Cranes Are Flying,Positive,Cinematography;Plot;Acting,Mikhail Kalatozov (Director); Sergei Uresevsky (Cinematographer); Tatyana Samoilova (Actor),Nostalgia,N/A
+20_9.txt,N/A,Positive,Acting;Plot;Cinematography,Albert Finney (Actor); Richard Attenborough (Actor);  Sir Michael Caine (Actor),Nostalgia,8.6
+210_9.txt,The Cranes are Flying,Positive,Cinematography;Plot,Andrei Tarkovsky (Director); Soviet Union (Studio),Nostalgia,N/A
+211_10.txt,Police Squad!,Positive,Acting;Plot;Nostalgia,Leslie Nielsen (Actor); Alan North (Actor); Peter Lupus (Actor); William Duell (Actor); OJ Simpson (Actor); ABC (Studio),Nostalgia,N/A
+212_7.txt,Police Squad!,Positive,Acting;Plot;Humor,Leslie Nielsen (Actor);  (Director); ABC (Studio),Nostalgia,N/A
+213_10.txt,Police Squad!,Positive,Acting;Plot;Cinematography,Leslie Nielsen (Actor); Jim Abrahams (Director); David Zucker (Director); Jerry Zucker (Director),Nostalgia,N/A
+214_9.txt,Police Squad!,Positive,Acting;Plot;N/A,Leslie Nielsen (Actor); Alan North (Actor); Peter Lupus (Actor); William Duell (Actor); Dick Clark (Actor); Dr. Joyce Brothers (Actor); Tommy LaSorda (Actor); Zucker Brothers (Director),Nostalgia,N/A
+215_8.txt,Police Squad!,Positive,Acting;Plot;Humor,Leslie Nielsen (Actor);  (Director);  (Studio),Nostalgia,N/A
+216_10.txt,The Naked Gun,Positive,Acting;Plot;N/A,Leslie Nielsen (Actor); Mel Brooks (Director); N/A,Nostalgia,N/A
+217_8.txt,Police Squad!,Positive,Acting;Comedy;N/A,Leslie Nielsen (Actor); Alan North (Actor); Rex Hamilton (Actor),Nostalgia,7/10
+218_10.txt,Police Squad!,Positive,Acting;Plot;N/A,Leslie Nielson (Actor); Jim Abrahams (Director); N/A,Nostalgia,N/A
+219_8.txt,POLICE SQUAD!,Positive,Acting;Soundtrack;Plot,Jim Abrahams (Director); David Zucker (Director); Jerry Zucker (Director); Leslie Nielsen (Actor); Robert Stack (Actor); Quinn Martin (Studio),Nostalgia,N/A
+21_9.txt,The Dresser,Positive,Acting;Plot,Albert Finney (Actor); Tom Courtenay (Actor); Ronald Harwood (Director);,Satisfaction,N/A
+220_10.txt,Police Squad!,Positive,Plot;Acting;N/A,Leslie Nielsen (Actor);  ;  ,Nostalgia,N/A
+221_9.txt,Police Squad!,Positive,Acting;Plot,Leslie Nielsen (Actor); David Zucker (Director); Jerry Zucker (Director); Jim Abrahams (Director); ABC (Studio),Nostalgia,N/A
+222_10.txt,Police Squad!,Positive,Acting;Humor;Plot,Leslie Nielsen (Actor); David Zucker (Director);,Nostalgia,N/A
+223_10.txt,Police Squad!,Positive,Acting;Plot;N/A,Jim Abrahams (Director);Jerry Zucker (Director);David Zucker (Director);Leslie Nielsen (Actor);William Shatner (Actor);N/A,Nostalgia,N/A
+224_10.txt,Police Squad!,Positive,Acting;Plot,Leslie Nielsen (Actor);Frank Drebin (Character);David Zucker (Director);Jerry Zucker (Director);Jim Abrahams (Director);ABC (Studio),Nostalgia,N/A
+225_10.txt,Police Squad!,Positive,Acting;Plot;N/A,Leslie Nielsen (Actor); Alan S. Ackman (Director); ABC (Studio),Satisfaction,N/A
+226_9.txt,Police Squad!,Positive,Acting;Plot;Humor,Leslie Nielsen (Actor); David Zucker (Director);  (Studio),Nostalgia,N/A
+227_10.txt,N/A,Positive,Acting;Plot,N/A,Frustration,N/A
+228_10.txt,N/A,Positive,Acting;Writing;Plot,Leslie Nielsen (Actor);Airplane (Movie),Nostalgia,N/A
+229_10.txt,Police Squad!,Positive,Acting;Plot;Cinematography,Leslie Nielsen (Actor); David Zucker (Director); Paramount Pictures (Studio),Nostalgia,N/A
+22_8.txt,The Dresser,Positive,Acting;Plot;Cinematography,Tom Courtenay (Actor); Albert Finney (Actor); Ronald Harwood (Writer),Nostalgia,N/A
+230_7.txt,N/A,Positive,Acting;Soundtrack;Plot,Gene Kelly (Actor); Rita Hayworth (Actor); Phil Silvers (Actor),Nostalgia,N/A
+231_8.txt,N/A,Positive,Acting;Plot;Soundtrack,Rita Hayworth (Actor); Gene Kelly (Actor); Vera-Ellen (Actor),Nostalgia,N/A
+232_7.txt,Cover Girl,Positive,Acting;Soundtrack;Plot,Rita Hayworth (Actor); Gene Kelly (Actor); Columbia (Studio),Satisfaction,7/10
+233_8.txt,The Daughter of Rosie O'Grady,Positive,Acting;Soundtrack;Plot,Rita Hayworth (Actor); Gene Kelly (Actor); Phil Silvers (Actor); Eve Arden (Actor); Otto Kruger (Actor),Nostalgia,N/A
+234_7.txt,Cover Girl,Positive,Cinematography;Acting;Soundtrack,Rita Hayworth (Actor); Gene Kelly (Actor); Jerome Kern (Composer); Phil Silvers (Actor); Otto Kruger (Actor); Eve Arden (Actor); Edward Brophy (Actor); Moira Shearer (Actor); Michael Powell (Director),Nostalgia,N/A
+235_7.txt,An American in Paris,Positive,Soundtrack;Acting;Plot,Gene Kelly (Actor); Vincente Minnelli (Director); Metro-Goldwyn-Mayer (Studio),Nostalgia,N/A
+236_10.txt,Cover Girl,Positive,Acting;Plot;Soundtrack,Gene Kelly (Actor); Rita Hayworth (Actor); Phil Silvers (Actor); Otto Kruger (Actor),Nostalgia,N/A
+237_8.txt,Cover Girl,Positive,Acting;Soundtrack;Cinematography,Gene Kelly (Actor); Rita Hayworth (Actor); Phil Silvers (Actor),Nostalgia,N/A
+238_9.txt,Cover Girl,Positive,Acting;Plot;Soundtrack,Rita Hayworth (Actor); Gene Kelly (Actor); Otto Kruger (Actor); Lee Bowman (Actor); Eve Arden (Actor); Phil Silvers (Actor),Nostalgia,N/A
+239_9.txt,Cover Girl,Positive,Acting;Cinematography;Soundtrack,Rita Hayworth (Actor); Gene Kelly (Actor); Phil Silvers (Actor); Eve Arden (Actor),Nostalgia,N/A
+23_10.txt,The Dresser,Positive,Acting;Plot;N/A,Albert Finney (Actor); Tom Courtenay (Actor); Ronald Harwood (Writer),Satisfaction,N/A
+240_9.txt,Cover Girl,Positive,Acting;Soundtrack;Plot,Rita Hayworth (Actor); Gene Kelly (Actor); Phil Silvers (Actor),Nostalgia,9
+241_7.txt,Cover Girl,Positive,Acting;Soundtrack;Plot,Rita Hayworth (Actor); Gene Kelly (Actor),Satisfaction,N/A
+242_10.txt,Cover Girl,Positive,Acting;Cinematography;Plot,Rita Hayworth (Actor); Gene Kelly (Actor); N/A,Excitement,N/A
+243_9.txt,Cover Girl,Positive,Acting;Soundtrack;Plot,Gene Kelly (Actor); Rita Hayworth (Actor); Phil Silvers (Actor),Nostalgia,9/10
+244_9.txt,Cover Girl,Positive,Acting;Soundtrack;Plot,Gene Kelly (Actor); Rita Hayworth (Actor); Phil Silvers (Actor); Arthur Schwartz (Producer); Charles Vidor (Director); Jerome Kern (Composer); Ira Gershwin (Lyricist); Columbia (Studio),Nostalgia,N/A
+245_8.txt,Cover Girl,Positive,Acting;Soundtrack;Plot,Rita Hayworth (Actor); Gene Kelly (Actor); Phil Silvers (Actor); Eve Arden (Actor); Lee Bowman (Actor); Otto Kruger (Actor); Jerome Kern (Composer); Martha Mears (Singer),Nostalgia,N/A
+246_10.txt,Cover Girl,Positive,Acting;Soundtrack;Cinematography,Rita Hayworth (Actor); Gene Kelly (Actor); Lesley Brookes (Actor); Otto Kruger (Actor); Eve Arden (Actor); Phil Silvers (Actor); Lee Bowman (Actor); Martha Mears (Actor); Al Norman (Actor); Travis Banton (Costume Designer); Gwen Wakeling (Costume Designer); Columbia Pictures (Studio),Nostalgia,N/A
+247_8.txt,Cover Girl,Positive,Acting;Soundtrack;Plot,"Rita Hayworth (Actor); Gene Kelly (Actor, Choreographer); Phil Silvers (Actor)",Nostalgia,8/10
+248_7.txt,Cover Girl,Positive,Acting;Soundtrack;Plot,Rita Hayworth (Actor); Gene Kelly (Actor); Phil Silvers (Actor); Otto Kruger (Actor); Charles Vidor (Director); Jerome Kern (Composer),Nostalgia,N/A
+249_7.txt,Cover Girl,Neutral,Acting;Soundtrack;Cinematography,Rita Hayworth (Actor); Gene Kelly (Actor); Lee Bowman (Actor); Otto Kruger (Actor); Eve Arden (Actor); Jerome Kern (Composer); Ira Gershwin (Lyricist); Phil Silvers (Actor),Nostalgia,N/A
+24_10.txt,The Dresser,Positive,Acting;Plot,Albert Finney (Actor); Tom Courtenay (Actor); Freddie Jones (Actor); Ronald Harwood (Writer),Nostalgia,N/A
+250_10.txt,Cover Girl,Positive,Acting;Plot;Soundtrack,Rita Hayworth (Actor); Gene Kelly (Actor); Phil Silvers (Actor); Lee Bowman (Actor),Nostalgia,N/A
+251_8.txt,Rusty's Broadway Dream,Positive,Acting;Plot;Soundtrack,Rita Hayworth (Actor); Gene Kelly (Actor); Phil Silvers (Actor),Nostalgia,N/A
+252_9.txt,Cover Girl,Positive,Cinematography;Acting;Soundtrack,Gene Kelly (Actor); Rita Hayworth (Actor); Phil Silvers (Actor); Otto Kruger (Actor); Jess Barker (Actor); Susan Hayward (Actor); Lee Bowman (Actor); Nan Wynn (Actor); Harry Cohn (Producer); Louis B. Mayer (Producer); Jerome Kern (Composer); Ira Gershwin (Lyricist); MGM (Studio); Columbia (Studio),Nostalgia,N/A
+253_10.txt,N/A,Positive,Plot;N/A;N/A,Eledore;Shiro,Nostalgia,N/A
+254_10.txt,08th MS Team,Positive,Plot;Cinematography,N/A,Satisfaction,N/A
+255_10.txt,08th MS Team,Positive,Animation;Plot;Romance,N/A,Nostalgia,N/A
+256_10.txt,Gundam 0083 Stardust Memory,Positive,Plot;N/A;N/A,Char Aznable (Actor);Anavel Gato (Actor);Norris Packard (Actor),Excitement,N/A
+257_9.txt,N/A,Positive,Plot;Acting,N/A,Satisfaction,10/10
+258_8.txt,Love Life,Positive,Plot;Acting,N/A,Satisfaction,9/10
+259_10.txt,Love Life,Positive,Acting;Plot;Cinematography,N/A,Satisfaction,N/A
+25_10.txt,The Dresser,Positive,Acting;Plot;Emotion,Albert Finney (Actor); Tom Courtenay (Actor);  N/A,Nostalgia,N/A
+260_10.txt,N/A,Positive,Acting;Plot;Comedy,N/A,Excitement,10/10
+261_9.txt,N/A,Positive,Sentiment;Plot,N/A,Satisfaction,9/10
+262_9.txt,Yashimo,Positive,Acting;Plot;N/A,Des Brady (Actor);N/A;N/A,Satisfaction,N/A
+263_10.txt,N/A,Positive,Acting;Plot;Cinematography,N/A,Satisfaction,N/A
+264_10.txt,N/A,Positive,Acting;Cinematography;Plot,Luke Goss (Actor); N/A,Satisfaction,9/10
+265_9.txt,N/A,Positive,Plot;Acting,N/A,Satisfaction,N/A
+266_8.txt,N/A,Positive,Acting;Plot,N/A,Satisfaction,N/A
+267_10.txt,The Lost Child,Positive,Acting;Plot,Robert Glenister (Actor); Helen Mirren (Actor); N/A,Nostalgia,N/A
+268_10.txt,The Lost Child,Positive,Acting;Plot;N/A,Helen Mirren (Actor); Dick Wolf (Director); N/A,Satisfaction,N/A
+269_8.txt,Prime Suspect 4,Positive,Plot;Acting;N/A,Jane Tennison (Actor);Lynda La Plante (Writer);N/A,Satisfaction,N/A
+26_10.txt,N/A,Positive,Acting;Plot;Period,Courtney (Actor); Finney (Actor); N/A,Frustration,N/A
+270_8.txt,Prime Suspect IV: The Lost Child,Positive,Acting;Plot;Cinematography,Helen Mirren (Actor); N/A ; N/A,Excitement,N/A
+271_7.txt,The Stepford Children,Positive,Plot;Acting,Tammy Lauren (Actor); Randall Batinkoff (Actor); N/A,Nostalgia,N/A
+272_10.txt,The Stepford Children,Positive,Plot;Acting,N/A,Nostalgia,N/A
+273_10.txt,The Stepford Wives III,Positive,Plot;Acting;N/A,N/A,Nostalgia,N/A
+274_9.txt,The Stepford Children,Positive,Acting;Plot,Barbara Eden (Actor); Don Murray (Actor); N/A,Nostalgia,N/A
+275_10.txt,N/A,N/A,N/A,N/A,N/A,N/A
+276_10.txt,I Shout Love,Positive,Acting;Plot;N/A,Kristen Thomsen (Actor); Matthew Ferguson (Actor); Sarah Polley (Director),Satisfaction,N/A
+277_9.txt,N/A,Positive,Acting;Plot;N/A,N/A,Nostalgia,N/A
+278_10.txt,N/A,Positive,Acting;Plot,Kristen Thomson (Actor);,Nostalgia,N/A
+279_10.txt,N/A,Positive,Acting;Plot,N/A,Satisfaction,N/A
+27_9.txt,Sir & His Dresser,Positive,Acting;Plot,Albert Finney (Actor); Tom Courtenay (Actor); Ronald Harwood (Playwright),Satisfaction,N/A
+280_10.txt,Take This Waltz,Positive,Plot;Acting;N/A,Sarah Polley (Director); Seth Rogen (Actor); Michelle Williams (Actor); N/A,Satisfaction,N/A
+281_8.txt,N/A,Positive,Acting;Plot;N/A,Bobby;Tessa;N/A,Nostalgia,N/A
+282_10.txt,The Top Secret Life Of Edgar Briggs,Positive,Acting;Plot,David Jason (Actor); Barbara Angell (Actor); Mark Eden (Actor); Michael Stainton (Actor); Elisabeth Counsell (Actor); Noel Coleman (Actor); Richard Laing (Writer); Bernard McKenna (Writer),Nostalgia,N/A
+283_8.txt,The Top Secret Life Of Edgar Briggs,Neutral,Acting;Plot;Soundtrack,David Jason (Actor); Richard Laing (Writer); Bernard McKenna (Writer); Michael Stainton (Actor); Mark Eden (Actor); Elisabeth Counsell (Actor); Noel Coleman (Actor); Barbara Angell (Actor); London Weekend Television (Studio),Nostalgia,N/A
+284_10.txt,N/A,Positive,Acting;N/A;N/A,David Jason (Actor); Mark Eden (Actor); Alan Bradley (Actor),Nostalgia,N/A
+285_10.txt,N/A,Positive,Acting;Plot,David Jason (Actor);,Nostalgia,N/A
+286_10.txt,Jacqueline Hyde,Positive,Acting;Plot,Dan (Actor),Excitement,N/A
+287_8.txt,Jacqueline Hyde,Positive,Acting;Plot;N/A,Blythe Metz (Actor); Rolfe Kanefsky (Director); N/A,Excitement,N/A
+288_7.txt,N/A,Positive,Acting;Plot;Cinematography,Gabriella (Actor); N/A (Director); N/A (Studio),Satisfaction,N/A
+289_8.txt,N/A,Positive,Acting;Plot;Special Effects,Jackie (Actor); N/A,Satisfaction,N/A
+28_9.txt,The Dresser,Positive,Acting;Plot,Albert Finney (Actor); Tom Courtenay (Actor),Frustration,9/10
+290_9.txt,Apocalypse Now,Positive,Cinematography;Acting;Plot,Francis Ford Coppola (Director); Martin Sheen (Actor),Satisfaction,N/A
+291_9.txt,Apocalypse Now,Positive,Cinematography;Acting;Plot,Martin Sheen (Actor); Marlon Brando (Actor); Robert Duvall (Actor); Dennis Hopper (Actor); Laurence Fishburne (Actor); R. Lee Ermey (Actor); Sam Bottoms (Actor); Albert Hall (Actor); Harrison Ford (Actor); Francis Ford Coppola (Director),Satisfaction,N/A
+292_10.txt,Apocalypse Now Redux,Positive,Acting;Plot;Cinematography,Martin Sheen (Actor); Francis Ford Coppola (Director); Marlon Brando (Actor); Harrison Ford (Actor); Scott Glenn (Actor); Robert Duvall (Actor); Fred Forrest (Actor); Lawrence Fishburne (Actor); Sam Bottoms (Actor);,Nostalgia,N/A
+293_10.txt,Apocalypse Now,Negative,Plot;Cinematography,Francis Ford Coppola (Director); Marlon Brando (Actor); Martin Sheen (Actor); Warner Bros (Studio),Frustration,N/A
+294_8.txt,Apocalypse Now,Positive,Acting;Cinematography;Plot,Martin Sheen (Actor); Dennis Hopper (Actor); Marlon Brando (Actor); Francis Ford Coppola (Director); United Artists (Studio),Nostalgia,N/A
+295_8.txt,Apocalypse Now,Positive,Cinematography;Acting;Plot,Francis Ford Coppola (Director); Marlon Brando (Actor);  Martin Sheen (Actor);  Warner Bros. (Studio),Satisfaction,N/A
+296_9.txt,Apocalypse Now,Positive,Acting;Soundtrack;Plot,Francis Ford Coppola (Director); Marlon Brando (Actor); Robert Duvall (Actor); Martin Sheen (Actor); Laurence Fishburne (Actor);,Satisfaction,N/A
+297_10.txt,N/A,Positive,Acting;Plot;Soundtrack,N/A,Satisfaction,N/A
+298_10.txt,Apocalypse Now,Positive,Acting;Plot;Cinematography,Martin Sheen (Actor); Marlon Brando (Actor); Francis Ford Coppola (Director); United Artists (Studio),Excitement,N/A
+299_8.txt,Apocalypse Now,Positive,Cinematography;Acting;Plot,Martin Sheen (Actor); Marlon Brando (Actor); Robert Duvall (Actor); Frederic Forrest (Actor),Satisfaction,N/A
+29_10.txt,N/A,Positive,Acting;Plot;War,Courtney (Actor); Finney (Actor),Satisfaction,10
+2_7.txt,The Guardian,Positive,Acting;Plot;N/A,Kevin Costner (Actor); Ashton Kutcher (Actor); Sela Ward (Actor),Excitement,N/A
+300_9.txt,Apocalypse Now,Positive,Acting;Cinematography;Plot,Marlon Brando (Actor); Francis Ford Coppola (Director); United Artists (Studio),Satisfaction,N/A
+301_10.txt,Apocalypse Now,Positive,Plot;Acting;Cinematography,Francis Ford Coppola (Director); Marlon Brando (Actor); Martin Sheen (Actor); Warner Bros (Studio),Nostalgia,N/A
+302_10.txt,Apocalypse Now,Positive,Cinematography;Acting;Plot,Martin Sheen (Actor); Francis Ford Coppola (Director); Marlon Brando (Actor); Dennis Hopper (Actor),Nostalgia,N/A
+303_10.txt,Apocalypse Now,Positive,Cinematography;Acting;Plot,Francis Ford Coppola (Director); Martin Sheen (Actor); Robert Duvall (Actor); Laurence Fishburne (Actor),Nostalgia,10
+304_10.txt,Apocalypse Now,Positive,Plot;Cinematography;Acting,Francis Ford Coppola (Director); Marlon Brando (Actor); Martin Sheen (Actor); The Doors (Soundtrack); Wagner (Soundtrack),Satisfaction,N/A
+305_10.txt,Apocalypse Now!,Positive,Cinematography;Acting;Plot,Martin Sheen (Actor); Marlon Brando (Actor); Francis Ford Coppola (Director); Robert Duvall (Actor); Hugh Heffner (Actor),Satisfaction,N/A
+306_10.txt,Apocalypse Now,Positive,Acting;Soundtrack;Plot,Martin Sheen (Actor); Marlon Brando (Actor); Francis Ford Coppola (Director); Robert Duvall (Actor); Laurence Fishburne (Actor),Nostalgia,N/A
+307_10.txt,Apocalypse Now,Positive,Acting;Plot;Cinematography,Marlon Brando (Actor); Martin Sheen (Actor); Harrison Ford (Actor); Francis Ford Coppola (Director); Albert Hall (Actor); Frederic Forest (Actor); Larry Fishburne (Actor); Robert Duvall (Actor); Dennis Hopper (Actor),Satisfaction,5/5
+308_9.txt,Apocalypse Now,Positive,Acting;Plot;Soundtrack,Martin Sheen (Actor); Marlon Brando (Actor); Robert Duvall (Actor); Francis Ford Coppola (Director);,Nostalgia,N/A
+309_10.txt,Apocalypse Now,Positive,Directing;Acting;Cinematography,Francis Ford Coppola (Director); Marlon Brando (Actor); Martin Sheen (Actor); Robert Duvall (Actor); Laurence Fishburne (Actor); Sam Bottoms (Actor); Frederic Forest (Actor); Dennis Hopper (Actor); Harrison Ford (Actor),Satisfaction,N/A
+30_9.txt,The Dresser,Positive,Acting;Plot;N/A,Albert Finney (Actor); Eileen Atkins (Actor); Tom Courtenay (Actor); Edward Fox (Actor); Zena Walker (Actor); Lockwood West (Actor); Ronald Harwood (Writer); Donald Wolfit (Actor),Nostalgia,N/A
+310_9.txt,Apocalypse Now,Positive,Cinematography;Plot;Acting,Francis Ford Coppola (Director); Marlon Brando (Actor); Martin Sheen (Actor); Warner Bros (Studio),Satisfaction,N/A
+311_10.txt,Apocalypse Now,Positive,Cinematography;Acting;Plot,Francis Ford Coppola (Director); Marlon Brando (Actor);  ,Excitement,N/A
+312_10.txt,Apocalypse Now,Positive,Cinematography;Plot;Acting,Francis Ford Coppola (Director); Marlon Brando (Actor); Martin Sheen (Actor),Satisfaction,N/A
+313_10.txt,Apocalypse Now,Positive,Acting;Plot;Cinematography,Francis Ford Coppola (Director); Martin Sheen (Actor); Marlon Brando (Actor),Nostalgia,N/A
+314_10.txt,Apocalypse Now,Positive,Acting;Cinematography;Plot,Marlon Brando (Actor); Robert Duvall (Actor); Martin Sheen (Actor); Francis Ford Coppola (Director),Nostalgia,10
+315_8.txt,Apocalypse Now Redux,Positive,Cinematography;Acting;Plot,Francis Ford Coppola (Director); Martin Sheen (Actor); Marlon Brando (Actor); Robert Duvall (Actor); Frederic Forrest (Actor); Warner Bros (Studio),Satisfaction,8/10
+316_10.txt,Apocalypse Now,Positive,Plot;Acting;Cinematography,Martin Sheen (Actor); Marlon Brando (Actor); Francis Ford Coppola (Director),Satisfaction,N/A
+317_10.txt,Apocalypse Now,Positive,Plot;Acting;Cinematography,Francis Ford Coppola (Director); Marlon Brando (Actor); Martin Sheen (Actor),Nostalgia,N/A
+318_10.txt,Apocalypse Now,Positive,Cinematography;Acting;Plot,Francis Ford Coppola (Director); Robert Duvall (Actor); John Milius (Writer); Marlon Brando (Actor),Nostalgia,N/A
+319_10.txt,Apocalypse Now,Positive,Cinematography;Plot;Acting,Francis Ford Coppola (Director); Harrison Ford (Actor); Marlon Brando (Actor),Satisfaction,N/A
+31_10.txt,The Dresser,Positive,Acting;Plot,Albert Finney (Actor); Tom Courtenay (Actor); Eileen Atkins (Actor); Ronald Harwood (Writer); Peter Yates (Director),Nostalgia,N/A
+320_7.txt,N/A,Negative,Acting;Plot;Soundtrack,P.S. Keerthana (Actor),Disappointment,N/A
+321_10.txt,N/A,Positive,Acting;Plot;N/A,Mani Ratnam (Director);N/A,Satisfaction,10
+322_8.txt,A Peck on the Cheek (Kannathil Muthamittal),Positive,Plot;Acting;Soundtrack,N/A,Satisfaction,N/A
+323_10.txt,Alaipayuthey,Positive,Acting;Plot;Soundtrack,Mani Ratnam (Director); A R Rahman (Composer); PS Keerthana (Actor); Madhavan (Actor); Simran (Actor); Nandita Das (Actor),Satisfaction,N/A
+324_10.txt,Kannathil Muthamittal,Positive,Acting;Plot;Soundtrack,Mani Ratnam (Director); A.R. Rahman (Musician); Madhavan (Actor); Simran (Actor),Nostalgia,N/A
+325_10.txt,Roja,Positive,Acting;Plot;Soundtrack,Mani Ratnam (Director); Nandita Das (Actor); Arvind Swamy (Actor); A.R. Rahman (Music),Satisfaction,N/A
+326_9.txt,N/A,Positive,Plot;Acting;Soundtrack,Mani Ratnam (Director);A.R. Rahman (Composer);N/A,Nostalgia,N/A
+327_10.txt,N/A,Positive,N/A,N/A,Excitement,N/A
+328_10.txt,Kannathil Muthamittal,Positive,Cinematography;Soundtrack;Acting,Mani Ratnam (Director); A.R. Rahman (Music Composer); N/A,Excitement,N/A
+329_10.txt,N/A,Positive,Cinematography;Acting;Plot,Mani Ratnam (Director);Amudha (Actor),Satisfaction,N/A
+32_10.txt,Lackawanna Blues,Positive,Acting;Soundtrack;Plot,Ruben Santiago-Hudson (Actor);Marcus Carl Franklin (Actor);S. Epatha Merkerson (Actor);Terrence Howard (Actor);Rosie Perez (Actor);Mos Def (Actor);Carmen Ejogo (Actor);Louis Gossett Jr. (Actor);Jeffrey Wright (Actor);Ernie Hudson (Actor);Charlayne Woodward (Actor);Jimmy Smits (Actor);Patricia Wettig (Actor);Macy Gray (Actor);Liev Schreiber (Actor);Kathleen Chalfant (Actor);Lou Myers (Actor);Hill Harper (Actor);George C. Wolfe (Director);HBO (Studio),Satisfaction,N/A
+330_10.txt,N/A,Positive,Cinematography;Acting;Plot,Simran (Actor); Mani Ratnam (Director),Excitement,N/A
+331_10.txt,N/A,Positive,Acting;Plot;Soundtrack,Mr. Ratnam (Director);N/A,Satisfaction,N/A
+332_10.txt,Kannathil Mutthamittal,Positive,Acting;Soundtrack;Plot,Simran (Actor); N/A (Director); N/A (Studio),Satisfaction,N/A
+333_10.txt,N/A,Positive,Acting;Soundtrack;Plot,Madhavan (Actor); Simran (Actor); A.R. Rahman (Musician); Mani Ratnam (Director); P.S. Keerthana (Actor); Nandita Das (Actor); J.D. Chakravathy (Actor),Satisfaction,10/10
+334_9.txt,N/A,Positive,Plot;Acting;Soundtrack,Amudha;MDS,Satisfaction,N/A
+335_10.txt,N/A,Positive,Acting;Plot;Soundtrack,Madhavan (Actor); Maniratnam (Director); AR Rahman (Composer),Satisfaction,N/A
+336_10.txt,N/A,Positive,Acting;Soundtrack;Plot,Mani Rathnam (Director); A.R. Rahman (Music Composer),Satisfaction,N/A
+337_9.txt,Kannathil Muthamittal,Positive,Cinematography;Acting;Plot,Mani Ratnam (Director); AR Rahman (Music Composer); Nandita Das (Actor); Madhavan (Actor); Simran (Actor); P. S. Keerthana (Actor),Satisfaction,N/A
+338_10.txt,Kannathil Muthamittal,Positive,Cinematography;Acting;Plot,Mani Ratnam (Director); N/A,Satisfaction,N/A
+339_10.txt,N/A,Positive,Plot;Acting,N/A,Satisfaction,N/A
+33_7.txt,Lackawanna Blues,Positive,Acting;Plot,S. Epatha Merkerson (Actor),Satisfaction,N/A
+340_9.txt,Kannathil Muthamittal,Positive,Acting;Plot;Cinematography,Keerthana (Actor); Simran (Actor); Mani Ratnam (Director); Ravi Chandran (Cinematographer),Satisfaction,9
+341_9.txt,A Peck on the Cheek,Positive,Cinematography;Acting;Plot,Mani Ratnam (Director); Ravi K Chandran (Cinematographer); A. R. Rahman (Music); P.S. Keerthana (Actor); Nandita Das (Actor); J.D. Chakravarthi (Actor); Madhavan (Actor); Simran (Actor),Satisfaction,N/A
+342_10.txt,Kanathil Muthital,Positive,Plot;Acting;N/A,N/A,Frustration,N/A
+343_9.txt,A PECK ON THE CHEEK,Positive,Acting;Plot;Soundtrack,P.S. Keerthana (Actor); Mani Ratman (Director); A.R. Rahman (Composer),Satisfaction,N/A
+344_9.txt,N/A,Positive,Cinematography;Acting;Plot,P.S. Keerthana (Actor);N/A (Director);N/A (Studio),Satisfaction,N/A
+345_7.txt,Nurse Sherri,Positive,Acting;Plot;Soundtrack,Bill Roy (Actor); Marilyn Joi (Actor); J.C. Wells (Actor); Prentiss Moulden (Actor); Harry Lubins (Composer);  Adamson (Director),Satisfaction,7/10
+346_7.txt,Nurse Sherri,Neutral,Acting;Plot;Special Effects,Geoffrey Land (Actor); Jill Jacobson (Actor); Al Adamson (Director),Nostalgia,7/10
+347_7.txt,The Possession of Nurse Sherri,Positive,Plot;Acting;Soundtrack,Al Adamson (Director); Sam Sherman (Producer); Jill Jacobson (Actor); Bill Roy (Actor); Geoffrey Land (Actor); Harry Lubin (Composer),Nostalgia,N/A
+348_7.txt,Nurse Sherri,Neutral,Plot;Acting;Soundtrack,Al Adamson (Director);,Nostalgia,7/10
+349_10.txt,N/A,Positive,Gameplay;Graphics;Music,N/A,Excitement,N/A
+34_8.txt,Lackawanna Blues,Positive,Acting;Plot;Soundtrack,N/A,Nostalgia,8/10
+350_10.txt,Super Mario Galaxy 2,Positive,N/A,Nintendo (Studio),Excitement,N/A
+351_10.txt,Super Mario Galaxy,Positive,Plot;Soundtrack;N/A,Mario (Actor); Luigi (Actor); Nintendo (Studio),Excitement,N/A
+352_10.txt,N/A,Positive,Action;Soundtrack,N/A,Excitement,10
+353_10.txt,Super Mario Galaxy,Positive,Gameplay;Graphics;Level Design,N/A,Excitement,9.8/10
+354_10.txt,Super Mario Galaxy,Positive,Gameplay;Graphics;Music,N/A,Excitement,N/A
+355_10.txt,Super Mario Galaxy,Positive,Gameplay;Graphics;Story,N/A,Nostalgia,10/10
+356_9.txt,Acolytes,Positive,Cinematography;Acting;Plot,Jon Hewitt (Director); Sebastian Gregory (Actor); Josua Payne (Actor); Hanna Mangan Lawrence (Actor); Joel Edgerton (Actor); Belinda McClory (Actor); Michael Dorman (Actor); Shayne Armstong (Writer); Shane Krouse (Writer),Excitement,N/A
+357_7.txt,N/A,Positive,Acting;Plot;Dark Themes,N/A,Satisfaction,7/10
+358_9.txt,Burlesque on Carmen,Positive,Acting;Plot;Cinematography,Charlie Chaplin (Actor); Prosper Merimee (Author),Satisfaction,N/A
+359_7.txt,A Burlesque on Carmen,Neutral,Acting;Plot;Soundtrack,Charlie Chaplin (Actor); Edna Purviance (Actor); George Bizet (Musician); Cecil B. DeMille (Director); Essanay (Studio); Ben Turpin (Actor),Frustration,N/A
+35_9.txt,Lackawanna Blues,Positive,Acting;Plot;N/A,S. Epatha Merkerson (Actor); Terrence Howard (Actor); Ruben Santiago-Hudson (Screenwriter),Nostalgia,N/A
+360_9.txt,N/A,Positive,Suspense;Cinematography;Acting,Alfred Hitchcock (Director),Nostalgia,N/A
+361_9.txt,Strangers on a Train,Positive,Acting;Plot,Robert Walker (Actor); Alfred Hitchcock (Director); Warner Bros. (Studio),Frustration,4/5
+362_9.txt,Strangers on a Train,Positive,Acting;Plot,Robert Walker (Actor); Alfred Hitchcock (Director); Warner Bros (Studio),Frustration,4/5
+363_10.txt,Strangers on a Train,Positive,Cinematography;Acting;Plot,Alfred Hitchcock (Director); Robert Walker (Actor); Bruno (Character); Anthony Perkins (Actor),Satisfaction,N/A
+364_10.txt,Strangers on a Train,Positive,Plot;Acting;Cinematography,Robert Walker (Actor); Farley Granger (Actor); Alfred Hitchcock (Director); Warner Bros (Studio),Nostalgia,N/A
+365_10.txt,Strangers on a Train,Positive,Plot;Acting;Cinematography,Alfred Hitchcock (Director); Farley Granger (Actor); Ruth Roman (Actor); Robert Walker (Actor); Warner Bros. (Studio),Satisfaction,N/A
+366_8.txt,Strangers on a Train,Positive,Acting;Plot;Cinematography,Farley Granger (Actor); Robert Walker (Actor); Alfred Hitchcock (Director),Excitement,N/A
+367_8.txt,Strangers on a Train,Positive,Plot;Acting;N/A,Farley Granger (Actor); Robert Walker (Actor); Alfred Hitchcock (Director); N/A,Excitement,8/10
+368_8.txt,N/A,Positive,Cinematography;Plot;Acting,Alfred Hitchcock (Director); Ruth Roman (Actor),Excitement,5
+369_8.txt,Strangers on a Train,Positive,Plot;Acting;Cinematography,Alfred Hitchcock (Director),Disappointment,8/10
+36_8.txt,LACKAWANNA BLUES,Positive,Acting;Plot;Cinematography,Ruben Santiago-Hudson (Actor); Marcus Franklin (Actor); S. Epatha Merkeson (Actor); Terrance Howard (Actor); Louis Gossett Jr. (Actor); Rosie Perez (Actor); Jimmy Smits (Actor); Delroy Lindo (Actor); Macy Gray (Actor); Michael K. Williams (Actor); Jeffrey Wright (Actor); Henry Simmons (Actor); Patricia Wettig (Actor); Ernie Hudson (Actor); Mos Def (Actor); Hill Harper (Actor); HBO (Studio),Nostalgia,N/A
+370_8.txt,Strangers on a Train,Positive,Acting;Plot;Sentiment,Robert Walker (Actor); Patricia Hitchcock (Actor); Alfred Hitchcock (Director),Satisfaction,N/A
+371_8.txt,Strangers on a Train,Positive,Plot;Acting;Cinematography,Farley Granger (Actor); Robert Walker (Actor); Kasey Rogers (Actor); Laura Elliott (Actor); Ruth Roman (Actor); Patricia Hitchcock (Actor); Marion Lorne (Actor); Jonathan Hale (Actor); Howard St. John (Actor); John Brown (Actor); Leo G. Carroll (Actor); Alfred Hitchcock (Director),Nostalgia,N/A
+372_9.txt,Strangers on a Train,Positive,Acting;Plot;Cinematography,Robert Walker (Actor); Farley Granger (Actor); Alfred Hitchcock (Director); Patricia Hitchcock (Actor); Leo G. Carroll (Actor),Nostalgia,N/A
+373_10.txt,Strangers On A Train,Positive,Acting;Plot;Cinematography,Farley Granger (Actor); Robert Walker (Actor); Ruth Roman (Actor); Alfred Hitchcock (Director),Excitement,N/A
+374_9.txt,Strangers on a Train,Positive,Plot;Cinematography;Acting,Alfred Hitchcock (Director); Farley Granger (Actor); Ruth Roman (Actor); Robert Walker (Actor); Warner Bros. Pictures (Studio),Excitement,N/A
+375_10.txt,Strangers on a Train,Positive,Cinematography;Acting;Plot,Alfred Hitchcock (Director); Patricia Highsmith (Author); Robert Walker (Actor); Farley Granger (Actor); Kasey Rogers (Actor); Ruth Roman (Actor); Patricia Hitchcock (Actor); Leo G. Carroll (Actor); Marion Lorne (Actor); Norma Varden (Actor),Nostalgia,N/A
+376_10.txt,N/A,Positive,Plot;Acting,N/A,Nostalgia,N/A
+377_9.txt,Strangers On A Train,Positive,Cinematography;Acting;Plot,Alfred Hitchcock (Director); Farley Granger (Actor); Robert Walker (Actor); Patricia Hitchcock (Actor),Excitement,N/A
+378_9.txt,Strangers on a Train,Positive,Acting;Plot;Cinematography,Alfred Hitchcock (Director); Patricia Highsmith (Author); Leonardo DiCaprio (Actor),Excitement,N/A
+379_10.txt,Strangers on a Train,Positive,Cinematography;Acting;Plot,Alfred Hitchcock (Director); Robert Walker (Actor); Farley Granger (Actor),Excitement,10/10
+37_9.txt,N/A,Positive,Acting;Soundtrack;Plot,S. Epatha Merkerson (Actor); N/A (Director); N/A (Studio),Satisfaction,N/A
+380_9.txt,Strangers on a Train,Positive,Acting;Plot;Cinematography,Patricia Highsmith (Author); Alfred Hitchcock (Director); Robert Walker (Actor); Farley Granger (Actor); Laura Miller (Actor),Satisfaction,N/A
+381_10.txt,Strangers on a Train,Positive,Cinematography;Acting;Plot,Alfred Hitchcock (Director);Robert Walker (Actor);Farley Granger (Actor);Ruth Roman (Actor);Kasey Rogers (Actor);Patricia Hitchcock (Actor),Nostalgia,9/10
+382_10.txt,Strangers on a Train,Positive,Plot;Acting;Cinematography,Alfred Hitchcock (Director); Farley Granger (Actor); Ruth Roman (Actor); Robert Walker (Actor); Warner Bros. (Studio),Satisfaction,N/A
+383_9.txt,Strangers on a Train,Positive,Cinematography;Acting;Plot,Alfred Hitchcock (Director); Patricia Hitchcock (Actor); Robert Walker (Actor); Farley Granger (Actor); Norma Varden (Actor); Raymond Chandler (Writer); Patricia Highsmith (Writer),Nostalgia,N/A
+384_9.txt,Strangers on a Train,Positive,Plot;Acting,Alfred Hitchcock (Director); Farley Granger (Actor); Ruth Roman (Actor); Robert Walker (Actor); Warner Bros. Pictures (Studio),Excitement,N/A
+385_9.txt,Strangers On A Train,Positive,Acting;Plot;Cinematography,Robert Walker (Actor); Farley Granger (Actor); Ruth Roman (Actor); Alfred Hitchcock (Director); N/A,Nostalgia,N/A
+386_10.txt,Strangers on a Train,Positive,Acting;Plot;Cinematography,Robert Walker (Actor); Jennifer Jason Leigh (Actor); Alfred Hitchcock (Director);,Nostalgia,N/A
+387_8.txt,Strangers on a Train,Positive,Acting;Plot;Cinematography,Robert Walker (Actor); Farley Granger (Actor); Alfred Hitchcock (Director); Patricia Hitchcock (Actor),Excitement,N/A
+388_10.txt,Strangers on a Train,Positive,Acting;Plot;Cinematography,Robert Walker (Actor); Farley Granger (Actor); Ruth Roman (Actor); Patricia Hitchcock (Actor); Alfred Hitchcock (Director),Excitement,N/A
+389_10.txt,Strangers on a Train,Positive,Cinematography;Plot;Acting,Alfred Hitchcock (Director); Patricia Hitchcock (Actor); Bruno (Character); Guy (Character),Excitement,N/A
+38_8.txt,Lackawanna Blues,Positive,Acting;Plot;N/A,"S. Epatha Merkerson (Actor); Marcus Franklin (Actor); Mos Def (Actor); Macy Gray (Actor); Terrence Dashon Howard (Actor); Rosie Perez (Actor); Louis Gossett, Jr. (Actor); Liev Schreiber (Actor); Jimmy Smits (Actor); Ernie Hudson (Actor); Delroy Lindo (Actor); Patricia Wettig (Actor)",Satisfaction,N/A
+390_10.txt,Bobbycrush,Positive,Cinematography;Acting;Plot,Cam Archer (Director); Aaron Platt (Cinematographer); N/A,Nostalgia,N/A
+391_10.txt,Bobbycrush,Positive,Cinematography;Acting;Soundtrack,Cam Archer (Director),Satisfaction,N/A
+392_7.txt,N/A,Positive,Plot;Emotional Tone,N/A,Nostalgia,N/A
+393_7.txt,N/A,Positive,Acting;Plot,Victor Mature (Actor); Red Cloud (Actor),Nostalgia,7
+394_9.txt,The Mountain Men,Positive,Acting;Plot;Historical Accuracy,Victor Mature (Actor); John Ford (Director); N/A,Nostalgia,N/A
+395_8.txt,The Mountain,Positive,Acting;Plot;N/A,Victor Mature (Actor); Robert Preston (Actor); Anne Bancroft (Actor); James Whitmore (Actor); Anthony Mann (Director); N/A,Nostalgia,N/A
+396_7.txt,N/A,Positive,Plot;Acting,Robert Shaw (Actor),Excitement,7/10
+397_7.txt,The Last Frontier,Positive,Acting;Plot;Cinematography,Victor Mature (Actor); James Whitmore (Actor); Guy Madison (Actor); Robert Preston (Actor); Anne Bancroft (Actor); Anthony Mann (Director); Columbia (Studio),Nostalgia,N/A
+398_8.txt,The Last Frontier,Positive,Acting;Plot;Cinematography,Victor Mature (Actor); James Whitmore (Actor); Pat Hogan (Actor); Guy Madison (Actor); Robert Preston (Actor); Anne Bancroft (Actor),Nostalgia,N/A
+399_8.txt,The Last Outpost,Positive,Acting;Plot;Cinematography,Anthony Mann (Director); Victor Mature (Actor); Robert Preston (Actor); James Whitmore (Actor); Anne Bancroft (Actor),Satisfaction,N/A
+39_9.txt,She's Gotta Have It,Positive,Acting;Cinematography;Plot,S. Epatha Merkerson (Actor); Spike Lee (Director); N/A,Nostalgia,N/A
+3_7.txt,N/A,Positive,Acting;Plot,Kevin Costner (Actor); Ashton Kutcher (Actor); N/A,Frustration,7/10
+400_10.txt,Soul of the Game,Positive,Acting;Soundtrack;Plot,Ian McShane (Actor);N/A;N/A,Frustration,N/A
+401_10.txt,Soul,Positive,Acting;Soundtrack;Plot,Ian McShane (Actor); Isaac Hayes (Actor); Taurean Blacque (Actor); Derrick O'Connor (Actor); Antonio Fargas (Actor),Nostalgia,N/A
+402_8.txt,Crime Doctor's Courage,Positive,Plot;Acting;Cinematography,Warner Baxter (Actor); Hillary Brooke (Actor); Jerome Cowan (Actor); Lloyd Corrigan (Actor),N/A,N/A
+403_7.txt,The Crime Doctor's Strangest Case,Positive,Cinematography;Acting;Plot,Warner Baxter (Actor); Jerome Cowan (Actor); Emory Parnell (Actor),Nostalgia,N/A
+404_8.txt,Crime Doctor,Positive,Acting;Plot;Cinematography,Warner Baxter (Actor); N/A (Director); N/A (Studio),Nostalgia,N/A
+405_10.txt,Bagdad Cafe,Positive,Cinematography;Plot;Acting,Whoopi Goldberg (Actor); Jack Palance (Actor); N/A,Satisfaction,10
+406_7.txt,Whistling in the Dark,Negative,Acting;Plot,Red Skelton (Actor); Ann Rutherford (Actor); Virginia Grey (Actor); Conrad Veidt (Actor),Nostalgia,N/A
+407_7.txt,Whistling in the Dark,Positive,Acting;Plot,Red Skelton (Actor); Ann Rutherford (Actor); Conrad Veidt (Actor); Eve Arden (Actor); Virgina Grey (Actor); Rags Ragland (Actor),Nostalgia,N/A
+408_7.txt,N/A,Positive,Acting;Plot;Nostalgia,Red Skelton (Actor); Ann Rutherford (Actor); N/A,Nostalgia,N/A
+409_8.txt,The Fox,Positive,Acting;Plot;N/A,Red Skelton (Actor); Joseph Jones (Actor); Conrad Veidt (Actor); Ann Rutherford (Actor); Virginia Grey (Actor); Eve Arden (Actor),Satisfaction,N/A
+40_8.txt,Lackawana Blues,Positive,Acting;Plot;Soundtrack,Halle Berry (Actor); N/A; HBO,Nostalgia,N/A
+410_10.txt,The Fox,Positive,Acting;Plot;Cinematography,Red Skelton (Actor); Ann Rutherford (Actor); Conrad Veidt (Actor); S. Sylvan Simon (Director),Nostalgia,N/A
+411_8.txt,Re-Animator,Positive,Acting;Plot,Jeffrey Combs (Actor); Stuart Gordon (Director),Excitement,N/A
+412_7.txt,N/A,Positive,Plot;Cinematography,N/A,Nostalgia,N/A
+413_8.txt,N/A,Positive,Acting;Plot;Cinematography,"Ferdy Mayne (Actor); Norman Thaddeus Vane (Director); Leon Askin (Actor); Nita Talbot (Actor); Luca Bercovici (Actor); Jennifer Starrett (Actor); Jeffrey Combs (Actor); Scott Thomson (Actor); Chuck Porky"" Mitchell (Actor); Patrick Wright (Actor); Tallie Cochrane (Actor); Joel King (Cinematographer); Jerry Mosely (Composer)""",Excitement,N/A
+414_9.txt,N/A,Negative,Plot,N/A,Frustration,N/A
+415_10.txt,N/A,Positive,Acting;Plot,David Morse (Actor),Satisfaction,10
+416_10.txt,Hack,Positive,Acting;Plot;N/A,N/A,Frustration,N/A
+417_10.txt,N/A,Positive,Acting;Plot,David Morse (Actor);,Excitement,N/A
+418_9.txt,N/A,Positive,Acting;Plot,Morse (Actor);,Satisfaction,9
+419_9.txt,N/A,Positive,Acting;Plot;N/A,David Morse (Actor);N/A;N/A,Satisfaction,N/A
+41_9.txt,N/A,Positive,Acting;Soundtrack;Plot,S. Epatha Merkerson (Actor); Macy Gray (Actor); Mos Def (Actor); Lou Gossett Jr. (Actor); Jimmy Smits (Actor),Satisfaction,N/A
+420_10.txt,N/A,Positive,Acting;Plot,N/A,Satisfaction,N/A
+421_9.txt,N/A,Positive,Acting;Plot,Bebe Neuwirth (Actor); Andre Braugher (Actor); CBS (Studio),Frustration,N/A
+422_10.txt,N/A,Positive,Acting;Plot,David Morse (Actor); David Koepp (Director); N/A,Frustration,N/A
+423_10.txt,Hack,Positive,Acting;Plot;Dialogue,David Morse (Actor); N/A (Director); N/A (Studio),Nostalgia,N/A
+424_10.txt,N/A,Positive,Acting;Plot;Writing,David Morse (Actor); Andre Braugher (Actor); Donna Murphy (Actor),Satisfaction,N/A
+426_9.txt,N/A,Negative,Acting;Plot,David Morse (Actor); Andre Braugher (Actor),Frustration,N/A
+427_10.txt,Hack,Positive,Acting;Plot,David Morse (Actor); Gary Cole (Actor); ITV (Studio),Nostalgia,N/A
+428_10.txt,Taxi Driver,Positive,Acting;Plot;N/A,Robert De Niro (Actor); Martin Scorsese (Director); Columbia Pictures (Studio),Nostalgia,N/A
+429_10.txt,Hack,Positive,Acting;Plot;N/A,David Morse (Actor); Andre Braugher (Actor); Mathew Borish (Actor),Satisfaction,N/A
+42_10.txt,N/A,Positive,Acting;Plot;Soundtrack,S. Epatha Merkerson (Actor),Nostalgia,N/A
+430_10.txt,N/A,Positive,Acting;Plot;N/A,David Morse (Actor); Andre Braugher (Actor); George Dzunzda (Actor),Satisfaction,N/A
+431_9.txt,Hack,Positive,Acting;Plot;N/A,N/A,Satisfaction,N/A
+432_10.txt,The Rules of the Game,Positive,Cinematography;Acting;Plot,Jean Renoir (Director); Jean Gabin (Actor),Satisfaction,10
+433_8.txt,French Cancan,Positive,Acting;Plot;Cinematography,Jean Gabin (Actor); Françoise Arnoul (Actor); Maria Felix (Actor); Philippe Clay (Actor); Jean Renoir (Director),Nostalgia,N/A
+434_8.txt,French Cancan,Positive,Soundtrack;Cinematography;Acting,Jean Renoir (Director); Édith Piaf (Actor),Nostalgia,N/A
+435_7.txt,French Cancan,Positive,Soundtrack;Plot;Acting,N/A,Nostalgia,N/A
+436_10.txt,French Can Can,Positive,Cinematography;Acting;Plot,Jean Renoir (Director); Jean Gabin (Actor),Excitement,N/A
+437_9.txt,French Cancan,Positive,Cinematography;Acting;Plot,Jean Renoir (Director); Jean Gabin (Actor); Maria Felix (Actor); Françoise Arnoul (Actor); Lola de Castro (Actor); Lloyd Bacon (Director); Ruby Keeler (Actor); Warner Baxter (Actor); Dick Powell (Actor); Peggy Sawyer (Actor);  Edith Piaf (Actor);  Baz Luhrman (Director);  Sinclair Lewis (Author),Nostalgia,N/A
+438_9.txt,N/A,Positive,Cinematography;Plot;Acting,N/A,Satisfaction,N/A
+439_10.txt,N/A,Positive,Acting;Cinematography;Plot,Jean Gabin (Actor);,Satisfaction,N/A
+43_10.txt,Lackawanna Blues,Positive,Acting;Soundtrack;Plot,S. Epatha Merkerson (Actor); Jeffery Wright (Actor); Jimmy Smits (Actor); Terrence Howard (Actor); Delroy Lindo (Actor); Marcus Franklin (Actor); Macy Gray (Actor),Satisfaction,N/A
+440_8.txt,French Cancan,Positive,Soundtrack;Acting;Plot,Jean Gabin (Actor); Françoise Arnoul (Actor); Renoir (Director),Nostalgia,8/10
+441_10.txt,French Cancan,Positive,Cinematography;Soundtrack;Plot,Jean Renoir (Director);,Nostalgia,N/A
+442_10.txt,French Cancan,Positive,Acting;Plot;Soundtrack,Jean Gabin (Actor);  Gianni Esposito (Actor); Maria Felix (Actor); Françoise Arnoul (Actor); Edith Piaf (Actor); Patachou (Actor); André Claveau (Actor),Nostalgia,N/A
+443_8.txt,The Can-Can,Positive,Acting;Cinematography;Soundtrack,Jean Renoir (Director); Gene Kelly (Actor); Stanley Donen (Director),Nostalgia,N/A
+444_10.txt,Uncle Frank,Positive,Acting;Cinematography;N/A,Uncle Frank;Aunt Tillie;N/A,Nostalgia,N/A
+445_9.txt,Uncle Frank,Positive,Love Story;Social Commentary;Musical,N/A,Nostalgia,N/A
+446_10.txt,N/A,Positive,Acting;Plot,Uncle Frank; Matthew Ginsburg,Satisfaction,N/A
+447_10.txt,Uncle Frank,Positive,Acting;Plot;N/A,N/A,Satisfaction,N/A
+448_8.txt,The Journey,Positive,Acting;Plot;N/A,Anatole Litvak (Director); Yul Brynner (Actor); Deborah Kerr (Actor); Robert Morley (Actor); E.G. Marshall (Actor); Anne Jackson (Actor); Jason Robards (Actor),Satisfaction,N/A
+449_9.txt,The King and I,Positive,Acting;Plot;N/A,Yul Brynner (Actor); Deborah Kerr (Actor); Anne Jackson (Actor); N/A (Director); N/A (Studio),Nostalgia,N/A
+44_8.txt,Lackawanna Blues,Positive,Soundtrack;Acting;Plot,Ruben Santiago-Hudson (Writer); S. Epatha Merkerson (Actor); N/A,Excitement,N/A
+450_10.txt,The Journey,Positive,Acting;Plot,Yul Brynner (Actor); Deborah Kerr (Actor); Jason Robards Jr. (Actor); Robert Morley (Actor); E. G. Marshall (Actor); Anne Jackson (Actor); Ronnie Howard (Actor),Nostalgia,N/A
+451_8.txt,N/A,Positive,Acting;Plot;N/A,Yul Brynner (Actor); Deborah Kerr (Actor); N/A,N/A,N/A
+452_10.txt,The Journey,Positive,Acting;Plot;Cinematography,Deborah Kerr (Actor); Yul Brynner (Actor); George Tabori (Screenwriter); Anatole Litvak (Director); Warner Bros. Studios (Studio),Nostalgia,N/A
+453_9.txt,N/A,Positive,Acting;Plot;N/A,Yul Brynner (Actor); Tabori (Writer); N/A,Satisfaction,N/A
+454_10.txt,N/A,Positive,Acting;Plot;Cinematography,Mayor Surov (Actor); Diana Ashcroft (Actor),Frustration,N/A
+455_10.txt,N/A,Positive,Acting;Plot;N/A,Yul Brynner (Actor); Deborah Kerr (Actor); N/A,Nostalgia,N/A
+456_8.txt,The Journey,Positive,Acting;Plot;Romance,Yul Brynner (Actor); Anatole Litvak (Director); Jason Robards (Actor); Deborah Kerr (Actor); Robert Morley (Actor); E.G. Marshall (Actor); Anne Jackson (Actor); Ron Howard (Actor),Nostalgia,N/A
+457_8.txt,The Journey,Positive,Acting;Plot;Cinematography,Yul Brynner (Actor); Deborah Kerr (Actor); Gerard Oury (Actor); Anouk Aimee (Actor); Jason Robards Jr (Actor); Robert Morley (Actor); Abraham Polonsky (Director),Nostalgia,N/A
+458_9.txt,The Journey,Positive,Acting;Plot;Cinematography,Debra Kerr (Actor); Yul Brynner (Actor); N/A,Nostalgia,N/A
+459_9.txt,The Journey,Positive,Acting;Plot;N/A,"Deborah Kerr (Actor); Jason Robards, Jr. (Actor); Yul Brynner (Actor); Robert Morley (Actor); Senta Berger (Actor)",Nostalgia,N/A
+45_9.txt,N/A,Positive,Soundtrack;Acting;Plot,Jeffrey Wright (Actor),Nostalgia,N/A
+460_8.txt,N/A,Positive,Acting;Plot,Yul Brynner (Actor); Robert Morley (Actor); Jason Robards (Actor); Deborah Kerr (Actor),Satisfaction,8/10
+461_8.txt,The Journey,Positive,Acting;Plot;N/A,Deborah Kerr (Actor); Yul Brynner (Actor); Ronny Howard (Actor); E G Marshall (Actor); Anne Jackson (Actor);  (Director),Nostalgia,N/A
+462_7.txt,N/A,Positive,Acting;Cinematography;Plot,Bohl (Actor); Brundage (Actor); N/A,Satisfaction,N/A
+463_8.txt,N/A,Positive,Plot;Acting,N/A,Satisfaction,N/A
+464_10.txt,You Are Alone,Positive,Soundtrack;Acting;Plot,Jessica Bohl (Actor),Satisfaction,N/A
+465_10.txt,N/A,Positive,Plot;Acting;Cinematography,Gorman Bechard (Director);,Satisfaction,N/A
+466_9.txt,N/A,Positive,Soundtrack;Acting;Plot,Nick Drake (Actor);,Satisfaction,N/A
+467_9.txt,N/A,Negative,Acting;Plot,Gorman (Director); Bohl (Actor),Frustration,N/A
+468_8.txt,N/A,Positive,Acting;Plot;Soundtrack,Jessica Bohl (Actor); Richard Brundage (Actor); Tywanna Jo Baskette (Music); Crooked Fingers (Music); Atom Egoyan (Director); Raymond Carver (Writer),Satisfaction,N/A
+469_8.txt,You Are Alone,Positive,Plot;Soundtrack;Acting,N/A,Satisfaction,N/A
+46_10.txt,Lakawanna Blues,Positive,Acting;Plot;Nostalgia,Terrance Howard (Actor); Mos Def (Actor); Ebony Magazine,Nostalgia,N/A
+470_10.txt,N/A,Positive,Acting;Cinematography;Soundtrack,Bohl (Actor); Brundruge (Actor); Bechard (Director),Satisfaction,N/A
+471_10.txt,N/A,Positive,Acting;Plot;N/A,Gorman Bechard (Writer); N/A,Satisfaction,N/A
+472_10.txt,You Are Alone,Positive,Acting;Plot;Cinematography,Jessica Bohl (Actor); Richard Brundage (Actor); Gorman Bechard (Director),Satisfaction,N/A
+473_9.txt,You Are Alone,Positive,Acting;Plot;Cinematography,Jessica Bohl (Actor); Richard Brundage (Actor); Gorman Bechard (Director),Excitement,N/A
+474_8.txt,YOU ARE ALONE,Positive,Acting;Soundtrack;Plot,Bechard (Writer);Bechard (Director);N/A,Satisfaction,N/A
+475_10.txt,You Are Alone,Positive,Acting;Soundtrack;Plot,Jessica Bohl (Actor); Brittany (Actor); Gorman Becherd (Director),Satisfaction,N/A
+476_9.txt,You Are Alone,Positive,Plot;Acting;Cinematography,Gorman Bechard (Director); N/A (Studio),Satisfaction,N/A
+477_8.txt,N/A,Positive,Acting;Cinematography;Plot,N/A,Satisfaction,N/A
+478_9.txt,YOU ARE ALONE,Positive,Acting;Plot,Jessica Bohl (Actor),Excitement,N/A
+479_9.txt,You Are Alone,Positive,Acting;Soundtrack;Plot,Jessica Bohl (Actor); Richard Brundage (Actor); Gorman Bechard (Writer),Frustration,N/A
+47_10.txt,Lackawanna Blues,Positive,Acting;Nostalgia;N/A,N/A,Nostalgia,N/A
+480_10.txt,You Are Alone,Positive,Plot;Acting,N/A,Satisfaction,N/A
+481_7.txt,The Mikado,Negative,Acting;Soundtrack,Eric Idle (Actor);Brian McDonald (Director);Stratford Festival (Studio),Disappointment,N/A
+482_9.txt,The Mikado,Positive,Acting;Soundtrack;Costumes,Eric Idle (Actor); Felicity Palmer (Actor); Bonaventura Bottone (Actor); Lesley Garett (Actor); Mark Richardson (Actor); Richard Van Allan (Actor); Richard Angas (Actor),Satisfaction,N/A
+483_10.txt,N/A,Positive,N/A,N/A,Nostalgia,N/A
+484_8.txt,The Mikado,Positive,Acting;Costumes;Cinematography,Felicity Palmer (Actor); Mark Richardson (Actor); Lesley Garrett (Actor),Satisfaction,N/A
+485_10.txt,Cowboys and Indians,Positive,Acting;Plot;Writing,Andrew Berzins (Writer);N/A;N/A,Satisfaction,N/A
+486_10.txt,N/A,Positive,Acting;Plot,Eric (Actor);N/A;N/A,Satisfaction,N/A
+487_10.txt,N/A,Negative,Plot,N/A,Frustration,N/A
+488_8.txt,N/A,Positive,Acting;Plot;Cinematography,Gordon Tootoosis (Actor); Eric Schweig (Actor); Adam Beach (Actor); Gary Chalk (Actor),Satisfaction,N/A
+489_9.txt,Blade,Positive,Acting;Plot;Action,Wesley Snipes (Actor); Stephen Norrington (Director); New Line Cinema (Studio),Excitement,N/A
+48_9.txt,Lackawanna Blues,Positive,Soundtrack;Acting;Plot,Ruben Santiago-Hudson (Actor); Ruben Santiago-Hudson (Director); HBO (Studio),Nostalgia,N/A
+490_8.txt,Blade,Positive,Acting;Plot;Soundtrack,Wesley Snipes (Actor); N'Bushe Wright (Actor); Kris Kristofferson (Actor); Stephen Dorff (Actor); Source Direct (Musician); Photek (Musician),Satisfaction,8/10
+491_9.txt,Blade,Positive,Acting;Plot;Action,Wesley Snipes (Actor);,Excitement,N/A
+492_10.txt,N/A,Positive,Acting;Plot;Action,Wesley Snipes (Actor); N/A (Director); N/A (Studio),Excitement,N/A
+493_7.txt,Blade,Positive,Cinematography;Plot;Acting,N/A,Satisfaction,N/A
+494_10.txt,Blade,Positive,Acting;Plot,Stephen Dorff (Actor);,Excitement,N/A
+495_10.txt,Blade,Positive,Action;Acting;Horror,Wesley Snipes (Actor); Stephen Norrington (Director); New Line Cinema (Studio),Excitement,N/A
+496_9.txt,"`""N/A""",Positive,Acting;Plot;Comedy,Wesley Snipes (Actor); N/A (Director); N/A (Studio),Excitement,N/A
+497_9.txt,Blade,Positive,Acting;Plot;N/A,Wesley Snipes (Actor); Stephen Dorff (Actor); Arly Jover (Actor); Donal Logue (Actor); N/A,Excitement,N/A
+498_10.txt,Blade,Positive,Acting;Plot,Wesley Snipes (Actor);,Excitement,N/A
+499_8.txt,N/A,Positive,Plot;Acting;N/A,N/A,Nostalgia,8/10
+49_10.txt,Lackawanna Blues,Positive,Acting;Soundtrack;Plot,Macy Gray (Actor); S. Epatha Merkerson (Actor); N/A,Nostalgia,N/A
+4_10.txt,N/A,Positive,Acting;Plot;N/A,Ashton Kutcher (Actor);N/A;N/A,Satisfaction,N/A
+500_10.txt,Blade,Positive,Acting;Plot;N/A,Wesley Snipes (Actor); N/A; N/A,Satisfaction,N/A
+501_10.txt,Blade,Positive,Acting;Cinematography;Plot,Wesley Snipes (Actor); Steven Dorff (Actor); N/A,Excitement,N/A
+502_7.txt,Blade,Positive,Acting;Cinematography;Plot,Wesley Snipes (Actor); Kris Kristofferson (Actor); New Line Cinema (Studio),Excitement,N/A
+503_9.txt,Blade II,Positive,Acting;Plot;Fight Scenes,Wesley Snipes (Actor); Stephen Dorff (Actor); Guillermo del Toro (Director); New Line Cinema (Studio),Excitement,9/10
+504_8.txt,N/A,Positive,Acting;Plot;Cinematography,N/A,Excitement,N/A
+505_9.txt,Blade,Positive,Plot;Acting,Wesley Snipes (Actor); Stephen Norrington (Director); New Line Cinema (Studio),Excitement,N/A
+506_8.txt,Blade,Positive,Plot;Acting;Gore,Wesley Snipes (Actor); Stephen Norrington (Director); New Line Cinema (Studio),Satisfaction,87
+507_7.txt,Blade,Positive,Acting;Plot;Soundtrack,Wesley Snipes (Actor); Stephen Dorff (Actor); Kris Kristofferson (Actor); David Goyer (Writer); Stephen Norrington (Director); Mark Isham (Composer),Excitement,7.6
+508_7.txt,Blade,Positive,Acting;Plot;Cinematography,Wesley Snipes (Actor); Stephen Norrington (Director); New Line Cinema (Studio),Excitement,N/A
+509_7.txt,Blade,Positive,Acting;Plot;Action,Wesley Snipes (Actor); Stephen Norrington (Director); New Line Cinema (Studio),Excitement,N/A
+50_10.txt,N/A,Positive,Acting;Plot;N/A,N/A,Satisfaction,N/A
+510_7.txt,N/A,Positive,Cinematography;Plot;Gore,N/A,Excitement,N/A
+511_7.txt,Blade,Positive,Acting;Cinematography;Plot,Wesley Snipes (Actor); Kris Kristofferson (Actor); N'Bushe Wright (Actor); Donal Logue (Actor); Udo Kier (Actor); Stephen Dorf (Actor); David Goyer (Director); Stephen Norrington (Director),Satisfaction,7/10
+512_8.txt,Blade,Positive,Acting;Plot;Action,Wesley Snipes (Actor); Kris Kristofferson (Actor); Stephen Dorff (Actor); N/A (Director),Excitement,8/10
+513_8.txt,N/A,Positive,Action;Acting;One-liners,N/A,Excitement,9/10
+514_9.txt,Blade,Positive,Acting;Plot;Cinematography,Wesley Snipes (Actor); N/A (Director); N/A (Studio),Excitement,9/10
+515_9.txt,Blade,Positive,Acting;Soundtrack;Plot,Wesley Snipes (Actor); Steven Dorff (Actor); Kris Kristofferson (Actor),Excitement,N/A
+516_9.txt,Blade,Positive,Acting;Plot;Cinematography,Blade (Actor); Wesley Snipes (Actor); Stephen Norrington (Director); New Line Cinema (Studio),Satisfaction,N/A
+517_8.txt,The Lady in Black,Positive,Acting;Cinematography;Soundtrack,David Hasselhoff (Actor); Leslie Cummings (Actor); Linda Blair (Actor); Annie Ross (Actor); Catherine Hickland (Actor); Fabrizio Laurenti (Director); Joe D'Amato (Producer); Gianlorenzo Battaglia (Cinematographer); Carlo Maria Cordio (Composer); Randy Miller (Composer),Nostalgia,N/A
+518_10.txt,Witchcraft,Positive,Plot;Acting,David Hasselhoff (Actor); Linda Blair (Actor); N/A,Excitement,N/A
+519_7.txt,Witchery,Positive,Acting;Plot;Gore,David Hasselhoff (Actor); Linda Blair (Actor); N/A,Satisfaction,7/10
+51_10.txt,N/A,Positive,Acting;Soundtrack;Cinematography,Ms. Merkerson (Actor);,Satisfaction,N/A
+520_10.txt,Witchery,Positive,Acting;Cinematography;Plot,Linda Blair (Actor); Catherine Hickland (Actor); Rick Farnsworth (Actor); David Hasselhoff (Actor); Leslie Cumming (Actor); Hildegard Knef (Actor); Michael Manchester (Actor); Annie Ross (Actor); George Stevens (Actor); Dario Argento (Director); N/A (Studio),Nostalgia,N/A
+521_7.txt,Witchery,Positive,Plot;Acting;Cinematography,Linda Blair (Actor); Annie Ross (Actor); Robert Champagne (Actor); Michael Manchester (Actor); Catherine Hickland (Actor); Rick Farnsworth (Actor); George Stevens (Actor); David Hasselhoff (Actor); Leslie Cumming (Actor); Hildegard Knef (Actor); Fabrizio Laurenti (Director); Martin Newlin (Director); Joe D'Amato (Director); Harry Spalding (Writer); Daniele Stroppa (Writer); Daniel Davis (Writer),Satisfaction,N/A
+522_10.txt,N/A,Positive,Acting;Plot;Horror,Linda Blair (Actor); David Hasselhoff (Actor),Nostalgia,N/A
+523_9.txt,Four Shades of Brown,Positive,Plot;Acting;N/A,Ulf Brunnberg (Actor);N/A;N/A,Satisfaction,N/A
+524_9.txt,N/A,Positive,Plot;Acting,N/A,Excitement,N/A
+525_9.txt,N/A,Positive,Cinematography;Acting;Plot,N/A,Satisfaction,9
+526_10.txt,Four Shades of Brown,Positive,Acting;Plot;N/A,Robert Gustafsson (Actor);N/A;N/A,Satisfaction,N/A
+527_10.txt,N/A,Positive,Soundtrack;Plot,Saint Etienne (Musician),Excitement,N/A
+528_7.txt,FINISTERRE,Positive,Cinematography;Soundtrack;Plot,N/A,Excitement,7/10
+529_10.txt,N/A,Positive,Acting;Plot,Natalie (Actor); Susan (Actor),Satisfaction,N/A
+52_10.txt,Nanny,Positive,Acting;Plot,N/A,Satisfaction,N/A
+530_10.txt,N/A,Positive,Acting;Plot,Natalie Portman (Actor); Susan Sarandon (Actor),Satisfaction,N/A
+531_10.txt,N/A,Positive,Acting;Plot,Natalie Portman (Actor); N/A; N/A,Nostalgia,10/10
+532_8.txt,Anywhere But Here,Positive,Acting;Plot,Natalie Portman (Actor); Susan Sarandon (Actor),Nostalgia,N/A
+533_10.txt,Anywhere But Here,Positive,Acting;Plot;N/A,Susan Sarandon (Actor); Natalie Portman (Actor); N/A,Satisfaction,N/A
+534_10.txt,Anywhere But Here,Positive,Acting;Plot;Emotional Impact,Natalie Portman (Actor); Susan Sarandon (Actor);  N/A,Nostalgia,N/A
+535_10.txt,N/A,Positive,Acting;Plot;Soundtrack,Natalie Portman (Actor),Satisfaction,10
+536_7.txt,N/A,Positive,Acting;Plot,Natalie Portman (Actor); Susan (Actor),Satisfaction,7/10
+537_10.txt,N/A,Positive,Acting;Acting,Natalie Portman (Actor); Susan Sarandon (Actor);,Satisfaction,N/A
+538_8.txt,N/A,Positive,Acting;Plot;Relationships,Susan Sarandon (Actor); Natalie Portman (Actor),Nostalgia,8
+539_7.txt,N/A,Positive,Acting;Plot,Natalie Portman (Actor); Susan Sarandon (Actor),Satisfaction,7
+53_7.txt,The First Time,Positive,Acting;Plot;N/A,Ruben Santiago Hudson (Actor); Halle Berry (Producer); Terrence Howard (Actor); Markerson (Actor); Jeffery Wright (Actor); Carman Ejogo (Actor); Macy Gray (Actor); Lou Gosset (Actor); Omar (Actor); Rosie Perez (Actor); Richard (Actor); Delroy Lindo (Actor),Satisfaction,N/A
+540_8.txt,N/A,Positive,Acting;Plot,Natilie Portman (Actor),Satisfaction,7
+541_7.txt,N/A,Positive,Acting;Plot,Susan Sarandon (Actor),Satisfaction,N/A
+542_7.txt,Anywhere But Here,Positive,Acting;Plot,Susan Sarandon (Actor); Natalie Portman (Actor); Shawn Hatosy (Actor),Disappointment,N/A
+543_8.txt,N/A,Positive,Acting;Plot,Susan Sarandon (Actor); Natalie Portman (Actor);,Satisfaction,N/A
+544_8.txt,N/A,Positive,Acting;Plot,Natalie Portman (Actor); Susan (Actor),Satisfaction,N/A
+545_7.txt,Anywhere But Here,Neutral,Acting;Plot;N/A,Susan Sarandon (Actor); Natalie Portman (Actor); N/A,Satisfaction,N/A
+546_7.txt,Anywhere But Here,Positive,Acting;Plot;N/A,Susan Sarandon (Actor); N/A; N/A,Satisfaction,N/A
+547_7.txt,Anywhere but Here,Positive,Acting;Plot;Cinematography,Natalie Portman (Actor); Susan Sarandon (Actor); N/A,Satisfaction,7/10
+548_10.txt,N/A,Positive,Acting;Plot;Soundtrack,Natalie Portman (Actor); Susane Sarandon (Actor),Satisfaction,10
+549_10.txt,Anywhere But Here,Positive,Acting;Plot,Susan Sarandon (Actor); Natalie Portman (Actor);,Satisfaction,N/A
+54_10.txt,The Best of Enemies,Positive,Acting;Plot;Soundtrack,S Eptath (Actor); Mos Def (Actor); Rosie Perez (Actor),Satisfaction,N/A
+550_8.txt,Anywhere but Here,Neutral,Acting;Plot,Susan Sarandon (Actor); Natalie Portman (Actor); Wayne Wang (Director),Disappointment,N/A
+551_9.txt,N/A,Positive,Acting;Plot,Natalie Portman (Actor); Susan Sarandon (Actor),Satisfaction,N/A
+552_9.txt,N/A,Positive,Acting;Plot;N/A,Natalie Portman (Actor); Susan Sarandon (Actor); N/A,Nostalgia,8/10
+553_9.txt,N/A,Positive,Acting;Plot,Natalie Portman (Actor); Susan Sarandon (Actor);,Nostalgia,N/A
+554_9.txt,N/A,Positive,Acting;Plot,Natalie Portman (Actor);,Satisfaction,N/A
+555_7.txt,Anywhere But Here,Positive,Acting;Plot;N/A,Natalie Portman (Actor); Susan Sarandon (Actor); N/A,Satisfaction,N/A
+556_7.txt,N/A,Neutral,Acting;Plot,Susan Sarandon (Actor); Natalie Portman (Actor),Disappointment,7/10
+557_9.txt,Anywhere But Here,Positive,Acting;Plot,Wayne Wang (Director); Susan Sarandon (Actor); Natalie Portman (Actor),Satisfaction,N/A
+558_10.txt,The Trials of Darryl Hunt,Positive,Plot;Acting;N/A,Patrick McGuinness (Actor); Ann Finnell (Actor); N/A,Frustration,N/A
+559_10.txt,The Murder of the Century,Positive,Plot;Acting,N/A,Satisfaction,N/A
+55_10.txt,Nanny,Positive,Acting;Plot;Soundtrack,N/A,Satisfaction,N/A
+560_8.txt,N/A,Positive,Plot;Acting,Brenton Butler (Actor),Frustration,N/A
+561_10.txt,N/A,Positive,Plot;Acting;Soundtrack,Atticus Finch (Character),Nostalgia,N/A
+562_8.txt,N/A,Negative,Plot,N/A,Frustration,N/A
+563_10.txt,Murder On A Sunday Morning,Positive,Plot;Acting,Pat McGuinness (Actor);,Satisfaction,N/A
+564_9.txt,The Trial of the Chicago 7,Negative,Plot;Acting,Aaron Sorkin (Writer); Sacha Baron Cohen (Actor); Yahya Abdul-Mateen II (Actor); Mark Rylance (Actor); Frank Langella (Actor); Joseph Gordon-Levitt (Actor); Eddie Redmayne (Actor); Jeremy Strong (Actor); Michael Keaton (Actor);  Netflix (Studio),Frustration,N/A
+565_8.txt,The Florida Project,Positive,Plot;Cinematography,N/A,Satisfaction,N/A
+566_9.txt,N/A,Positive,Plot;Justice,Duval County Sheriff's Department;Public Defender,Satisfaction,N/A
+567_9.txt,N/A,Positive,Plot;Acting,N/A,Frustration,N/A
+568_9.txt,N/A,Positive,Plot;Acting;N/A,Mc Guinness (Actor); N/A (Studio),Frustration,N/A
+569_7.txt,N/A,Negative,Plot;Acting,N/A,Frustration,7/10
+56_10.txt,Lackawanna Blues,Positive,Acting;Plot;N/A,Ruben Santiago-Hudson (Actor); Ruben Santiago-Hudson (Playwright),Nostalgia,N/A
+570_9.txt,N/A,Positive,Acting;Plot;Cinematography,N/A,Satisfaction,N/A
+571_10.txt,N/A,Positive,Plot;Acting;N/A,N/A,Satisfaction,10
+572_10.txt,N/A,Positive,Plot;N/A;N/A,N/A,Satisfaction,N/A
+573_10.txt,N/A,Positive,Plot;Acting,N/A,Satisfaction,N/A
+574_10.txt,N/A,Positive,Plot;Social Justice,N/A,Frustration,N/A
+575_7.txt,N/A,Positive,Cinematography;Plot,N/A,Satisfaction,N/A
+576_8.txt,Blood Stalkers,Positive,Plot;Acting;N/A,Robert W Morgan (Director);Robert W Morgan (Actor);N/A,Nostalgia,8/10
+577_8.txt,The Muppet Movie,Positive,Acting;Plot;Soundtrack,Kermit the Frog (Actor); Jim Henson (Director); The Jim Henson Company (Studio),Nostalgia,N/A
+578_9.txt,The Muppet Movie,Positive,Soundtrack;Acting;Plot,Jim Henson (Director); Kermit the Frog (Actor); Miss Piggy (Actor),Nostalgia,N/A
+579_10.txt,The Muppet Movie,Positive,Acting;Plot;Soundtrack,Jim Henson (Director); Kermit the Frog (Actor); Miss Piggy (Actor); Paul Williams (Composer); Steve Martin (Actor); Edgar Bergen (Actor),Nostalgia,N/A
+57_10.txt,Lackawanna Blues,Positive,Acting;Plot;Soundtrack,Danny Glover (Actor); Ruben Santiago-Hudson (Actor); Rosie Perez (Actor); HBO Films (Studio),Nostalgia,10 stars
+580_10.txt,The Muppet Movie,Positive,Soundtrack;Plot;Acting,Kermit the Frog (Actor); Fozzie Bear (Actor); Miss Piggy (Actor); Gonzo (Actor); Camilla (Actor); Rowlf (Actor); The Electric Mayhem (Actor); Bunsen Honeydew (Actor); Beaker (Actor); Dr. Teeth (Actor); Floyd (Actor); Janice (Actor); Scooter (Actor); Animal (Actor); Big Bird (Actor); Jim Henson (Director); The Walt Disney Company (Studio),Nostalgia,10/10
+581_9.txt,N/A,Positive,Soundtrack;Acting;Plot,Jim Henson (Director); Disney (Studio),Nostalgia,8.9/10
+582_10.txt,The Muppet Movie,Positive,Acting;Soundtrack;Plot,Jim Henson (Director); Kermit the Frog (Character); Animal (Character); Fozzie Bear (Character); Gonzo (Character); Swedish Chef (Character); Steve Martin (Actor); Telly Savalas (Actor); Richard Pryor (Actor); Mel Brooks (Actor); Charles Durning (Actor),Nostalgia,10/10
+583_8.txt,The Muppet Movie,Positive,Acting;Soundtrack;Plot,Steve Martin (Actor); Jim Henson (Director); The Jim Henson Company (Studio),Nostalgia,N/A
+584_10.txt,The Muppet Movie,Positive,Soundtrack;Acting;Plot,Jim Henson (Director); Kermit the Frog (Actor); Miss Piggy (Actor); Fozzie Bear (Actor); Gonzo (Actor); Animal (Actor);  The Muppets (Studio),Nostalgia,N/A
+585_10.txt,The Muppet Movie,Positive,Soundtrack;Plot,Kermit (Character); Jim Henson (Director); The Muppets (Studio),Nostalgia,N/A
+586_8.txt,The Muppets,Positive,Soundtrack;Acting;Plot,Jim Henson (Director); Kermit the Frog (Actor); Miss Piggy (Actor),Nostalgia,N/A
+587_8.txt,The Muppet Movie,Positive,Acting;Plot,Jim Henson (Director); Kermit the Frog (Actor); Miss Piggy (Actor); Charles Durning (Actor); Edgar Bergan (Actor),Nostalgia,N/A
+588_7.txt,The Muppet Movie,Positive,Acting;Soundtrack;Plot,Jim Henson (Director); Kermit The Frog (Actor); Fozzie Bear (Actor); Rowlf (Actor); Animal (Actor); Miss Piggy (Actor); Dom DeLuise (Actor); James Coburn (Actor); Telly Savalas (Actor); Madeline Kahn (Actor); Charles Durning (Actor); Austin Pendleton (Actor); Milton Berle (Actor); Bob Hope (Actor); Richard Pryor (Actor); Steve Martin (Actor); Mel Brooks (Actor); Orson Welles (Actor); Cloris Leachman (Actor); Paul Williams (Actor),Nostalgia,N/A
+589_10.txt,The Muppet Movie,Positive,Acting;Soundtrack;Plot,Jim Henson (Director); Kermit the Frog (Actor); Miss Piggy (Actor); Mel Brooks (Actor),Nostalgia,N/A
+58_8.txt,N/A,Positive,Acting;Soundtrack;Plot,Epatha Merkerson (Actor); Terrence Howard (Actor); HBO (Studio),Satisfaction,N/A
+590_7.txt,The Muppet Movie,Positive,Plot;Soundtrack;Acting,Jim Henson (Director); Kermit the Frog (Actor); Dom DeLuise (Actor); Richard Pryor (Actor); Steve Martin (Actor); Edgar Bergen (Actor); Milton Berle (Actor); Mel Brooks (Actor),Nostalgia,N/A
+591_8.txt,The Muppet Movie,Positive,Plot;Acting;Soundtrack,Kermit the Frog (Actor); James Frawley (Director); N/A,Nostalgia,N/A
+592_10.txt,The Muppet Movie,Positive,Soundtrack;Acting;Plot,Miss Piggy (Actor); Kermit (Actor); Fozzie Bear (Actor); Jerry Juhl (Writer); Bob Hope (Actor); Orson Welles (Actor); Madeleine Kahn (Actor); Cloris Leachman (Actor); Steve Martin (Actor); Richard Pryor (Actor),Nostalgia,10/10
+593_10.txt,The Muppet Movie,Positive,Acting;Plot;Soundtrack,Kermit the Frog (Actor); Jim Henson (Director); The Muppets (Studio),Nostalgia,N/A
+594_9.txt,The Muppet Movie,Positive,Soundtrack;Acting;Plot,Jim Henson (Director); Kermit the Frog (Actor); Miss Piggy (Actor); Fozzie Bear (Actor); Gonzo (Actor); Dom DeLuise (Actor); Steve Martin (Actor),Nostalgia,N/A
+595_10.txt,The Muppet Movie,Positive,Plot;Acting,Kermit the Frog (Actor); Fozzie Bear (Actor); Gonzo (Actor); Miss Piggy (Actor); Steve Martin (Actor); Mel Brooks (Actor); Elliot Gould (Actor); Carol Kane (Actor); Richard Pryor (Actor); Orson Welles (Actor); Jason Segel (Actor),Nostalgia,N/A
+596_10.txt,The Muppet Movie,Positive,Plot;Acting,Jim Henson (Actor;Director); Frank Oz (Actor;Director);  The Muppets (Actor);  Universal Pictures (Studio),Nostalgia,10
+597_9.txt,The Muppet Movie,Positive,Soundtrack;Acting;Plot,Kermit the Frog (Actor); Miss Piggy (Actor); Fozzie Bear (Actor); Jim Henson (Director); The Muppets (Studio),Nostalgia,N/A
+598_9.txt,The Muppet Movie,Positive,Plot;Acting;Soundtrack,Jim Henson (Director); Frank Oz (Actor); Paul Williams (Music);  Disney (Studio); Electric Mayhem (Music);  Kermit the Frog (Actor);  Miss Piggy (Actor);  Fozzie Bear (Actor);  Gonzo (Actor);  Animal (Actor),Nostalgia,N/A
+599_9.txt,The Muppet Movie,Positive,Soundtrack;Acting;Nostalgia,N/A,Nostalgia,N/A
+59_10.txt,Lackawanna Blues,Positive,Acting;Plot;N/A,S. Epatha Merkerson (Actor); Jimmy Smits (Actor); HBO (Studio),Nostalgia,N/A
+5_7.txt,N/A,Negative,Acting;Plot;Special Effects,Kevin Costner (Actor); Ashton Kutcher (Actor),Disappointment,N/A
+600_8.txt,The Muppet Movie,Positive,Soundtrack;Nostalgia,Jim Henson (Director); Frank Oz (Director); The Muppets (Actors),Nostalgia,N/A
+601_10.txt,The Muppet Movie,Positive,Soundtrack;Plot,Jim Henson (Director); Kermit the Frog (Actor); Miss Piggy (Actor); Fozzie Bear (Actor),Nostalgia,N/A
+602_10.txt,The Muppet Movie,Positive,Soundtrack;Plot;Acting,Jim Henson (Actor); Frank Oz (Actor); Jerry Nelson (Actor); Richard Hunt (Actor); Dave Goelz (Actor); Charles Durning (Actor); Mel Brooks (Actor); Steve Martin (Actor); Carol Kane (Actor); Orson Welles (Actor); Bob Hope (Actor); Richard Pryor (Actor),Nostalgia,N/A
+603_8.txt,The Muppet Movie,Positive,Acting;Plot;Soundtrack,Kermit the Frog (Actor); Jim Henson (Director);  The Muppets (Studio); Mel Brooks (Actor),Nostalgia,N/A
+604_10.txt,The Muppet Movie,Positive,Plot;Acting;Soundtrack,"Jim Henson (Director, Actor); Kermit the Frog (Character); Fozzie Bear (Character); The Great Gonzo (Character); Miss Piggy (Character); Rolf (Character); Dr. Teeth (Character); Electric Mayhem (Character); Mel Brooks (Actor); Dom DeLouise (Actor); Paul Williams (Actor); Madeline Kahn (Actor); Bob Hope (Actor); Richard Pryor (Actor); Steve Martin (Actor); Edgar Bergen (Actor); Charlie McCarthey (Character); Elliot Gould (Actor); Carol Kane (Actor); Orson Welles (Actor)",Nostalgia,N/A
+605_10.txt,The Muppet Movie,Positive,Plot;Soundtrack;Acting,Jim Henson (Director); Kermit the Frog (Actor); Miss Piggy (Actor); Fozzie Bear (Actor); Gonzo (Actor); Animal (Actor); Rowlf the Dog (Actor); Frank Oz (Director); Charles Durning (Actor); Dom DeLuise (Actor),Nostalgia,N/A
+606_9.txt,The Muppet Movie,Positive,Plot;Soundtrack;Acting,Jim Henson (Director); Jerry Juhl (Writer); Paul Williams (Composer); Frank Oz (Actor),Nostalgia,9.5/10
+607_10.txt,N/A,Positive,Acting;Plot;Themes,Haruko Sugimara (Actor); Chikako Hosokawa (Actor); Yuko Mochizuki (Actor); Mr. Naruse (Director),Nostalgia,N/A
+608_8.txt,Bangiku,Positive,Acting;Plot;N/A,Naruse (Director); Okin (Actor),Nostalgia,N/A
+609_7.txt,Late Chrysanthemums,Neutral,Plot;Acting,Haruko Sugimura (Actor); N/A (Director); N/A (Studio),Nostalgia,7/10
+60_8.txt,Lackawanna Blues,Positive,Acting;Plot;Soundtrack,S. Epatha Merkerson (Actor); George Wolf (Director); Ruben Santiago Hudson (Writer); Terrence Dashon Howard (Actor); Mos Def (Actor); Jeffrey Wright (Actor); Marcy Gray (Actor); Louis Gossett Jr. (Actor); Delroy Lindo (Actor); Rosie Perez (Actor); Carmen Ejogo (Actor); Jimmy Smits (Actor); Marcus Carl Franklin (Actor),Nostalgia,N/A
+610_9.txt,Late Chrysanthemums,Neutral,Plot;Acting;N/A,Mikio Naruse (Director);N/A;N/A,Frustration,N/A
+611_10.txt,Late Chrysanthemums,Positive,Cinematography;Plot;Acting,Mikio Naruse (Director); Ozu (Director); Mizoguchi (Director); Dreyer (Director),Satisfaction,N/A
+612_9.txt,Late Chrysanthemums,Positive,Acting;Plot;Nostalgia,Haruko Sugimura (Actor); Sadako Sawamura (Actor); Chikako Hosokawa (Actor); Yuko Mochizuki (Actor); Ken Uehara (Actor); Mikio Naruse (Director); Fumiko Hayashi (Writer); Cinematheque Ontario (Studio); The Japan Foundation (Studio),Nostalgia,N/A
+613_10.txt,Robe d'ete,Positive,Cinematography;Plot;Acting,N/A,Nostalgia,N/A
+614_10.txt,N/A,Positive,Cinematography;Acting,N/A,Satisfaction,N/A
+615_8.txt,Robe d'Ete,Positive,Plot;N/A;N/A,Francois Ozon (Director);N/A;N/A,Nostalgia,N/A
+616_10.txt,N/A,Positive,Plot;Acting;N/A,N/A,Satisfaction,N/A
+617_9.txt,N/A,Positive,Plot;Cinematography;Acting,N/A,Satisfaction,N/A
+618_7.txt,N/A,Positive,Plot;Acting,N/A,Excitement,N/A
+619_10.txt,N/A,Positive,Plot;Acting;Violence,N/A,Excitement,N/A
+61_9.txt,Lackawanna Blues,Positive,Acting;Plot;Soundtrack,S. Epatha Merkerson (Actor); Ruben Santiago-Hudson (Writer/Actor); N/A,Nostalgia,N/A
+620_8.txt,N/A,Positive,Acting;Plot;Comedy,N/A,Excitement,N/A
+621_7.txt,Mute Witness,Positive,Plot;Acting;Cinematography,Anthony Waller (Director); Alec Guinness (Actor); N/A,Excitement,N/A
+622_10.txt,N/A,Positive,Plot;Acting;Cinematography,N/A,Excitement,10
+623_8.txt,N/A,Positive,Acting;Plot;Humor,Alec Guinness (Actor);Richards (Actor),Excitement,N/A
+624_10.txt,The Silent Witness,Positive,Plot;Acting;Cinematography,N/A,Excitement,N/A
+625_10.txt,N/A,Positive,Plot;Acting;N/A,N/A,Excitement,N/A
+626_10.txt,N/A,Positive,Plot;Cinematography;Acting,N/A,Satisfaction,N/A
+627_7.txt,Mute Witness,Positive,Plot;Acting;Pace,N/A,Satisfaction,N/A
+628_8.txt,N/A,Positive,Plot;Acting;N/A,N/A,Satisfaction,N/A
+629_7.txt,N/A,Negative,Acting;Plot,Janice (Actor); Friends (TV Show),Frustration,N/A
+62_8.txt,N/A,Positive,Cinematography;Acting;Plot,Julie Andrews (Actor); Rock Hudson (Actor); N/A,Nostalgia,N/A
+630_7.txt,Mute Witness,Positive,Plot;Acting;Cinematography,N/A;N/A;N/A,Satisfaction,N/A
+631_10.txt,N/A,Positive,Plot;Suspense;Humor,N/A,Nostalgia,N/A
+632_8.txt,N/A,Positive,Acting;Plot;Cinematography,N/A,Satisfaction,N/A
+633_10.txt,Mute Witness,Positive,Acting;Plot;Comedy,Marina Zudina (Actor); Evan Richards (Actor); Fay Ripley (Actor),Satisfaction,N/A
+634_10.txt,Mute Witness,Positive,Plot;Acting;Cinematography,Fay Ripley (Actor); N/A (Director); N/A (Studio),Excitement,N/A
+635_8.txt,N/A,Positive,Cinematography;Acting;Plot,Alec Guinness (Actor); N/A; N/A,Excitement,N/A
+636_9.txt,N/A,Negative,Acting;Plot,Marina Sudina (Actor);,Disappointment,N/A
+637_9.txt,Mute Witness,Positive,Plot;Acting;Cinematography,Natasha Zudina (Actor);Alfred Hitchcock (Director);N/A,Satisfaction,N/A
+638_7.txt,N/A,Positive,Cinematography;Acting;Plot,Marina Zudina (Actor); Alec Guinness (Actor); Evan Richards (Actor),Satisfaction,N/A
+639_7.txt,Mute Witness,Positive,Plot;Acting;Atmosphere,Marina Zudina (Actor); Fay Ripley (Actor); Evan Richards (Actor); Anthony Waller (Director),Satisfaction,N/A
+63_10.txt,Darling Lili,Positive,Acting;Soundtrack;N/A,Julie Andrews (Actor); Blake Edwards (Director); N/A,Nostalgia,N/A
+640_9.txt,N/A,Positive,Plot;Acting;Cinematography,Marina Zudina (Actor); Anthony Waller (Director); Alec Guinness (Actor); Oleg Yankovsky (Actor); Igor Volkov (Actor),Satisfaction,N/A
+641_8.txt,Mute Witness,Positive,Plot;Acting;Cinematography,Alec Guinness (Actor); Andy (Director); N/A,Satisfaction,N/A
+642_9.txt,N/A,Positive,Cinematography;Acting;Plot,Alec Guinness (Actor); N/A (Director); N/A (Studio),Excitement,N/A
+643_7.txt,N/A,Positive,Acting;Plot;N/A,Marina Zudina (Actor);N/A;N/A,Excitement,N/A
+644_8.txt,N/A,Positive,Acting;N/A;N/A,Jennifer Beals (Actor); Yancy Butler (Actor); N/A,Excitement,N/A
+645_10.txt,N/A,Positive,Acting;Plot;N/A,Campbell Scott (Actor); Jennifer Beals (Actor); Yancy Butler (Actor); James Goodwin III (Actor); Patrick Stewart (Actor); Leslie Caron (Actor); Eleanor Bergstein (Director),Satisfaction,N/A
+646_9.txt,Shall We Dance (1996),Positive,Acting;Plot;Soundtrack,Yancy Butler (Actor); Patrick Stewart (Actor); Leslie Caron (Actor);,Nostalgia,N/A
+647_9.txt,N/A,Negative,Plot;Acting,John Schlesinger (Director),Frustration,N/A
+648_8.txt,Honky Tonk Freeway,Positive,Acting;Plot;Nostalgia,William DeVane (Actor); Howard Hessman (Actor); Teri Garr (Actor),Nostalgia,N/A
+649_7.txt,Honky Tonk Freeway,Positive,Acting;Plot;Nostalgia,Beverly D'Angelo (Actor); Beau Bridges (Actor); Terri Garr (Actor); Howard Hessmann (Actor); Daniel Stern (Actor); Hume Crowyn (Actor); Jessica Tandy (Actor); Geraldine Page (Actor),Nostalgia,N/A
+64_10.txt,Darling Lili,Positive,Acting;Soundtrack;Plot,Julie Andrews (Actor); Rock Hudson (Actor); Blake Edwards (Director),Nostalgia,N/A
+650_10.txt,N/A,Positive,Acting;Plot,Jessica Tandy (Actor); Hume Cronin (Actor); Beverly D'Angelo (Actor); Beau Bridges (Actor),Nostalgia,N/A
+651_9.txt,N/A,Positive,Plot;Acting,Paul Keenan (Actor),Nostalgia,N/A
+652_8.txt,N/A,Positive,Acting;Plot;N/A,Robert Altman (Director);N/A,Nostalgia,N/A
+653_10.txt,Honky Tonk Freeway,Positive,Acting;Plot,N/A,Nostalgia,N/A
+654_9.txt,Honky Tonk Freeway,Positive,Acting;Plot;Cinematography,N/A,Nostalgia,N/A
+655_10.txt,N/A,Positive,Acting;Plot;Comedy,N/A,Nostalgia,N/A
+656_7.txt,The Baby Blue Marine,Positive,Acting;Plot;Cinematography,Jan Michael Vincent (Actor); Richard Gere (Actor); Glynnis O'Connor (Actor),Nostalgia,N/A
+657_10.txt,The Last Picture Show,Positive,Acting;Nostalgia;Plot,Jan Michael Vincent (Actor); John Hancock (Director); N/A,Nostalgia,N/A
+658_7.txt,Baby Blue Marine,Positive,Plot;Acting;Cinematography,Jan-Michael Vincent (Actor); Richard Gere (Actor); Glynnis O'Connor (Actor),Nostalgia,N/A
+659_8.txt,N/A,Positive,Acting;Plot,Jan (Actor),Nostalgia,N/A
+65_7.txt,The Sound of Music,Positive,Acting;Soundtrack;Plot,Julie Andrews (Actor); Christopher Plummer (Actor); Robert Wise (Director); 20th Century Fox (Studio),Nostalgia,N/A
+660_8.txt,Baby Blue Marine,Positive,Acting;Romance;Nostalgia,Richard Gere (Actor); Jan-Michael Vincent (Actor); Bruno Kirby (Actor),Nostalgia,N/A
+661_9.txt,N/A,Positive,Plot;Acting;N/A,Michael Jackson (Actor); N/A; N/A,Nostalgia,N/A
+662_9.txt,STUPID TEENAGERS MUST DIE!,Positive,Acting;Plot;Soundtrack,Jovan Meredith (Actor); Renee Dorian (Actor); Cory Assink (Actor); Jonathan Brett (Actor); Jeff C. Smith (Director),Nostalgia,N/A
+663_9.txt,N/A,Positive,Acting;Cinematography;Plot,N/A,Nostalgia,4 stars
+664_9.txt,STMD!,Positive,Cinematography;Plot;Acting,Jeff Smith (Director);Jeff Smith (Writer);Jeff Smith (Cinematographer);Jeff Smith (Editor),Nostalgia,N/A
+665_10.txt,Murder McGee,Positive,Acting;Plot;Cinematography,N/A,Nostalgia,N/A
+666_7.txt,Brass Eye: Paedo-Geddon,Neutral,Plot;N/A;N/A,Chris Morris (Director); Phil Collins (Actor); Barbara Follet (Actor); Kate Thornton (Actor); John Holmes (Actor),Frustration,N/A
+667_10.txt,N/A,Positive,Acting;Plot,N/A,Frustration,N/A
+668_10.txt,Brass Eye Special,Positive,Plot;Acting,Chris Morris (Director); Ted Maul (Character); N/A,Satisfaction,N/A
+669_10.txt,N/A,Positive,Acting;Plot;N/A,N/A;N/A;N/A,Frustration,N/A
+66_10.txt,N/A,Positive,Acting;Soundtrack;Costuming,Julie Andrews (Actor); N/A,Nostalgia,N/A
+670_7.txt,"Beware, My Lovely",Positive,Acting;Plot;Suspense,Ida Lupino (Actor); Robert Ryan (Actor); RKO (Studio),Satisfaction,N/A
+671_8.txt,"Beware, My Lovely",Positive,Plot;Acting;N/A,Robert Ryan (Actor); Ida Lupino (Actor); Barbara Whiting (Actor); Dee Pollock (Actor),Satisfaction,4 stars
+672_8.txt,The Hitch-Hiker,Positive,Acting;Plot;Suspense,Robert Ryan (Actor); Ida Lupino (Actor); Harry Horner (Director),Excitement,N/A
+673_8.txt,The Hitch-Hiker,Positive,Acting;Plot;Character Development,Ida Lupino (Actor); Edmund O'Brien (Actor); William Talman (Actor);  N/A (Director);  N/A (Studio),Satisfaction,N/A
+674_9.txt,N/A,Positive,Acting;Plot;Suspense,Robert Ryan (Actor); Ida Lupino (Actor); O.Z. Whitehead (Actor); Dee Pollock (Actor),Satisfaction,9/10
+675_8.txt,Beware My Lovely,Positive,Acting;Plot;N/A,Ida Lupino (Actor); Robert Ryan (Actor); Mel Dinelli (Writer); Dorothy Gish (Actor); Richard Boone (Actor); RKO (Studio),Nostalgia,N/A
+676_7.txt,"Beware, My Lovely",Positive,Acting;Plot;Cinematography,Ida Lupino (Actor); Robert Ryan (Actor); Harry Horner (Director),Satisfaction,7/10
+677_9.txt,N/A,Positive,Acting;N/A;N/A,Robert Ryan (Actor);N/A;N/A,Nostalgia,N/A
+678_7.txt,N/A,Positive,Acting;Plot;Cinematography,Ida Lupino (Actor); Robert Ryan (Actor); Margaret Whiting (Actor),Nostalgia,N/A
+679_10.txt,High Sierra,Positive,Acting;Plot,Ida Lupino (Actor); Robert Ryan (Actor),Satisfaction,N/A
+67_10.txt,The Americanization of Emily,Positive,Acting;Plot;Music,Julie Andrews (Actor); Rock Hudson (Actor); Blake Edwards (Director); Turner Classic Movies (Studio),Nostalgia,N/A
+680_8.txt,N/A,Positive,Acting;Plot;N/A,Ryan (Actor); Ida Lupino (Actor); N/A,Satisfaction,6.4
+681_7.txt,N/A,Positive,Acting;Plot;Cinematography,Lupino (Actor); Ryan (Actor); N/A,Satisfaction,N/A
+682_9.txt,"Beware, My Lovely",Positive,Acting;Plot;Cinematography,Robert Ryan (Actor); Ida Lupino (Actor); Harry Horner (Director); N/A (Studio),Satisfaction,N/A
+683_7.txt,N/A,Neutral,N/A,Farina; Roach; McGowan; Laurel & Hardy; Dorothy Coburn; Harry Cohn; Columbia Pictures,Nostalgia,N/A
+684_9.txt,Shivering Shakespeare,Positive,Acting;Plot;N/A,Hal Roach Studios (Studio); Kennedy the Cop (Actor); Bob McGowan (Director); Buster Keaton (Actor); Harry Keaton (Actor),Nostalgia,9
+685_8.txt,N/A,Positive,Plot;Acting;Cinematography,Rob Lowe (Actor);N/A;N/A,Excitement,N/A
+686_8.txt,N/A,Positive,Acting;Plot;Dialogue,Sharon (Actor); Andrew (Actor); Ira Heiden (Actor),Excitement,N/A
+687_9.txt,N/A,Positive,Acting;Plot,Rob Lowe (Actor),N/A,N/A
+688_7.txt,N/A,Negative,Cinematography;Acting;Plot,N/A,Disappointment,55/10
+689_7.txt,We Dive at Dawn,Positive,Plot;Acting;N/A,John Mills (Actor); N/A; N/A,Satisfaction,7/10
+68_9.txt,The Sound of Music,Positive,Acting;Soundtrack;Plot,Julie Andrews (Actor); Rock Hudson (Actor); N/A,Nostalgia,N/A
+690_10.txt,N/A,Positive,Acting;Plot;N/A,N/A,Nostalgia,N/A
+691_7.txt,We Dive at Dawn,Positive,Plot;Acting;Cinematography,Anthony Asquith (Director); John Mills (Actor); Eric Portman (Actor),Nostalgia,N/A
+692_7.txt,N/A,Positive,Acting;Plot;Cinematography,John Mills (Actor); N/A (Director); N/A (Studio),Nostalgia,N/A
+693_9.txt,At Dawn We Dive,Positive,Acting;Plot;Cinematography,Eric Portman (Actor); John Mills (Actor); Gainsborough Productions (Studio),Nostalgia,N/A
+694_8.txt,N/A,Positive,Cinematography;Plot,N/A,Nostalgia,N/A
+695_10.txt,We Dive at Dawn,Positive,Plot;Acting;N/A,N/A,Satisfaction,N/A
+696_10.txt,The Secret World of Alex Mack,Positive,Acting;Plot;N/A,Larisa Oleynik (Actor);  ; N/A,Nostalgia,N/A
+697_10.txt,N/A,Positive,Acting;Romance,Julia Duffy (Actor),Excitement,N/A
+698_10.txt,N/A,Positive,Acting;Plot;N/A,Candace Cameron (Actor); Tatyana Ali (Actor); Carlton (Actor),Nostalgia,N/A
+699_9.txt,The Desperadoes,Positive,Cinematography;Acting;Plot,Glenn Ford (Actor); Randolph Scott (Actor); Edger Buchanan (Actor); Charles Vidor (Director); Columbia Pictures (Studio),Excitement,N/A
+69_10.txt,The Sound of Music,Positive,Soundtrack;Acting;Plot,Julie Andrews (Actor); Henry Mancini (Composer); Robert Wise (Director); 20th Century Fox (Studio),Satisfaction,N/A
+6_7.txt,N/A,Positive,Cinematography;Plot,N/A,Excitement,N/A
+700_7.txt,Red Valley,Positive,Acting;Plot;Cinematography,Randolph Scott (Actor); Glenn Ford (Actor); Claire Trevor (Actor); Guinn 'Big Boy' Williams (Actor); Bernard Nedell (Actor); Evelyn Keyes (Actor); Porter Hall (Actor); Columbia (Studio),Nostalgia,N/A
+701_8.txt,The Last Outpost,Positive,Acting;Plot;Action,Randolph Scott (Actor); Glenn Ford (Actor); Edgar Buchanan (Actor),Nostalgia,8/10
+702_7.txt,The Desperadoes,Positive,Acting;Plot;Cinematography,Randolph Scott (Actor); Glenn Ford (Actor); Claire Trevor (Actor); Evelyn Keyes (Actor); Edgar Buchanan (Actor); Guinn Williams (Actor); Columbia Pictures (Studio),Nostalgia,N/A
+703_8.txt,The Desperadoes,Positive,Cinematography;Acting;Plot,Randolph Scott (Actor); Glenn Ford (Actor); Evelyn Keyes (Actor); Claire Trevor (Actor); Columbia (Studio),Nostalgia,N/A
+704_8.txt,The Desperadoes,Positive,Cinematography;Acting;Plot,"Randolph Scott (Actor); Glenn Ford (Actor); Evelyn Keyes (Actor); Guinn Big Boy"" Williams (Actor); Edgar Buchanan (Actor); Raymond Walburn (Actor); Claire Trevor (Actor); Charles Vidor (Director); Columbia (Studio)""",Nostalgia,N/A
+705_10.txt,N/A,Positive,Acting;Set Design;Costume Design,Tom McCamus (Actor),Satisfaction,N/A
+706_10.txt,N/A,Positive,Acting;Soundtrack;Plot,Peter Strauss (Actor);,Nostalgia,N/A
+707_10.txt,The Jericho Mile,Positive,Acting;Plot;Soundtrack,Michael Mann (Director); Peter Strauss (Actor); N/A,Nostalgia,N/A
+708_10.txt,The Running Man,Positive,Plot;Acting;N/A,Larry 'Rain' Murphy (Actor);N/A;N/A,Nostalgia,N/A
+709_9.txt,N/A,Positive,Cinematography;Soundtrack;Acting,Michael Mann (Director); Richard Strauss (Actor); Roger Mosely (Actor); Brian Dennehy (Actor); Ed Lauter (Actor); Geoffrey Lewis (Actor); Richard Moll (Actor); Miguel Pinero (Actor); William Prince (Actor); Burton Guilliam (Actor); Ji-Tu Cumbuka (Actor); Richard Lawson (Actor); Billy Green Bush (Actor),Satisfaction,N/A
+70_8.txt,The Tamarind Seed,Positive,Cinematography;Acting;Soundtrack,Julie Andrews (Actor); Rock Hudson (Actor); Blake Edwards (Director); Paramount (Studio),Nostalgia,N/A
+710_10.txt,The Jericho Mile,Positive,Acting;Plot,Peter Strauss (Actor); Rain Murphy (Actor),Excitement,N/A
+711_10.txt,The Jericho Mile,Positive,Acting;Plot;N/A,Peter Strauss (Actor);N/A;N/A,Satisfaction,N/A
+712_9.txt,The Jericho Mile,Positive,Soundtrack;Plot,N/A,Nostalgia,N/A
+713_8.txt,The Jericho Mile,Positive,Acting;Plot,Peter Boyle (Actor); Michael Mann (Director); Columbia Pictures (Studio),Satisfaction,N/A
+714_10.txt,N/A,Positive,Soundtrack;Acting;Plot,N/A,Nostalgia,9
+715_10.txt,The Jericho Mile,Positive,Acting;Plot;Realism,Peter Strauss (Actor); Michael Mann (Director); Brian Dennehy (Actor); Roger E. Mosley (Actor); Richard Moll (Actor),Satisfaction,N/A
+716_10.txt,Jericho Mile,Positive,Acting;Plot,Peter Strauss (Actor);N/A;N/A,Nostalgia,N/A
+718_10.txt,Art for Teachers of Children,Positive,Cinematography;Acting;Plot,Jennifer Montgomery (Director); Caitlin Grace McDonnell (Actor); Ruth Montgomery (Actor),Excitement,N/A
+719_7.txt,N/A,Neutral,Plot;Acting,N/A,Disappointment,N/A
+71_9.txt,Whistle Down the Wind,Positive,Soundtrack;Acting;Plot,Julie Andrews (Actor);  Blake Edwards (Director);  N/A,Nostalgia,N/A
+720_10.txt,The Design,Positive,Plot;Acting,Adrian Paul (Actor); Carly Pope (Actor); Brendan Fehr (Actor),Satisfaction,N/A
+721_10.txt,Enigma,Positive,Plot;Acting;N/A,N/A,Satisfaction,N/A
+722_10.txt,N/A,Positive,Plot;Acting,Brad Pitt (Actor); The Matrix (Film),Satisfaction,N/A
+723_10.txt,N/A,Positive,Plot;Acting,N/A,Satisfaction,N/A
+724_10.txt,"`""N/A""",Positive,Plot;Suspense;Philosophy,N/A,Excitement,N/A
+725_8.txt,N/A,Positive,Acting;Plot,Carly Pope (Actor); Sara Novak (Actor),Satisfaction,N/A
+726_7.txt,N/A,Positive,Acting;Plot,Ian McShane (Actor); Adrian Paul (Actor),Satisfaction,N/A
+727_8.txt,N/A,Positive,Suspense;Soundtrack;Acting,N/A,Satisfaction,N/A
+728_10.txt,N/A,Positive,Plot;N/A;N/A,N/A,Satisfaction,N/A
+729_10.txt,N/A,Positive,Plot;Acting,N/A,Satisfaction,N/A
+72_8.txt,The Sound of Music,Positive,Acting;Soundtrack;Plot,Julie Andrews (Actor); Rock Hudson (Actor); Blake Edwards (Director),Nostalgia,N/A
+730_9.txt,Nemesis Game,Positive,Plot;Acting;Philosophy,Carly Pope (Actor); Jesse Warn (Director); N/A,Satisfaction,4.5/5
+731_8.txt,N/A,Positive,Plot;Acting,N/A,Nostalgia,N/A
+732_8.txt,N/A,Positive,Acting;Plot;Cinematography,Rosie Holotik (Actor); Annabelle Weenick (Actor); Betty Chandler (Actor); Gene Ross (Actor); Hugh Feagin (Actor); William Bill McGhee (Actor); Rhea MacAdams (Actor); S.F. Brownrigg (Director); Tim Pope (Writer); Robert Farrar (Composer); Bruce B. Alcott (Cinematographer),Nostalgia,N/A
+733_7.txt,Don't Look in the Basement,Positive,Acting;Plot;N/A,N/A,Satisfaction,N/A
+734_7.txt,Don't Look in the Basement,Positive,Acting;Plot;Gore,N/A,Nostalgia,N/A
+735_7.txt,Don't Look in the Basement,Positive,Plot;Acting;N/A,N/A,Nostalgia,N/A
+736_8.txt,N/A,Positive,Acting;Plot;N/A,N/A,Nostalgia,N/A
+737_7.txt,Don't Look in the Basement,Positive,Plot;Acting;N/A,N/A,Satisfaction,N/A
+738_10.txt,Don't Look In The Basement,Positive,Plot;Acting;Soundtrack,S.F. Brownrigg (Director),Excitement,10/10
+739_10.txt,Don't Look in the Basement,Positive,Acting;Plot;Soundtrack,Rosie Holotik (Actor); Rhea McAdams (Actor); Bill McGhee (Actor),Nostalgia,N/A
+73_10.txt,N/A,Positive,Acting;Soundtrack,Julie Andrews (Actor); Rock Hudson (Actor),Nostalgia,N/A
+740_8.txt,Don't Look in the Basement,Positive,Plot;Cinematography;Gore,S.F Brownrigg (Director),Excitement,8
+741_7.txt,Don't Look In The Basement,Positive,Plot;Acting;N/A,S.F. Brownrigg (Director); Rosie Holotik (Actor); Bill McGhee (Actor); Gene Ross (Actor); Rhea MacAdams (Actor); Jessie Kirby (Actor); Camilla Carr (Actor); Hugh Feagin (Actor); Betty Chandler (Actor); Annabelle Weenick (Actor); Michael Harvey (Actor),Satisfaction,N/A
+742_8.txt,N/A,Neutral,Acting;Plot,N/A,Satisfaction,N/A
+743_7.txt,N/A,Positive,Acting;Plot;Quirky,Rosie Holotik (Actor); Rhea MacAdams (Actor),N/A,N/A
+744_10.txt,Don't Look In the Basement,Positive,Cinematography;Plot;Acting,S.F. Brownrigg (Director),Satisfaction,N/A
+745_10.txt,Don't Look in the Basement,Positive,Acting;Plot;Story,Betty Chandler (Actor); Rosie Holotik (Actor); The Judge (Actor),Nostalgia,N/A
+746_7.txt,Don't Look in the Basement,Positive,Soundtrack;Acting;Plot,Doctor Masters (Character); Sam (Character),Nostalgia,N/A
+747_8.txt,Dr. Stephens' Mental Hospital,Positive,Acting;Plot;Soundtrack,N/A,Nostalgia,N/A
+748_7.txt,N/A,Positive,Plot;Acting;Cinematography,Rosie Holotik (Actor); Anne MacAdams (Actor); Annabelle Weenick (Actor); S.F. Brownrigg (Director),Satisfaction,7/10
+749_7.txt,Don't Look in the Basement,Positive,Acting;Plot,Rosie Holotik (Actor); Reah MacAdams (Actor); Bill McGhee (Actor),Satisfaction,N/A
+74_10.txt,Darling Lili,Positive,Acting;Plot;Soundtrack,Julie Andrews (Actor); Rock Hudson (Actor); Blake Edwards (Director),Excitement,N/A
+750_7.txt,Don't Look in the Basement,Positive,Plot;Acting;N/A,Charlotte (Actor); Masters (Actor); N/A,Satisfaction,N/A
+751_7.txt,Don't Look in the Basement,Positive,Acting;Soundtrack;Plot,Betty Chandler (Actor); Annabelle Weenick (Actor); Brownrigg (Director),Nostalgia,N/A
+752_10.txt,Don't Look In The Basement,Positive,Acting;Plot,N/A,Excitement,N/A
+753_7.txt,N/A,Positive,Plot;Cinematography;Acting,Rosie Holotik (Actor); Annabelle Weenick (Actor); Bill McGee (Actor); Harryette Warren (Actor); Jessie Kirby (Actor); Camilla Carr (Actor); Betty Chandler (Actor); Hugh Feagin (Actor),Excitement,N/A
+754_9.txt,Don't Look in the Basement,Positive,Acting;Plot;Cinematography,SF Brownrigg (Director); Rosie Holotik (Actor); Annabelle Weenick (Actor); Bill McGhee (Actor); Rhea MacAdams (Actor),Nostalgia,1
+755_10.txt,DON'T LOOK IN THE BASEMENT,Positive,Acting;Plot;Cinematography,Betty Chandler (Actor); N/A (Director); N/A (Studio),Satisfaction,N/A
+756_7.txt,N/A,Positive,Plot;Acting,N/A,Nostalgia,N/A
+757_9.txt,N/A,Positive,Acting;Plot;Cinematography,N/A,Nostalgia,9.5/10
+758_10.txt,Driving Lessons,Positive,Acting;Plot;Soundtrack,Rupert Grint (Actor); Julie Walters (Actor); N/A,Satisfaction,N/A
+759_10.txt,N/A,Positive,Acting;Plot,Rupert Grint (Actor); Walter (Actor); N/A,Satisfaction,N/A
+75_10.txt,Darling Lili,Positive,Soundtrack;Acting;Cinematography,Blake Edwards (Director); Julie Andrews (Actor); Henry Mancini (Composer); Rock Hudson (Actor),Nostalgia,N/A
+760_7.txt,Ben,Positive,Plot;Acting,Rupert Grint (Actor); N/A (Director); N/A (Studio),Satisfaction,N/A
+761_10.txt,Driving Lessons,Positive,Acting;Plot;N/A,Rupert Grint (Actor); N/A; N/A,Satisfaction,N/A
+762_7.txt,Ron,Positive,Acting;Plot,Rupert Grint (Actor); Julie Walters (Actor),Satisfaction,N/A
+763_10.txt,Driving Lessons,Positive,Plot;Acting,Rupert Grint (Actor); N/A (Director); N/A (Studio),Satisfaction,N/A
+764_8.txt,Driving Lessons,Positive,Acting;Plot,Rupert Grint (Actor);  ;  ,Satisfaction,N/A
+765_9.txt,Driving Lessons,Positive,Acting;Plot;N/A,Rupert Grint (Actor); Julie Walters (Actor); N/A,Satisfaction,N/A
+766_8.txt,N/A,Positive,Acting;Plot,Rupert Grint (Actor); Julie Walters (Actor),Excitement,N/A
+767_7.txt,Driving Lessons,Positive,Acting;Plot;N/A,Julie Walters (Actor); Laura Linney (Actor); Rupert Grint (Actor); Nicholas Farrell (Actor); Michelle Duncan (Actor); Jeremy Brock (Director),Nostalgia,N/A
+768_10.txt,N/A,Positive,Acting;N/A;N/A,Rupert Grint (Actor); Julie Walters (Actor); N/A,Satisfaction,N/A
+769_9.txt,DRIVING LESSONS,Positive,Acting;Plot,Rupert Grint (Actor); Julie Walters (Actor); Nicholas Farrell (Actor); Laura Linney (Actor); Jim Norton (Actor); Oliver Milburn (Actor); Jeremy Brock (Director),Satisfaction,N/A
+76_8.txt,The Americanization of Lily,Positive,Plot;Acting;Cinematography,Julie Andrews (Actor); Rock Hudson (Actor); Keremy Kemp (Actor); Michael Witney (Actor); Lance Percival (Actor); Gloria Paul (Actor); Blake Edwards (Director); William Peter Blatty (Writer),Nostalgia,N/A
+770_10.txt,Driving Lessons,Positive,Acting;Plot;N/A,Rupert Grint (Actor); Julie Walters (Actor); Laura Linney (Actor); N/A,Satisfaction,N/A
+771_9.txt,N/A,Positive,Acting;Plot;Coming-of-Age,Rupert Grint (Actor);Dame Evie (Actor);Mr. Fincham (Actor),Satisfaction,N/A
+772_10.txt,"When The S*** Hits The Fan, Get A Tent",Positive,N/A,N/A,Satisfaction,N/A
+773_8.txt,N/A,Positive,Acting;Plot;N/A,Julie Walters (Actor); Rupert Grint (Actor); Laura Linney (Actor),Satisfaction,N/A
+774_8.txt,Driving Lessons,Positive,Acting;Plot;N/A,Rupert Graves (Actor); Julie Walters (Actor); Laura Linney (Actor); N/A (Director); N/A (Studio),Satisfaction,N/A
+775_9.txt,N/A,Positive,Acting;Plot,Julie Walters (Actor); Rupert Grint (Actor); Laura Linney (Actor); Ben (Character); Bryony (Character),Satisfaction,N/A
+776_8.txt,Driving Lessons,Positive,Acting;Plot;Cinematography,"Rupert Grint (Actor);  Evee (Actor);  Brenda Blethyn (Actor);  N/A""""",Excitement,N/A
+777_10.txt,N/A,Positive,Acting;Plot;N/A,Julie Walters (Actor); Rupert Grint (Actor); Laura Linney (Actor),Satisfaction,N/A
+778_9.txt,Driving Lessons,Positive,Acting;Plot;N/A,Rupert Grint (Actor); Laura Linney (Actor); Julie Walters (Actor); N/A (Director); N/A (Studio),Excitement,N/A
+779_8.txt,Driving Lessons,Positive,Acting;Plot;Soundtrack,Julie Walters (Actor); Laura Linney (Actor); Rupert Grint (Actor); Jeremy Brock (Director); Clive Carroll (Composer); John Renbourn (Composer),Satisfaction,N/A
+77_10.txt,N/A,Positive,Soundtrack;Acting;Plot,Julie Andrews (Actor); Rock Hudson (Actor); Blake Edwards (Director),Nostalgia,N/A
+780_9.txt,Driving Lessons,Positive,Acting;Plot;Soundtrack,Julie Walters (Actor); Rupert Grint (Actor); Laura Linney (Actor); Sufjan Stevens (Musician),Satisfaction,N/A
+781_9.txt,N/A,Positive,Acting;Plot;Comedy,Julie Walters (Actor); Rupert Grint (Actor); Tartan Films (Studio),Satisfaction,N/A
+782_9.txt,Driving Lessons,Positive,Acting;Plot;Cinematography,Rupert Grint (Actor); Julie Walters (Actor); N/A,Satisfaction,N/A
+783_8.txt,Driving Lessons,Positive,Acting;Soundtrack;Plot,Rupert Grint (Actor); Julie Walters (Actor); Laura Linney (Actor),Satisfaction,N/A
+784_10.txt,N/A,Positive,Plot;Acting;N/A,N/A,Satisfaction,N/A
+785_7.txt,La villa delle anime maledette,Positive,Cinematography;Plot;Atmosphere,Carlo Ausino (Director); Mario Bava (Director); Damiano Damiani (Director),Nostalgia,N/A
+786_10.txt,N/A,Positive,Acting;Plot;N/A,Buster Keaton (Actor); Big Joe Roberts (Actor); MGM (Studio),Nostalgia,N/A
+787_9.txt,The Goat,Positive,Acting;Plot;Cinematography,Buster Keaton (Actor); N/A (Director); N/A (Studio),Nostalgia,N/A
+788_10.txt,N/A,Positive,Acting;Plot;Cinematography,Buster Keaton (Actor),Excitement,N/A
+789_8.txt,N/A,Positive,Cinematography;Acting;Plot,N/A,Excitement,N/A
+78_8.txt,Acrobatty Bunny,Positive,Cinematography;Plot;Soundtrack,Robert McKimson (Director); Bugs Bunny (Actor); Lion (Actor),Nostalgia,N/A
+790_10.txt,The Goat,Positive,Acting;Plot;Cinematography,Buster Keaton (Actor); Malcolm St. Clair (Actor/Director); Joe Roberts (Actor),Nostalgia,N/A
+791_10.txt,The General,Positive,Acting;Plot;Cinematography,Buster Keaton (Actor); Clyde Bruckman (Director);  (Studio),Excitement,N/A
+792_8.txt,The General,Positive,Acting;Plot;Cinematography,Buster Keaton (Actor); Malcolm St Clair (Director); N/A,Excitement,N/A
+793_8.txt,N/A,Positive,Acting;Plot,Buster Keaton (Actor),Nostalgia,N/A
+794_7.txt,N/A,Positive,Cinematography;Plot;Acting,Buster Keaton (Actor); Metro (Studio),Nostalgia,N/A
+795_10.txt,The Goat,Positive,Acting;Plot,Buster Keaton (Actor);,Nostalgia,N/A
+796_10.txt,The Goat,Positive,Cinematography;Acting;Plot,Buster Keaton (Actor); Virginia Fox (Actor); Big Joe Roberts (Actor); Kino (Studio),Nostalgia,N/A
+797_10.txt,N/A,Positive,Acting;Plot,Traci (Actor),Satisfaction,8.5
+798_10.txt,N/A,Positive,Acting;Plot,Traci Lords (Actor); Jeff Fahey (Actor),N/A,N/A
+799_7.txt,N/A,Positive,Acting,Traci Lords (Actor);,Satisfaction,N/A
+79_8.txt,N/A,Positive,Plot;Acting,Bugs Bunny (Actor); Nero (Actor),Satisfaction,N/A
+7_9.txt,The Guardian,Positive,Acting;Cinematography;Plot,Kevin Costner (Actor); Ashton Kutcher (Actor); N/A,Excitement,N/A
+800_8.txt,To Kill For,Positive,Acting;Plot,Traci Lords (Actor),Nostalgia,N/A
+801_8.txt,Extramarital,Positive,Acting;Plot;Suspense,Traci Lords (Actor); N/A; N/A,Excitement,N/A
+802_7.txt,N/A,Positive,Acting;Plot,David Suchet (Actor); Peter Ustinov (Actor),Nostalgia,N/A
+803_10.txt,N/A,Positive,Acting;Plot,David Suchet (Actor); Peter Ustinov (Actor),Nostalgia,N/A
+804_8.txt,Murder in the Mews,Positive,Acting;Plot;Cinematography,Edward Fox (Actor); Sarah Miles (Actor); Megan Dodds (Actor); David Suchet (Actor); Agatha Christie (Author),Nostalgia,N/A
+805_10.txt,The Hollow,Positive,Acting;Plot;Cinematography,Sarah Miles (Actor); Megan Dodds (Actor); Claire Price (Actor); Jonathan Cake (Actor); John Christow (Actor),Satisfaction,N/A
+806_10.txt,The Hollow,Positive,Acting;Plot;Soundtrack,David Suchet (Actor); N/A (Director); N/A (Studio),Satisfaction,20/10
+807_10.txt,Agatha Christie's Poirot: The Mystery of the Blue Train,Positive,Acting;Plot,David Suchet (Actor); Claire Price (Actor); Sarah Miles (Actor); Edward Hardwicke (Actor),Satisfaction,N/A
+808_10.txt,FoolProof,Positive,Acting;Cinematography,David Suchet (Actor); Megan Dodds (Actor),Satisfaction,N/A
+809_10.txt,N/A,Positive,Acting;Plot;Cinematography,David Suchet (Actor); Edward Fox (Actor); Sarah Miles (Actor); Lysette Anthony (Actor); Megan Dodds (Actor); Agatha Christie (Author),Satisfaction,N/A
+80_7.txt,Bugs Bunny and the Lion,Positive,Plot;Humor,Bugs Bunny (Actor),Excitement,N/A
+810_9.txt,The Hollow,Positive,Plot;Acting;N/A,David Suchet (Actor); Edward Hardwicke (Actor); Agatha Christie (Author);,Satisfaction,N/A
+811_10.txt,The Last American Virgin,Positive,Acting;Plot;Nostalgia,Richard Benjamin (Actor); Paula Prentiss (Actor); Molly Ringwald (Actor),Nostalgia,10/10
+812_7.txt,N/A,Positive,Acting;Plot,Molly Ringwald (Actor);,Disappointment,N/A
+813_10.txt,The Great Outdoors,Positive,Plot;Acting;N/A,Molly Ringwald (Actor); John Candy (Actor); Dan Aykroyd (Actor),Nostalgia,N/A
+814_7.txt,N/A,Positive,Acting;Plot;N/A,Ann Sothern (Actor); Paul Kelly (Actor); Neil Hamilton (Actor); Mickey Rooney (Actor); Jane Darwell (Actor); Columbia Pictures (Studio),Satisfaction,7/10
+815_7.txt,Blind Date,Neutral,Acting;Plot;Emotional Tone,Mickey Rooney (Actor); Jane Darwell (Actor); Ann Sothern (Actor); Paul Kelly (Actor); Neil Hamilton (Actor); Tyler Brooke (Actor); Spencer Charters (Actor),Nostalgia,N/A
+816_7.txt,N/A,Positive,Acting;Plot;N/A,Kitty (Sothern); Bill (Kelly); Bob Hartwell (Hamilton); Jane Darwell (Actor); Mickey Rooney (Actor); Spencer Charters (Actor),Nostalgia,N/A
+817_7.txt,N/A,Positive,Acting;Plot;N/A,Jim Brown (Actor);N/A;N/A,Excitement,N/A
+818_9.txt,"Crack House,Positive",Acting;Plot;N/A,Cheryl Kay (Actor); Anthony Geary (Actor); Jim Brown (Actor); Quentin Tarantino (Director); Wings Hauser (Actor),Nostalgia,N/A,N/A
+819_7.txt,Crack House,Positive,Acting;Plot;N/A,Richard Roundtree (Actor); Jim Brown (Actor); Luke (Actor),Nostalgia,N/A
+81_9.txt,Acrobatty Bunny,Positive,Plot;Acting;N/A,Bugs Bunny (Actor); Bob McKimson (Director); MGM/UA Video (Studio),Nostalgia,N/A
+820_9.txt,The Shepherd: Border Patrol,Positive,Acting;Plot;Cinematography,Jean-Claude Van Damme (Actor); Scott Adkins (Actor); Steven Lord (Actor); Isaac Florentine (Director); JJ Perry (Stunt Coordinator),Excitement,N/A
+821_10.txt,N/A,Positive,Acting;Plot;Cinematography,Jean-Claude Van Damme (Actor); Scott Adkins (Actor); N/A,Satisfaction,N/A
+822_10.txt,The Shepherd,Positive,Acting;Fight Choreography;Plot,Jean-Claude Van Damme (Actor); Scott Adkins (Actor); Isaac Florentine (Director),Satisfaction,N/A
+823_7.txt,The Shepherd,Positive,Acting;Martial Arts;Plot,Jean-Claude Van Damme (Actor); Scott Adkins (Actor); N/A,Nostalgia,N/A
+824_8.txt,N/A,Positive,Acting;Plot;N/A,Jean-Claude Van Damme (Actor); N/A (Director); N/A (Studio),Nostalgia,N/A
+825_8.txt,N/A,Positive,Acting;Plot;Action,Jean-Claude Van Damme (Actor); John Woo (Director),Nostalgia,N/A
+826_8.txt,The Shepherd: Border Control,Positive,Acting;Plot;Action,Jean-Claude Van Damme (Actor); N/A (Director); N/A (Studio),Satisfaction,N/A
+828_7.txt,The Shepherd: Border Patrol,Positive,Acting;Plot;Action,Jean-Claude Van Damme (Actor); N/A (Director); N/A (Studio),Nostalgia,7/10
+829_10.txt,The Shepard,Positive,Acting;Plot;Action,Jean-Claude Van Damme (Actor); Scott Adkins (Actor); N/A,Nostalgia,N/A
+82_10.txt,Acrobatty Bunny,Positive,Plot;N/A;N/A,Bugs Bunny (Actor); N/A (Director); Warner Bros. (Studio),Nostalgia,N/A
+830_7.txt,N/A,Positive,Acting;Plot,Jean-Claude Van Damme (Actor); Steven Seagal (Actor),Nostalgia,N/A
+831_7.txt,The Shepherd,Positive,Acting;Plot;Action,Jean-Claude Van Damme (Actor); Scott Adkins (Actor); N/A,Satisfaction,N/A
+832_7.txt,N/A,Positive,Acting;Plot;Action,Jean-Claude Van Damme (Actor); Scott Adkins (Actor); Isaac Florentine (Director),Satisfaction,7/10
+833_7.txt,The Shepherd: Border Patrol,Positive,Cinematography;Acting;Plot,Jean-Claude Van Damme (Actor); Isaac Florentine (Director); Bianca Van Varenberg (Actor),Nostalgia,N/A
+834_8.txt,N/A,Neutral,Acting;Soundtrack;Plot,Jean-Claude Van Damme (Actor); Isaac Florentine (Director),Nostalgia,N/A
+835_8.txt,Beast Stable,Positive,Acting;Plot;Action,Nami Matsushima (Actor); Meiko Kaji (Actor); Shunya Ito (Director),Satisfaction,N/A
+837_8.txt,Female Prisoner Scorpion:  The Beast Stalks the City,Positive,Acting;Plot;Cinematography,Meiko Kaji (Actor); Mikio Narita (Actor); Reisen Lee (Actor); Yayoi Watanabe (Actor),Satisfaction,N/A
+838_7.txt,FEMALE PRISONER SCORPION: BEAST STABLE,Positive,Acting;Plot;Cinematography,Meiko Kaji (Actor); Mikio Narita (Actor); Yayoi Watanabe (Actor); Reisen Lee (Actor); Shunya Ito (Director),Excitement,N/A
+839_10.txt,Beast Stable,Positive,Plot;Acting;Cinematography,Meiko Kaji (Actor); Shunya Ito (Director); N/A,Satisfaction,N/A
+83_10.txt,N/A,Positive,Plot;Acting,Jimmy Smits (Actor); N/A (Director); N/A (Studio),Satisfaction,N/A
+840_8.txt,BEAST STABLE,Positive,Storyline;Cinematography;Sleaze,Shunya Ito (Director),Nostalgia,8/10
+841_9.txt,Female Convict Scorpion - Beast Stable,Positive,Cinematography;Plot;Acting,Meiko Kaji (Actor); Shinya Ito (Director); Nikkatsu (Studio),Excitement,N/A
+842_10.txt,Joshuu Sasori: Kemono-beya,Positive,Cinematography;Acting;Soundtrack,Meiko Kaji (Actor); Shunya Ito (Director); Mikio Narita (Actor),Excitement,10/10
+843_10.txt,Female Prisoner Scorpion: Beast Stable,Positive,Acting;Plot;Cinematography,Meiko Kaji (Actor); Shunya Ito (Director); N/A,Satisfaction,N/A
+844_10.txt,N/A,Positive,Nostalgia;Plot;Acting,Marci (Actor),Nostalgia,N/A
+845_10.txt,N/A,Positive,Plot;Acting,N/A,Frustration,N/A
+846_7.txt,N/A,Negative,Acting;Plot,Kevin Kilner (Actor); Robert Leeshock (Actor); Jane Heitmeyer (Actor); Leni Parker (Actor); Anita LaSelva (Actor),Frustration,N/A
+847_7.txt,Babylon 5,Positive,Plot;Acting;Soundtrack,Bruce Boxleitner (Actor); Claudia Christian (Actor); Peter Jurasik (Actor); Mira Furlan (Actor); Jerry Doyle (Actor);  J. Michael Straczynski (Director);  ,Nostalgia,N/A
+848_9.txt,Earth: Final Conflict,Negative,Plot;Acting;N/A,Kevin Kilner (Actor); Leni Parker (Actor); David Hemblen (Actor); Gene Roddenberry (Director); Majel Barrett-Roddenberry (Producer),Disappointment,N/A
+849_7.txt,Earth Final Conflict,Negative,Plot;Acting;N/A,Kevin Kilner (Actor); Liam (Actor); Zo'or (Character); Da'an (Character); Gene Roddenberry (Creator);,Frustration,N/A
+84_10.txt,N/A,Positive,Acting;Plot,Jimmie Smits (Actor),Frustration,N/A
+850_7.txt,N/A,Positive,Acting;Cinematography;Plot,Rod Cameron (Actor); N/A,Nostalgia,N/A
+851_7.txt,The Giant Behemoth,Neutral,Plot,Robert Lippert (Director),N/A,N/A
+852_7.txt,The Black Vault,Positive,Acting;Plot;Cinematography,Rod Cameron (Actor); Cesar Romero (Actor); Marie Winsor (Actor),Nostalgia,N/A
+853_7.txt,The Jungle,Positive,Plot;Cinematography;Soundtrack,Rod Cameron (Actor); Cesar Romero (Actor); Marie Windsor (Actor),Satisfaction,3 stars
+854_7.txt,N/A,Positive,Plot;Acting,N/A,Disappointment,N/A
+855_9.txt,Don's Asylum,Positive,Plot;Acting;N/A,Angelina Jolie's brother (Actor); N/A; N/A,Satisfaction,N/A
+856_7.txt,Breaking Dawn,Positive,Plot;Acting;N/A,Kelly Overton (Actor); James Haven (Actor); Stephanie Meyer (Author),Satisfaction,N/A
+857_7.txt,N/A,Positive,Plot;Acting;Cinematography,Kelly Overtone (Actor),Satisfaction,N/A
+858_7.txt,N/A,Positive,Acting;Plot,Kelly Overton (Actor),Excitement,7
+859_8.txt,Breaking Dawn,Positive,Plot;Acting,N/A,Satisfaction,N/A
+85_10.txt,N/A,Positive,N/A,N/A,Satisfaction,N/A
+860_7.txt,N/A,Positive,Acting;Plot,Kelly Overton (Actor); James Haven (Actor),Satisfaction,N/A
+861_9.txt,N/A,Positive,Acting;Plot,Mark Robertson (Director); Kelly Overton (Actor),Excitement,N/A
+862_9.txt,Stella Shorts,Positive,Acting;Soundtrack,David (Actor); Stella (Actor),Nostalgia,N/A
+863_10.txt,Stella,Positive,Acting;Comedy;Themes,Michael Showalter (Actor); Michael Ian Black (Actor); David Wain (Director); Comedy Central (Studio),Satisfaction,N/A
+864_10.txt,N/A,Positive,Acting;Plot;Humor,N/A,Excitement,N/A
+865_10.txt,Stella,Positive,Acting;Comedy,Michael Ian Black (Actor); Michael Showalter (Actor); David Wain (Actor); Julie Bowen (Actor); Paul Rudd (Actor),Nostalgia,N/A
+866_10.txt,The State: Sketches,Positive,Acting;Humor;Soundtrack,David Wain (Director); Michael Showalter (Director); Michael Ian Black (Actor); Paul Rudd (Actor); Julie Bowen (Actor); Bradley Cooper (Actor); Zach Galifianakis (Actor); Sam Rockwell (Actor); Joe Lo Truglio (Actor); Todd Holoubek (Actor),Satisfaction,N/A
+867_9.txt,MISSISSIPPI MERMAID,Negative,Acting;Plot;Cinematography,Catherine Deneuve (Actor); François Truffaut (Director); N/A,Disappointment,N/A
+868_7.txt,The Bride Wore Black,Negative,Plot;Acting,François Truffaut (Director); Catherine Deneuve (Actor);,Frustration,N/A
+869_7.txt,Waltz into Darkness,Negative,Acting;Plot,Jean-Paul Belmondo (Actor); Michel Bouquet (Actor); Catherine Deneuve (Actor),Disappointment,N/A
+86_10.txt,N/A,Positive,N/A,N/A,Frustration,N/A
+870_7.txt,The Bride Wore Black,Positive,Cinematography;Acting;Plot,Jean Paul Belmondo (Actor); Catherine Deneuve (Actor); Michael Bouquet (Actor); Francois Truffaut (Director); Antoine Duhamel (Composer); Denys Clerval (Cinematographer); Cornell Woolrich (Author); Alfred Hitchcock (Director); Michael Christofer (Director); Antonio Banderas (Actor); Angelina Jolie (Actor); Jack Thompson (Actor),Nostalgia,N/A
+871_10.txt,The Bride Wore Black,Positive,Acting;Plot;Themes,Catherine Deneuve (Actor); Jean-Paul Belmondo (Actor); François Truffaut (Director),Satisfaction,10/10
+872_9.txt,The Bride Wore Black,Positive,Acting;Plot;Cinematography,Jean Paul Belmondo (Actor); Catherine Deneuve (Actor); Michel Bouquet (Actor); François Truffaut (Director),Nostalgia,N/A
+873_8.txt,La Sirène du Mississipi,Positive,Acting;Plot;Cinematography,Jean-Paul Belmondo (Actor); Catherine Deneuve (Actor); Michel Bouquet (Actor); François Truffaut (Director),Excitement,8
+874_8.txt,Mississippi Mermaid,Positive,Acting;Plot;Cinematography,Catherine Deneuve (Actor); Francois Truffaut (Director); N/A,Nostalgia,N/A
+876_10.txt,N/A,Positive,Plot;Acting;Soundtrack,Master P (Actor); Moon Jones (Director); No Limit Records (Studio),Excitement,N/A
+877_10.txt,N/A,Positive,Soundtrack;Acting;Plot,Master P (Actor); No Limit Records (Studio),Nostalgia,N/A
+878_10.txt,Jewel Thief,Positive,Plot;Soundtrack;Acting,Dev Anand (Actor); Ashok Kumar (Actor); Tanuja (Actor); Vyjantimala (Actor); Vijay Anand (Director),Nostalgia,N/A
+879_10.txt,N/A,Positive,Acting;Cinematography;Soundtrack,Vijay Anand (Director);Dev Anand (Actor);Vyjayantimala (Actor);Tanuja (Actor);Ashok Kumar (Actor);Sachin Dev Burman (Composer);Kishore Kumar (Singer);Asha Bhosle (Singer);Lata Mangeshkar (Singer);Rafi (Singer),Nostalgia,N/A
+87_10.txt,N/A,Positive,N/A,N/A,Nostalgia,N/A
+880_8.txt,Jewel Thief,Positive,Acting;Plot;Soundtrack,Dev Anand (Actor); Vijay Anand (Director); Vyjayanthimala (Actor); Ashok Kumar (Actor); Helen (Actor); Tanuja (Actor); R D Burman (Musician); Majrooh Sultanpuri (Lyricist); Kishor Kumar (Singer),Nostalgia,N/A
+881_8.txt,Jewel Thief,Positive,Plot;Acting;Soundtrack,Dev Anand (Actor); Vijay Anand (Director); Ashok Kumar (Actor); Vajyanti Mala (Actor); Tanuja (Actor); SD Burman (Music); Kishore Kumar (Singer); Majrooh Sultanpuri (Lyricist),Excitement,N/A
+882_9.txt,Jewel Thief,Positive,Acting;Plot;Soundtrack,Dev Anand (Actor); Vyjayanthi Mala (Actor); Tanuja (Actor); Ashok Kumar (Actor); Helen (Actor); Anju Mahendru (Actor); Faryal (Actor); Vijay Anand (Director); S.D. Burman (Composer),Nostalgia,N/A
+883_8.txt,N/A,Neutral,Plot,N/A,Frustration,N/A
+884_8.txt,N/A,Positive,Cinematography;Plot;Acting,N/A,Satisfaction,N/A
+885_8.txt,N/A,Positive,Plot;Action;Themes,N/A,Satisfaction,N/A
+886_7.txt,Sword In The Moon,Positive,Acting;Plot;Cinematography,N/A,Satisfaction,N/A
+887_8.txt,N/A,Neutral,Plot;N/A;N/A,N/A,Disappointment,N/A
+888_8.txt,SWORD IN THE MOON,Positive,Plot;Acting;Cinematography,N/A;N/A;N/A,Satisfaction,7/10
+889_7.txt,Department S,Neutral,Plot;Acting;N/A,Peter Wyngarde (Actor); Rosemary Nichols (Actor); Monty Berman (Director); Dennis Spooner (Director); N/A,Nostalgia,N/A
+88_10.txt,N/A,Positive,Acting;Plot,Jimmy Smits (Actor); N/A; N/A,N/A,N/A
+890_9.txt,Department S,Positive,Acting;Plot;N/A,Peter Wyngarde (Actor); Joel Fabiani (Actor); Rosemary Nicholls (Actor),Nostalgia,N/A
+891_9.txt,Department S,Positive,Plot;Acting;Soundtrack,Dennis Spooner (Creator); Peter Wyngarde (Actor); Joel Fabiani (Actor); Rosemary Nicols (Actor); Dennis Alaba Peters (Actor); Edwin Astley (Composer); Chambers & Partners (Design); Sir Anthony Hopkins (Actor),Nostalgia,N/A
+892_8.txt,The Professionals,Positive,Plot;Acting;N/A,Robert Conrad (Actor); Martin Landau (Actor); Harry Guardino (Actor);  (Director);  (Studio),Nostalgia,N/A
+893_8.txt,Emanuelle 2,Positive,Cinematography;Plot;Acting,Laura Gemser (Actor); Nico Fidenco (Composer); Sylvia Kristel (Actor),Frustration,N/A
+894_7.txt,N/A,Positive,Acting;Plot;Soundtrack,Laura Gemser (Actor);Joe D'Amato (Director),Excitement,N/A
+895_8.txt,Emanuelle in Africa,Positive,Cinematography;Soundtrack;Plot,Laura Gemser (Actor); Nico Fidenco (Soundtrack),Nostalgia,N/A
+896_8.txt,Emanuelle in Africa,Positive,Cinematography;Acting;Plot,Laura Gemser (Actor); Albert Thomas (Director); Adalberto Albertini (Director); Karin Schubert (Actor); Angelo Infanti (Actor); Nico Fidenco (Composer); Gabriele Tinti (Actor),Nostalgia,N/A
+897_8.txt,Emanuelle and the Last Cannibals,Positive,Acting;Plot;N/A,Laura Gemser (Actor); Joe D'Amato (Director); N/A,Excitement,N/A
+898_9.txt,Gen-X Sequel,Positive,Action;Acting;Plot,Edison (Actor); Sam (Actor); N/A,Excitement,N/A
+899_9.txt,N/A,Positive,Soundtrack;Acting;Plot,Kurt (Actor);Edison (Actor);N/A,Excitement,N/A
+89_10.txt,N/A,Positive,Cinematography;Acting,Maurice Richard (Actor); Roch Carrier (Narrator),Nostalgia,N/A
+8_9.txt,The Guardian,Positive,Plot;Acting;N/A,Kevin Costner (Actor); Ashton Kutcher (Actor); Andrew Davis (Director); N/A,Nostalgia,N/A
+900_9.txt,Gen-Y Cops,Positive,Acting;Plot;Fight Scenes,Stephen Fung (Actor); Sam Lee (Actor); Edison Chen (Actor); Paul Rudd (Actor); Jackie Chan (Stuntman); Nicky Li (Stuntman); Ron Smoorenburg (Actor),Nostalgia,N/A
+901_9.txt,N/A,Positive,Plot;Action;Humor,N/A,Excitement,N/A
+902_10.txt,Gen Y Cops,Positive,Action;Comedy;Soundtrack,Edison Chen (Actor);,Excitement,N/A
+903_10.txt,N/A,Positive,Acting;Plot;Cinematography,Richard Sun (Actor); RS1 (Actor); Sam Lee (Actor),Satisfaction,N/A
+904_10.txt,N/A,Positive,Acting;Plot,Paul Rudd (Actor),Excitement,N/A
+905_10.txt,Gen-Y,Positive,Action;Humor;Technology,N/A,Excitement,N/A
+906_7.txt,N/A,Neutral,Plot;Acting,Stan Laurel (Actor); Oliver Hardy (Actor),Nostalgia,7/10
+907_7.txt,The Kid Brother,Positive,Acting;Plot;N/A,Stan Laurel (Actor); Oliver Hardy (Actor); N/A,Nostalgia,N/A
+908_9.txt,Putting Pants on Philip,Positive,Acting;Plot;Soundtrack,Stan Laurel (Actor); Oliver Hardy (Actor); Hal Roach Studios (Studio),Nostalgia,N/A
+909_10.txt,Rouge,Positive,Cinematography;Acting;Soundtrack,Krzysztof Kieslowski (Director); Zbigniew Preisner (Composer); Irène Jacob (Actor); Jean-Louis Trintignant (Actor),Satisfaction,N/A
+90_9.txt,The Sweater,Positive,Acting;Plot;Animation,Sheldon Cohen (Director); Roch Carrier (Narrator),Nostalgia,N/A
+910_10.txt,Red,Positive,Cinematography;Plot;Acting,Krzysztof Kieślowski (Director); Irène Jacob (Actor); Zbigniew Zamachowski (Actor),Satisfaction,N/A
+911_10.txt,N/A,Positive,Writing;Directing;Symbolism,N/A,Satisfaction,N/A
+912_10.txt,The Double Life of Veronique,Positive,Acting;Plot;Cinematography,Irène Jacob (Actor); Krzysztof Kieślowski (Director); N/A,Satisfaction,N/A
+913_10.txt,Three Colors: Red,Positive,Plot;Cinematography,N/A,Satisfaction,N/A
+914_10.txt,Trois Couleurs: Rouge,Positive,Acting;Cinematography;Plot,Irene Jacob (Actor); Krzysztof Kieslowski (Director); N/A,Satisfaction,N/A
+915_10.txt,Trois Couleurs: Rouge,Positive,Plot;Acting;Cinematography,Krzysztof Kieslowski (Director); Juliette Binoche (Actor); Jean-Louis Trintignant (Actor),Satisfaction,N/A
+916_10.txt,Rouge,Positive,Plot;Cinematography,Kieslowski (Director);,Satisfaction,N/A
+917_9.txt,N/A,Positive,Cinematography;Plot,N/A,Satisfaction,N/A
+918_10.txt,Valentine 'Dogkiller' Dussaut and Joe 'The Judge' Kern,Positive,Plot;Action,N/A,Excitement,N/A
+919_10.txt,Red,Positive,Cinematography;Acting,Krzysztof Kieslowski (Director); Jean-Pierre Bacri (Actor); Irène Jacob (Actor); Jean-Louis Trintignant (Actor); Piotr Sobocinski (Cinematographer),Nostalgia,N/A
+91_10.txt,N/A,Positive,N/A,N/A,Nostalgia,117
+920_10.txt,Three Colours Red,Positive,Cinematography;Acting;Plot,Krzysztof Kieslowski (Director); Irène Jacob (Actor); Jean-Louis Trintignant (Actor),Satisfaction,N/A
+921_9.txt,Rouge,Positive,Plot;Acting;Themes,Irene Jakob (Actor); Juliet Binoche (Actor); Mr. Kislowski (Director),Satisfaction,N/A
+922_8.txt,Trois couleurs: Blanc,Positive,Acting;Plot;N/A,Irène Jacob (Actor); Krzysztof Kieślowski (Director); N/A,Satisfaction,N/A
+923_10.txt,Red,Positive,Plot;Cinematography;Acting,N/A,Satisfaction,10/10
+924_10.txt,Rouge,Positive,Plot;Cinematography;Acting,Krzysztof Kieslowski (Director); Irène Jacob (Actor); Zbigniew Zamachowski (Actor),Nostalgia,N/A
+925_10.txt,Trois couleurs: Rouge,Positive,Plot;Acting;Cinematography,Jean-Louis Trintignant (Actor); Irene Jacob (Actor); Krzysztof Kieslowski (Director),Nostalgia,N/A
+926_10.txt,Red,Positive,Acting;Cinematography;Soundtrack,Jean Louis Trintignant (Actor); Krzysztof Kieslowski (Director); Zbiegnew Preisner (Composer); Piotr Sobocinski (Cinematographer),Frustration,10/10
+927_10.txt,Three Colors: Red,Positive,Acting;Plot;Cinematography,Irene Jacob (Actor); Jean-Louis Trintignant (Actor); Krzysztof Kieslowski (Director),Satisfaction,N/A
+928_10.txt,The Discreet Charm of the Bourgeoisie,Positive,Plot;Acting,Luis Buñuel (Director); Fernando Rey (Actor);  (Studio),Nostalgia,N/A
+929_10.txt,The Double Life of Veronique,Positive,Acting;Plot,Irene Jacob (Actor); Krzysztof Kieslowski (Director); N/A,Nostalgia,N/A
+92_8.txt,N/A,Positive,Plot;N/A;N/A,N/A,Nostalgia,N/A
+930_10.txt,N/A,Positive,Cinematography;Plot;Acting,Kieslowski (Director),Satisfaction,10
+931_9.txt,Rouge,Positive,Cinematography;Acting;Plot,Kieslowski (Director); Ms. Jacob (Actor); Mr. Tringtignant (Actor),Satisfaction,N/A
+932_9.txt,Three Colors: Red,Positive,Plot;Cinematography;Acting,Krzysztof Kieslowski (Director);,Satisfaction,9
+933_10.txt,Red,Positive,Cinematography;Plot;Acting,Krzysztof Kieslowski (Director),Satisfaction,N/A
+934_10.txt,Three Colors: Red,Positive,Acting;Plot;Cinematography,Irene Jacob (Actor); Jean-Louis Trintignant (Actor); Krzysztof Kieślowski (Director),Satisfaction,N/A
+935_10.txt,Three Colors: Red,Positive,Cinematography;Plot;Symbolism,N/A,Satisfaction,N/A
+936_9.txt,Rouge,Positive,Cinematography;Acting;Plot,Krzysztof Kieslowski (Director);Irene Jacob (Actor);Jean-Louis Trintignant (Actor),Satisfaction,9/10
+937_10.txt,Red,Positive,Plot;Acting;N/A,Krzysztof Kieślowski (Director);,Satisfaction,N/A
+938_10.txt,THREE COLORS: RED,Positive,Plot;Acting;Themes,Krzysztof Kieslowski (Director); Juliette Binoche (Actor); Jean-Louis Trintignant (Actor); Irene Jacob (Actor); Jean-Pierre Lorit (Actor),Satisfaction,N/A
+939_8.txt,The Boys,Positive,Acting;Plot;N/A,Matthew Newton (Director); Sam Neill (Actor); N/A,Satisfaction,N/A
+93_9.txt,N/A,Positive,Plot,Maurice Richard (Actor); Montreal Canadiens (Team); Toronto Maple Leafs (Team),Nostalgia,N/A
+940_7.txt,N/A,Neutral,Acting;Plot,Sam Neil (Actor); Rose Byrne (Actor); Sinéad Cusack (Actor); Matthew Newton (Actor),Disappointment,N/A
+941_10.txt,N/A,Positive,Acting;Plot,Mark Lamprell (Director); Sam Neill (Actor); Matt Newton (Actor),Excitement,N/A
+942_10.txt,N/A,Positive,Acting;Cinematography;Plot,N/A,Satisfaction,10/10
+943_8.txt,My Mother Frank,Positive,Acting;Plot;N/A,Geoffrey Rush (Actor); Sinead Cusack (Actor); Rose Byrne (Actor),Satisfaction,8/10
+944_8.txt,My Mother Frank,Positive,Acting;Plot,Sinead Cusack (Actor); Matthew Newton (Actor); Rose Byrne (Actor); Sam Neill (Actor); Mark Lamprell (Director),Satisfaction,N/A
+945_7.txt,Tumbling Doll of Flesh,Negative,Gore;Violence,N/A,Satisfaction,N/A
+947_8.txt,Niku daruma,Negative,Plot;Cinematography,N/A,Frustration,8/10
+948_8.txt,Psycho: The Snuff Reels,Positive,Plot;Acting,N/A,Excitement,N/A
+94_10.txt,N/A,Positive,N/A,"Maurice \Rocket\"" Richard (Actor)""",Nostalgia,N/A
+950_10.txt,Ghilli,Positive,Acting;Plot;Action,Vijay (Actor); N/A (Director); N/A (Studio),Excitement,N/A
+951_10.txt,Ghilli,Positive,Acting;Plot;Soundtrack,Vijay (Actor); Trisha (Actor); Dharani (Director),Excitement,N/A
+952_10.txt,Ghilli,Positive,Plot;Acting;Soundtrack,Vijay (Actor); Trisha (Actor); Ashish Vidyarthi (Actor); Prakash Raj (Actor); Vidyasagar (Music Composer); Dharani (Director),Satisfaction,N/A
+953_10.txt,N/A,Positive,Screenplay;Acting;Plot,Vijay (Actor); Prakash Raj (Actor); N/A,Excitement,N/A
+954_8.txt,Ghillie,Positive,Acting;Plot;Cinematography,Vijay (Actor); Trisha (Actor); Prakash Raj (Actor); Dharani (Director),Satisfaction,8/10
+955_10.txt,N/A,Positive,Acting;Plot;Soundtrack,Vijay (Actor); N/A (Director); N/A (Studio),Excitement,N/A
+956_10.txt,Gilli,Positive,Acting;Soundtrack;Plot,Vijay (Actor); Trisha (Actor); N/A,Satisfaction,10/10
+957_10.txt,Big Fat Liar,Positive,Acting;Plot;N/A,Frankie Muniz (Actor); Amanda Bynes (Actor); N/A,Nostalgia,10/10
+959_8.txt,N/A,Positive,Plot;Screenplay,N/A,Satisfaction,8
+95_10.txt,The Hockey Sweater,Positive,Plot;N/A;N/A,Roch Carrier (Writer);N/A;N/A,Nostalgia,N/A
+960_8.txt,Big Fat Liar,Positive,Acting;Plot;Dialogue,Frankie Muniz (Actor); Amanda Bynes (Actor); Paul Giamatti (Actor); Shawn Levy (Director); Kenan Thompson (Actor); Jaleel White (Actor),Excitement,N/A
+961_8.txt,N/A,Positive,Plot;Acting,N/A,Satisfaction,N/A
+962_9.txt,"Fun movie! Great for the kids - they found it very entertaining. Somewhat predictable, but there are a few surprises. Great movie to watch if you're looking for something just to entertain (don't expect to be seeing a classic!)",Positive,Plot;Acting,N/A,Satisfaction,N/A
+963_8.txt,N/A,Positive,Acting;Plot,N/A,Satisfaction,N/A
+964_7.txt,Big Fat Liar,Positive,Acting;Plot,Frankie Muniz (Actor); Amanda Bynes (Actor); Universal Studios (Studio),Satisfaction,N/A
+965_9.txt,Big Fat Liar,Positive,Plot;Acting,Frankie Muniz (Actor); Amanda Bynes (Actor); Paul Giamatti (Actor),N/A,N/A
+966_10.txt,Big Fat Liar,Negative,Plot;Acting,Frankie Muniz (Actor); Paul Giamatti (Actor); Amanda Bynes (Actor); Shawn Levy (Director); 20th Century Fox (Studio),Satisfaction,N/A
+967_7.txt,Big Fat Liar,Positive,Acting;Plot;N/A,Frankie Muniz (Actor); Paul Giamatti (Actor); N/A,Excitement,N/A
+968_8.txt,Big Fat Liar,Positive,Acting;Plot;N/A,Frankie Muniz (Actor); Paul Weitz (Director); Marty Wolfe (Actor); Universal Pictures (Studio),Excitement,N/A
+969_9.txt,BIG FAT LIAR,Positive,Acting;Plot,Frankie Muniz (Actor); Amanda Bynes (Actor); Paul Giamatti (Actor); Jaleel White (Actor),Satisfaction,N/A
+96_10.txt,N/A,Positive,Animation;Nostalgia;Plot,N/A,Nostalgia,10
+970_7.txt,Big Fat Liar,Positive,Plot;Acting;N/A,Frankie Muniz (Actor); Paul Giamatti (Actor); Amanda Bynes (Actor); N/A,Satisfaction,N/A
+971_10.txt,Big Fat Liar,Positive,Plot;Soundtrack,Frankie Muniz (Actor); Amanda Bynes (Actor); Paul Weitz (Director); Universal Pictures (Studio),Excitement,N/A
+972_7.txt,N/A,Positive,Acting;Plot;Soundtrack,N/A,Satisfaction,N/A
+973_10.txt,Big Fat Liar,Positive,Plot;Acting;N/A,Marty Wolf (Producer); Jason Shepherd (Actor); Kaylee (Actor); Frank Jackson (Actor); Jaleel (Actor); Lester (Actor); Monty (Assistant); Rocco (Security Guard); N/A,Excitement,N/A
+974_10.txt,N/A,Positive,Plot;Acting,N/A,Excitement,N/A
+975_7.txt,N/A,Positive,Acting;Plot,Paul Giamatti (Actor); Lee Majors (Actor); Jaleel White (Actor); Amanda Bynes (Actor); Frankie Muniz (Actor),Nostalgia,N/A
+976_8.txt,Big Fat Liar,Positive,Plot,Frankie Muniz (Actor); Amanda Bynes (Actor); Paul Weitz (Director); Universal Pictures (Studio),Satisfaction,5.2/10
+977_9.txt,N/A,Positive,Acting;Plot,Paul Giamatti (Actor);N/A;N/A,Satisfaction,N/A
+978_7.txt,Agent Cody Banks,Positive,Acting;Plot,Frankie Muniz (Actor); Amanda Bynes (Actor); Paul Giamatti (Actor);,Excitement,N/A
+979_10.txt,Big Fat Liar,Positive,Acting;Plot;N/A,Amanda Bynes (Actor); Frankie Muniz (Actor); Lee Majors (Actor); Paul Weitz (Director); Universal Pictures (Studio),Excitement,N/A
+97_7.txt,N/A,Negative,Plot,Leonard Maltin (Critic); National Film Board of Canada (Studio),Disappointment,N/A
+980_7.txt,N/A,Positive,Acting;Plot;N/A,Malcolm in the Middle (TV Series); Lee Majors (Actor); Jamiel (Actor),Nostalgia,3.5/5
+981_9.txt,Big Fat Liar,Positive,Acting;Plot;N/A,Frankie Muniz (Actor); Sandra Oh (Actor); Paul Giamatti (Actor); Dan Schneider (Producer); Brian Robbins (Producer); Amanda Bynes (Actor); Amanda Detmer (Actor); Donald Faison (Actor); Jaleel White (Actor); Lee Majors (Actor); Nickelodeon (Studio); Universal Studios (Studio),Satisfaction,N/A
+982_8.txt,N/A,Positive,Acting;Plot,Amanda (Actor),Satisfaction,N/A
+983_7.txt,N/A,Positive,Acting;Plot;N/A,Frankie Muniz (Actor); Amanda Bines (Actor); N/A,Satisfaction,N/A
+984_8.txt,N/A,Positive,Acting;Plot;Special Effects,N/A,Nostalgia,N/A
+985_10.txt,N/A,Positive,Acting;Plot;Cinematography,N/A,Satisfaction,N/A
+986_10.txt,N/A,Positive,Acting;Cinematography,N/A,Satisfaction,N/A
+987_7.txt,N/A,Positive,Plot;Acting,N/A,Satisfaction,N/A
+988_8.txt,N/A,Positive,Cinematography;Acting;Plot,Keira Knightley (Actor); N/A (Director); N/A (Studio),Satisfaction,N/A
+989_7.txt,The  Edge of Love,Negative,Acting;Plot;Soundtrack,Keira Knightley (Actor); Dylan Thomas (Actor); Matthew Rhys (Actor),Disappointment,N/A
+98_9.txt,The Unkind Critic,Negative,Plot;Acting,N/A,Frustration,N/A
+990_7.txt,The Edge of Love,Positive,Cinematography;Acting;Plot,Dylan Thomas (Actor); Keira Knightley (Actor); Sienna Miller (Actor); Matthew Rhys (Actor); Joe Wright (Director),Nostalgia,N/A
+991_7.txt,Dylan Thomas: The Life and Times,Positive,Acting;Plot;Themes,N/A,Satisfaction,N/A
+992_7.txt,N/A,Positive,Acting;Plot;N/A,Cillian Murphy (Actor); Matthew Rhys (Actor); Sienna Miller (Actor); Keira Knightley (Actor); Suggs (Actor),Frustration,7/10
+993_8.txt,N/A,Positive,Acting;Plot;N/A,Kiera Knightley (Actor); Cillian Murphy (Actor); Dylan Thomas (Actor),Satisfaction,N/A
+994_7.txt,The Edge of Love,Positive,Acting;Plot;Cinematography,Matthew Rhys (Actor); Keira Knightley (Actor); Sienna Miller (Actor); Cillian Murphy (Actor); John Maybury (Director); N/A,Nostalgia,N/A
+995_7.txt,N/A,Positive,Acting;Cinematography;Plot,Keira Knightley (Actor); Sienna Miller (Actor); N/A,Frustration,N/A
+996_7.txt,N/A,Positive,Plot;Acting;N/A,Keira Knightley (Actor); Sienna Miller (Actor); Matthew Rhys (Actor),Nostalgia,N/A
+997_7.txt,The Edge of Love,Positive,Acting;Plot;Emotional Tone,Matthew Rhys (Actor); Sienna Miller (Actor); Keira Knightley (Actor); Cillian Murphy (Actor); John Maybury (Director),Satisfaction,N/A
+998_7.txt,N/A,Positive,Plot;Acting,Dylan Thomas (Actor); Vera (Actor),Nostalgia,N/A
+999_8.txt,The Edge Of Love,Positive,Acting;Cinematography;Plot,Sienna Miller (Actor); Keira Knightley (Actor); Matthew Rhys (Actor); Cillian Murphy (Actor); Jonathan Freeman (Cinematographer); John Maybury (Director),Satisfaction,N/A
+99_10.txt,N/A,Positive,Acting;Cinematography;Plot,Tom Noonan (Actor); Tobias Wolff (Writer),Satisfaction,N/A
+9_7.txt,The Guardian,Positive,Acting;Plot;Cinematography,Kevin Costner (Actor); Ashton Kutcher (Actor); Sela Ward (Actor),Satisfaction,N/A

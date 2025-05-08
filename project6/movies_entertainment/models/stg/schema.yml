@@ -1,0 +1,12 @@
+
+version: 2
+
+sources:
+  - name: movies_entertainment_raw
+    database: dylanericsp25
+    schema: movies_entertainment_raw  
+    tables:
+      - name: netflix_movies_and_tvshows
+      - name: box_office_gross
+      - name: imdb_reviews
+      - name: movies_metadata

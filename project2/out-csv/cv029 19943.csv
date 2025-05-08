@@ -1,0 +1,11 @@
+movie_name	sentiment	key_themes	named_entities	emotional_tone	star_rating	highlighted_quotes
+cv029 19943	"
+  ""key_themes"": [
+    ""Plot"""	"
+,  ,  ,  ,  , "", T, e, c, h, n, i, c, a, l,  , A, s, p, e, c, t, s, """	"
+,  ,  ,  ,  , "", H, i, s, t, o, r, i, c, a, l,  , C, o, n, t, e, x, t, """	"
+    ""Home Video Release""
+  ]"	"
+  ""named_entities"": [
+    ""Orson Welles"""	"
+ |   |   |   |   | "" | H | a | l |   | L | i | n | d | s | e | y | """

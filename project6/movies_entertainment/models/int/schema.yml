@@ -1,0 +1,151 @@
+version: 2
+
+models:
+  - name: Box_Office_Gross
+    config:
+      contract:
+        enforced: true
+    columns:
+      - name: id
+        data_type: string  
+        constraints:
+          - type: primary_key
+        tests:
+          - unique
+          - not_null
+      - name: brand
+        data_type: string
+        constraints:
+          - type: foreign_key
+            to: ref('Companies')
+            to_columns: [brand]
+            warn_unenforced: false ###
+        tests:
+          - not_null
+          - relationships:
+              to: ref('Companies')
+              field: brand
+      - name: number_1_release
+        data_type: string
+      - name: lifetime_gross
+        data_type: int64
+      - name: _data_source
+        data_type: string
+      - name: _load_time
+        data_type: timestamp
+
+  - name: Companies
+    config:
+      contract:
+        enforced: true
+    columns:
+      - name: brand
+        data_type: string
+        constraints:
+          - type: primary_key
+        tests:
+          - unique
+          - not_null
+      - name: releases
+        data_type: int64
+      - name: total
+        data_type: int64
+
+  - name: Imdb_Reviews
+    config:
+      contract:
+        enforced: true
+    columns:
+      - name: filename
+        data_type: string
+        constraints:
+          - type: primary_key
+        tests:
+          - unique
+          - not_null
+      - name: movie_name
+        data_type: string
+      - name: sentiment
+        data_type: string
+      - name: key_themes
+        data_type: string
+      - name: named_entities
+        data_type: string
+      - name: emotional_tone
+        data_type: string
+      - name: star_rating
+        data_type: string
+      - name: _data_source
+        data_type: string
+      - name: _load_time
+        data_type: timestamp
+
+
+
+  - name: Movies_Metadata
+    config:
+      contract:
+        enforced: true
+    columns:
+      - name: id
+        data_type: string 
+        constraints:
+          - type: primary_key
+        tests:
+          - not_null
+      - name: original_title
+        data_type: string
+      - name: genre
+        data_type: string
+      - name: budget
+        data_type: int64
+      - name: adult
+        data_type: string
+      - name: imdb_id
+        data_type: string
+      - name: original_language
+        data_type: string
+      - name: overview
+        data_type: string
+      - name: _data_source
+        data_type: string
+      - name: _load_time
+        data_type: timestamp
+
+
+  - name: Netflix_Movies_And_Tvshows
+    config:
+      contract:
+        enforced: true
+    columns:
+      - name: id
+        data_type: string
+        constraints:
+          - type: primary_key
+        tests:
+          - unique
+          - not_null
+      - name: title
+        data_type: string
+      - name: original_type
+        data_type: string
+      - name: original_director
+        data_type: string
+      - name: original_cast
+        data_type: string
+      - name: original_country
+        data_type: string
+      - name: original_date_added
+        data_type: date
+      - name: original_release_year
+        data_type: string
+      - name: original_rating
+        data_type: string
+      - name: original_duration
+        data_type: string
+      - name: original_data_source
+        data_type: string
+      - name: original_load_time
+        data_type: timestamp
+
+

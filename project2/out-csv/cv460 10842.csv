@@ -1,0 +1,11 @@
+movie_name	sentiment	key_themes	named_entities	emotional_tone	star_rating	highlighted_quotes
+cv460 10842	"
+  ""key_themes"": [
+    ""Plot"""	"
+,  ,  ,  ,  , "", A, c, t, i, n, g, """	"
+,  ,  ,  ,  , "", S, p, e, c, i, a, l,  , E, f, f, e, c, t, s, """	"
+    ""Humor"""	"
+    ""B-Movie Tropes""
+  ]"	"
+ |   |   | "" | n | a | m | e | d | _ | e | n | t | i | t | i | e | s | "" | : |   | [ | 
+ |   |   |   |   | "" | D | e | e | p |   | R | i | s | i | n | g | """

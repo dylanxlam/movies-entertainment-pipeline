@@ -1,0 +1,11 @@
+movie_name	sentiment	key_themes	named_entities	emotional_tone	star_rating	highlighted_quotes
+cv880 29629	"
+  ""key_themes"": [
+    ""Plot"""	"
+,  ,  ,  ,  , "", C, h, a, r, a, c, t, e, r,  , D, e, v, e, l, o, p, m, e, n, t, """	"
+,  ,  ,  ,  , "", A, c, t, i, n, g, """	"
+    ""Directing""
+  ]"	"
+  ""named_entities"": [
+    ""The Art of Woo"""	"
+ |   |   |   |   | "" | B | r | e | a | k | f | a | s | t |   | a | t |   | T | i | f | f | a | n | y | ' | s | """

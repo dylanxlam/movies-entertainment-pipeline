@@ -1,0 +1,11 @@
+movie_name	sentiment	key_themes	named_entities	emotional_tone	star_rating	highlighted_quotes
+cv066 10821	"
+  ""key_themes"": [
+    ""Acting"""	"
+,  ,  ,  ,  , "", P, l, o, t, """	"
+,  ,  ,  ,  , "", R, o, m, a, n, c, e, """	"
+    ""Adaptation""
+  ]"	"
+  ""named_entities"": [
+    ""Great Expectations (1998)"""	"
+ |   |   |   |   | "" | C | h | a | r | l | e | s |   | D | i | c | k | e | n | s | """
